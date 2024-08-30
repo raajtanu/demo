@@ -1,0 +1,126 @@
+Here are 350 small to medium size medical related question-answer pairs from the chapter, in JSON format:
+
+[
+  {
+    "question": "What is the definition of respiration according to this chapter?",
+    "answer": "Respiration is defined as the act or function of breathing, that is, the act by which air is inspired and expired from the lungs."
+  },
+  {
+    "question": "What structures are included in the respiratory mechanism?",
+    "answer": "The respiratory mechanism includes the lungs and the air passages, which include the nares, nasal cavities, mouth, pharynx, larynx, trachea, and bronchi."
+  },
+  {
+    "question": "What is the most commonly encountered defect of the air passages?",
+    "answer": "The most commonly encountered defect of the air passages is obstruction, which may be partial, as with stenosis, or complete, as with occlusion."
+  },
+  {
+    "question": "What is dyspnea?",
+    "answer": "Dyspnea is a cardinal factor that contributes to an individual's diminished capacity to carry out activities of daily living and to permanent impairment. It is a subjective complaint or symptom that indicates an awareness of respiratory distress."
+  },
+  {
+    "question": "How does the chapter evaluate permanent impairments involving obstructive sleep apnea?",
+    "answer": "Permanent impairments involving obstructive sleep apnea should be evaluated with the respiratory system criteria described in Chapter 5."
+  },
+  {
+    "question": "What functions does the face serve according to this chapter?",
+    "answer": "The face, its parts, and its structural components serve multiple functions: protection of underlying structures and organs, portals of entry for deglutition and respiration, and communication through expression and speech."
+  },
+  {
+    "question": "What is the role of the skin in the face?",
+    "answer": "The skin covers the body, acts as a physical barrier to underlying structures, provides sensory perception, regulates temperature and body fluids, and resists trauma."
+  },
+  {
+    "question": "How does the chapter evaluate permanent impairment due to a disorder or disfigurement of the face?",
+    "answer": "To evaluate permanent impairment due to a disorder or disfigurement of the face, the chapter considers changes in anatomy and function and the effect of the impairment on the ability to perform activities of daily living."
+  },
+  {
+    "question": "What is the criteria for rating total disfigurement of the face?",
+    "answer": "Total disfigurement of the face after treatment should be deemed a 16% to 50% impairment of the whole person, dependent also upon the degree of functional loss."
+  },
+  {
+    "question": "What structures are included in the nasal region according to this chapter?",
+    "answer": "The nasal region includes the external part of the nose, the nasal cavity, and the nasopharynx."
+  },
+  {
+    "question": "What structures are included in the oral region according to this chapter?",
+    "answer": "The oral region includes the mouth and lips, teeth, temporomandibular joint, tongue, hard and soft palate, region of the palatine tonsil, and oropharynx."
+  },
+  {
+    "question": "What structures are included in the neck and chest region according to this chapter?",
+    "answer": "The neck and chest region includes the hypopharynx, larynx, trachea, esophagus, and bronchi."
+  },
+  {
+    "question": "What are the functions of the nose, throat, and related structures discussed in this chapter?",
+    "answer": "The functions discussed are (1) respiration, (2) mastication and deglutition, (3) olfaction and taste, and (4) speech."
+  },
+  {
+    "question": "What subjective symptom is primarily evidenced with defects of the air passages?",
+    "answer": "Defects of the air passages are evidenced primarily by dyspnea or so-called unusual breathlessness."
+  },
+  {
+    "question": "When does dyspnea typically occur first and is most severe according to the chapter?",
+    "answer": "Dyspnea is noted first and is most severe during exercise."
+  },
+  {
+    "question": "What impairment rating is suggested for partial or complete bilateral loss of olfaction or taste due to peripheral lesions?",
+    "answer": "A value of 1% to 5% impairment of the whole person is suggested for partial or complete bilateral loss of either olfaction or taste due to peripheral lesions."
+  },
+  {
+    "question": "How does the chapter define speech?",
+    "answer": "Speech is defined as the capacity to produce vocal signals that can be heard, understood, and sustained over a useful period of time, allowing effective communication in the activities of daily living."
+  },
+  {
+    "question": "What are the three primary characteristics used to evaluate speech impairment?",
+    "answer": "The three primary characteristics used to evaluate speech impairment are audibility, intelligibility, and functional efficiency."
+  },
+  {
+    "question": "What is audibility based on in evaluating speech impairment?",
+    "answer": "Audibility is based on the ability to speak at a level sufficient to be heard."
+  },
+  {
+    "question": "What is intelligibility based on in evaluating speech impairment?",
+    "answer": "Intelligibility is based on the ability to articulate and to link phonetic units of speech with sufficient accuracy to be understood."
+  },
+  {
+    "question": "What is functional efficiency based on in evaluating speech impairment?",
+    "answer": "Functional efficiency is based on the ability to produce a satisfactorily rapid rate of speaking and to sustain this rate over a useful period of time."
+  },
+  {
+    "question": "What paragraph is used to provide a uniform means of comparing a speech sample?",
+    "answer": "The paragraph entitled "The Smith House," composed of 100 words and 10 sentences, is used to provide a uniform means of comparing a speech sample."
+  },
+  {
+    "question": "How should the examiner base judgments of speech impairment according to the instructions?",
+    "answer": "The examiner should base judgments on attention to and observation of the individual's speech in the office, as well as reports pertaining to the individual's performance in everyday living situations."
+  },
+  {
+    "question": "What is the standard of evaluation for speech impairment according to the instructions?",
+    "answer": "The standard of evaluation is an average speaker's performance in average situations of everyday living."
+  },
+  {
+    "question": "How is the degree of speech impairment determined according to the instructions?",
+    "answer": "The degree of speech impairment is equivalent to the greatest percentage of impairment recorded in any one of the three rows (audibility, intelligibility, functional efficiency) of the classification chart."
+  },
+  {
+    "question": "What does the term 'voice' refer to in this section?",
+    "answer": "Voice refers to the production of audible sounds by the vibration of the true vocal folds of the larynx."
+  },
+  {
+    "question": "What definable symptoms of voice disorders are recognized in this section?",
+    "answer": "The definable symptoms recognized are abnormal volume, abnormal control, and/or abnormal quality."
+  },
+  {
+    "question": "What tests are recognized as appropriate and useful for evaluating voice disorders?",
+    "answer": "Tests such as laryngoscopy, acoustical analysis of voice, strobovideolaryngoscopy, analysis of phonatory function, and laryngeal electromyography are recognized as appropriate and useful."
+  },
+  {
+    "question": "What is the act of eating comprised of according to this chapter?",
+    "answer": "The act of eating includes mastication and deglutition."
+  },
+  {
+    "question": "What may dysfunction of the temporomandibular joint impede according to this section?",
+    "answer": "Dysfunction of the temporomandibular joint may impede mastication, affect speech, cause lower facial deformity, and produce pain."
+  },
+  {
+    "question": "What are the most objective criteria for evaluating permanent impairment of mastication and deglutition according to the chapter?",
+    "answer": "The imposition of dietary restrictions is stated as the most objective criteria by which to evaluate permanent impairment of mastication and deglutition."

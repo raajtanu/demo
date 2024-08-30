@@ -1,0 +1,793 @@
+[
+  {
+    "question": "What are ear tumors in dogs?",
+    "answer": "Ear tumors in dogs are abnormal growths on or within the ear, which can be benign or malignant."
+  },
+  {
+    "question": "What is ear cancer in dogs?",
+    "answer": "Ear cancer in dogs refers to malignant tumors that grow rapidly, invade local tissues, and sometimes metastasize."
+  },
+  {
+    "question": "Which parts of the ear can be affected by ear cancer in dogs?",
+    "answer": "Ear cancer can affect the pinna, external ear canal, middle ear, and inner ear of dogs."
+  },
+  {
+    "question": "What are the common types of ear tumors on the pinna?",
+    "answer": "Common types of ear tumors on the pinna include mast cell tumors and squamous cell carcinoma."
+  },
+  {
+    "question": "What are the most common cancers affecting the external ear canal?",
+    "answer": "The most common cancers affecting the external ear canal are ceruminous gland adenocarcinoma and squamous cell carcinoma."
+  },
+  {
+    "question": "What are the symptoms of a tumor on the pinna?",
+    "answer": "Symptoms of a tumor on the pinna include a firm or soft mass, a wound associated with the mass, scratching at the pinna, and reacting painfully when the ear flap is touched."
+  },
+  {
+    "question": "What are the signs of tumors in the external ear canal?",
+    "answer": "Signs include a pink, white, or purple nodular mass, recurrent ear infections, inflamed or itchy ear, waxy or bloody discharge, foul odor, headshaking, and scratching at the ear."
+  },
+  {
+    "question": "How can tumors in the middle or inner ear affect a dog?",
+    "answer": "Tumors in the middle or inner ear can affect balance and neurologic function, causing symptoms like head tilt, circling, rolling, loss of balance, rapid eye movements, loss of hearing, and facial paralysis."
+  },
+  {
+    "question": "What are the possible causes of ear cancer in dogs?",
+    "answer": "Possible causes include recurrent or long-term inflammation and genetics."
+  },
+  {
+    "question": "Which breeds are predisposed to ear cancer affecting the external ear canal or inner ear?",
+    "answer": "Breeds predisposed to this type of ear cancer include Cocker Spaniels, German Shepherds, and Pugs."
+  },
+  {
+    "question": "Which breeds are more likely to develop cancer on their pinna?",
+    "answer": "Breeds prone to skin cancer, such as Staffordshire Bull Terriers, American Bulldogs, Boxers, and Boston Terriers, are more likely to develop cancer on their pinna."
+  },
+  {
+    "question": "How do veterinarians diagnose ear cancer in dogs?",
+    "answer": "Diagnosis involves physical exams, otoscopic exams, needle aspiration, surgical biopsy, and possibly a CT scan."
+  },
+  {
+    "question": "What is the treatment of choice for ear cancer in dogs?",
+    "answer": "The treatment of choice is usually surgical removal of the tumor."
+  },
+  {
+    "question": "What is a total ear canal ablation with lateral bulla osteotomy (TECA-LBO)?",
+    "answer": "TECA-LBO is a surgical procedure that involves removing the entire ear canal and opening the tympanic bulla to remove secretory structures."
+  },
+  {
+    "question": "When is radiation therapy recommended for ear cancer in dogs?",
+    "answer": "Radiation therapy is recommended for tumors that are too extensive for surgery, including those in the middle or inner ear."
+  },
+  {
+    "question": "When might chemotherapy be recommended for ear cancer in dogs?",
+    "answer": "Chemotherapy may be recommended for tumors that have metastasized."
+  },
+  {
+    "question": "What supportive care is needed for dogs with ear cancer?",
+    "answer": "Supportive care includes pain medications and antibiotics to manage infections."
+  },
+  {
+    "question": "How do dogs typically recover from surgery for ear cancer?",
+    "answer": "Most dogs show improvement in pain levels within a few days and adjust to life with one functioning ear."
+  },
+  {
+    "question": "What are the potential side effects of ear cancer surgery?",
+    "answer": "Potential side effects include facial paralysis and balance issues."
+  },
+  {
+    "question": "How can you prevent a dog from scratching at their incision after ear cancer surgery?",
+    "answer": "Ensure they wear a recovery cone."
+  },
+  {
+    "question": "What should you do if your dog has balance issues after ear cancer surgery?",
+    "answer": "Keep your pet away from stairs and other areas where they may fall, and do not let them outside unattended."
+  },
+  {
+    "question": "What is the prognosis for dogs with ear cancer affecting the pinna or external ear canal?",
+    "answer": "Surgery is often curative for cancers affecting the pinna or external ear canal."
+  },
+  {
+    "question": "Why are annual exams important for detecting ear cancer in dogs?",
+    "answer": "Annual exams can help detect ear tumors early during routine physical and otoscopic exams."
+  },
+  {
+    "question": "How does chronic inflammation contribute to ear cancer in dogs?",
+    "answer": "Chronic inflammation can eventually lead to the development of cancer."
+  },
+  {
+    "question": "What are mast cell tumors?",
+    "answer": "Mast cell tumors are tumors of a specific white blood cell found in connective tissue, especially under the skin."
+  },
+  {
+    "question": "What is squamous cell carcinoma?",
+    "answer": "Squamous cell carcinoma is cancer of the cells that form under the skin surface."
+  },
+  {
+    "question": "What is ceruminous gland adenocarcinoma?",
+    "answer": "Ceruminous gland adenocarcinoma is cancer of the specialized glands that secrete materials found in ear wax."
+  },
+  {
+    "question": "What are the roles of the middle and inner ear in dogs?",
+    "answer": "The middle ear transmits sound to the inner ear, which contains nerves for hearing and receptors for balance."
+  },
+  {
+    "question": "What are the symptoms of Horner syndrome in dogs with ear cancer?",
+    "answer": "Symptoms include different pupil sizes, drooping of the upper lid, sunken eye, and raised third eyelid."
+  },
+  {
+    "question": "How can a CT scan help in the treatment of ear cancer in dogs?",
+    "answer": "A CT scan helps determine the extent of the tumor and assists with surgical planning."
+  },
+
+
+  {
+    "question": "What is hyperandrogenism in dogs?",
+    "answer": "Hyperandrogenism is a rare syndrome characterized by elevated levels of masculinizing sex hormones, such as testosterone, in the blood serum."
+  },
+  {
+    "question": "Which dogs are most commonly affected by hyperandrogenism?",
+    "answer": "Hyperandrogenism is most frequently documented in intact male dogs."
+  },
+  {
+    "question": "What hormones are involved in hyperandrogenism in dogs?",
+    "answer": "Androgens like testosterone, androsterone, and dihydrotestosterone are involved."
+  },
+  {
+    "question": "Where are androgens produced in male dogs?",
+    "answer": "Androgens are produced by the interstitial cells of the testes."
+  },
+  {
+    "question": "What are some symptoms of hyperandrogenism in female dogs?",
+    "answer": "Symptoms include vaginitis, irregular estrous cycles, prolonged anestrus, virilization, clitoral hypertrophy, and abnormal sexual differentiation."
+  },
+  {
+    "question": "What are some symptoms of hyperandrogenism in male dogs?",
+    "answer": "Symptoms include prostatomegaly, abnormalities of sperm morphology, circumanal gland hyperplasia, prepubertal conditions, and premature growth plate closure."
+  },
+  {
+    "question": "Which breeds are more prone to hyperandrogenism?",
+    "answer": "Pomeranians, Chow Chows, Poodles, Keeshonds, and Samoyeds are more prone to hyperandrogenism."
+  },
+  {
+    "question": "What are the causes of hyperandrogenism in dogs?",
+    "answer": "Causes include external administration of androgens, increased internal androgen secretion, and exposure of a female fetus to androgens in utero."
+  },
+  {
+    "question": "How is hyperandrogenism diagnosed in dogs?",
+    "answer": "Diagnosis involves a physical exam, blood tests, urinalysis, abdominal imaging, karyotype analysis, and hormone concentration tests."
+  },
+  {
+    "question": "What is the treatment for hyperandrogenism in dogs?",
+    "answer": "Treatment includes surgical neutering, excision of testosterone-secreting masses, controlled destruction of the adrenal gland, and administration of growth hormones."
+  },
+  {
+    "question": "What are some behavioral changes seen in dogs with hyperandrogenism?",
+    "answer": "Behavioral changes can include increased aggression."
+  },
+  {
+    "question": "What skin problems are associated with hyperandrogenism in dogs?",
+    "answer": "Skin problems include hair loss, dry brittle hair, hyperpigmentation, and dandruff."
+  },
+  {
+    "question": "What is virilization in female dogs with hyperandrogenism?",
+    "answer": "Virilization is the development of male characteristics in a female dog."
+  },
+  {
+    "question": "What abnormalities can occur in the reproductive tract of dogs with hyperandrogenism?",
+    "answer": "Abnormalities include clitoral hypertrophy in females and prostatomegaly in males."
+  },
+  {
+    "question": "What is the role of the adrenal cortex in hyperandrogenism?",
+    "answer": "The adrenal cortex can produce androgens, which may contribute to hyperandrogenism if dysfunctional."
+  },
+  {
+    "question": "Can hyperandrogenism be caused by synthetic androgens?",
+    "answer": "Yes, hyperandrogenism can occur with the administration of synthetic androgens."
+  },
+  {
+    "question": "What diagnostic imaging is used to visualize hyperandrogenism in dogs?",
+    "answer": "Abdominal radiography or ultrasound imaging is used."
+  },
+  {
+    "question": "What is a karyotype analysis used for in diagnosing hyperandrogenism?",
+    "answer": "Karyotype analysis is used to detect intersex/gonadal sex abnormalities."
+  },
+  {
+    "question": "What hormonal tests are conducted for diagnosing hyperandrogenism?",
+    "answer": "Tests include serum testosterone concentration and adrenocorticotropic hormone (ACTH) stimulation tests."
+  },
+  {
+    "question": "What is the cortisol-creatinine ratio test used for?",
+    "answer": "It is used to rule out hyperadrenocorticism."
+  },
+  {
+    "question": "How is adrenal gland dysfunction managed in hyperandrogenism?",
+    "answer": "Controlled destruction of the adrenal gland may be undertaken."
+  },
+  {
+    "question": "What is the significance of bilateral symmetrical hair loss in hyperandrogenism?",
+    "answer": "It indicates a pattern of hair loss associated with hormonal imbalances."
+  },
+  {
+    "question": "What is the prognosis for dogs after treatment for hyperandrogenism?",
+    "answer": "The prognosis can be positive with appropriate treatment and follow-up care."
+  },
+  {
+    "question": "How often should follow-up appointments be scheduled after treatment?",
+    "answer": "Regular follow-up appointments should be scheduled to monitor progress and manage complications."
+  },
+  {
+    "question": "What is the role of growth hormones in the treatment of hyperandrogenism?",
+    "answer": "Growth hormones may be administered depending on the underlying cause."
+  },
+  {
+    "question": "What might be visualized with abdominal radiography or ultrasound in dogs with hyperandrogenism?",
+    "answer": "Masses or gonadal tissue may be visualized."
+  },
+  {
+    "question": "Why is a complete history important for diagnosing hyperandrogenism?",
+    "answer": "A thorough history helps identify potential genetic links and onset of symptoms."
+  },
+  {
+    "question": "What are the common signs of hyperandrogenism in female dogs?",
+    "answer": "Common signs include irregular estrous cycles and prolonged anestrus."
+  },
+  {
+    "question": "What are the common signs of hyperandrogenism in male dogs?",
+    "answer": "Common signs include abnormalities of sperm morphology and oversized prostate."
+  },
+  {
+    "question": "What behavioral changes may indicate hyperandrogenism in dogs?",
+    "answer": "Increased aggression is a notable behavioral change."
+  },
+
+
+    {
+      "question": "What is neonatal mortality in puppies?",
+      "answer": "Neonatal mortality, or fading syndrome, involves the death of puppies from birth to two weeks of age."
+    },
+    {
+      "question": "What are the symptoms of fading puppy syndrome?",
+      "answer": "Symptoms include weakness, low birth weight, weight loss, failure to gain weight, decreased activity, poor appetite, constant vocalizations, diarrhea, and low body temperature."
+    },
+    {
+      "question": "What factors contribute to neonatal mortality in puppies?",
+      "answer": "Factors include infections, environmental issues, nutritional problems, metabolic issues, congenital defects, and dam-related issues such as difficult birth or inadequate milk."
+    },
+    {
+      "question": "How can environmental factors impact neonatal puppies?",
+      "answer": "Temperature and humidity extremes, as well as poor sanitation, can adversely affect neonatal puppies."
+    },
+    {
+      "question": "Why is glucose control important for neonatal puppies?",
+      "answer": "Neonatal puppies have poor glucose control, and blood glucose levels can fall below normal, leading to hypoglycemia."
+    },
+    {
+      "question": "How can congenital defects affect neonatal puppies?",
+      "answer": "Congenital defects can make puppies more susceptible to infections and other health issues."
+    },
+    {
+      "question": "What should be done if a puppy has a low body temperature?",
+      "answer": "The puppy should be slowly warmed to a normal body temperature over several hours to avoid shocking its system."
+    },
+    {
+      "question": "How is hypoglycemia treated in neonatal puppies?",
+      "answer": "Fluids with glucose are used for fluid therapy to correct low blood glucose levels."
+    },
+    {
+      "question": "What should be done if a puppy is not suckling properly?",
+      "answer": "Do not attempt to feed the puppy at home; seek advice from a veterinarian."
+    },
+    {
+      "question": "How can a puppy's hydration status be checked?",
+      "answer": "Check the puppy's urine color and mouth for dryness. Dark yellow urine and dry mouth indicate dehydration."
+    },
+    {
+      "question": "What is the significance of a complete blood count (CBC) in diagnosing fading puppy syndrome?",
+      "answer": "A CBC can reveal anemia, changes in white blood cell counts, and other indicators of infection."
+    },
+    {
+      "question": "Why is it important to monitor a puppy's weight daily?",
+      "answer": "Daily weight monitoring helps ensure the puppy is gaining weight properly and receiving adequate nutrition."
+    },
+    {
+      "question": "What are some dam-related causes of neonatal mortality?",
+      "answer": "Causes include difficult birth, prolonged labor, problems with milk letdown, injury, and inadequate nutrition."
+    },
+    {
+      "question": "How can infections contribute to neonatal mortality?",
+      "answer": "Infections can overwhelm the immature immune system of neonatal puppies, leading to severe illness or death."
+    },
+    {
+      "question": "What role does oxygen supplementation play in treating neonatal puppies?",
+      "answer": "Oxygen supplementation may be necessary to support the puppy's respiratory function."
+    },
+    {
+      "question": "What is the importance of a biochemistry profile in diagnosing fading puppy syndrome?",
+      "answer": "A biochemistry profile can indicate low glucose levels and other changes depending on affected organs."
+    },
+    {
+      "question": "How is antibiotic therapy used in treating neonatal puppies?",
+      "answer": "Antibiotics are used to treat bacterial infections that may be present in neonatal puppies."
+    },
+    {
+      "question": "What should be done if a puppy shows signs of dehydration?",
+      "answer": "Contact a veterinarian for advice if the puppy shows signs of dehydration."
+    },
+    {
+      "question": "Why is it important to follow the exact prescribed dosage and time for medications?",
+      "answer": "Neonatal puppies have great variations in drug metabolism and excretion, so exact dosages are crucial for their recovery."
+    },
+    {
+      "question": "What are some symptoms of hypoglycemia in neonatal puppies?",
+      "answer": "Symptoms of hypoglycemia include weakness, lethargy, and seizures."
+    },
+    {
+      "question": "How can poor sanitation affect neonatal puppies?",
+      "answer": "Poor sanitation can lead to infections and other health problems in neonatal puppies."
+    },
+    {
+      "question": "What is the role of fecal examination in diagnosing fading puppy syndrome?",
+      "answer": "Fecal examination tests for the presence of parasites that may be affecting the puppy."
+    },
+    {
+      "question": "Why is proper nutrition essential for neonatal puppies?",
+      "answer": "Proper nutrition is essential for growth, immune system development, and overall health of neonatal puppies."
+    },
+    {
+      "question": "What should be monitored in a dam to ensure proper care of neonatal puppies?",
+      "answer": "Ensure the dam is properly nursing the puppies and monitor her overall health and milk production."
+    },
+    {
+      "question": "What are the potential consequences of not treating neonatal puppies for low glucose levels?",
+      "answer": "Untreated hypoglycemia can lead to severe health issues and potentially death."
+    },
+    {
+      "question": "How can temperature extremes impact neonatal puppies?",
+      "answer": "Temperature extremes can cause fluctuations in body temperature, leading to hypothermia or hyperthermia."
+    },
+    {
+      "question": "What are some metabolic factors that can affect neonatal puppies?",
+      "answer": "Metabolic factors include poor glucose control and difficulty regulating body temperature."
+    },
+    {
+      "question": "How can injury to the dam affect neonatal puppies?",
+      "answer": "Injury to the dam can impact her ability to care for and nurse the puppies properly."
+    },
+    {
+      "question": "What are the benefits of good home care for neonatal puppies?",
+      "answer": "Good home care improves the chances of quick and effective healing for neonatal puppies."
+    },
+    {
+      "question": "What are the signs that a neonatal puppy might have an infection?",
+      "answer": "Signs of infection include fever, lethargy, poor appetite, and abnormal blood test results."
+    },
+  
+
+ {
+      "question": "What are the common signs of allergies in dogs?",
+      "answer": "Common signs include itching, licking, hair loss, rashes, face rubbing, and recurrent ear infections."
+    },
+    {
+      "question": "What are the main types of allergies in dogs?",
+      "answer": "The main types are flea allergies, seasonal/environmental allergies, and food allergies."
+    },
+    {
+      "question": "What causes flea allergies in dogs?",
+      "answer": "Flea allergies are caused by the saliva of fleas, which triggers an allergic reaction in some dogs."
+    },
+    {
+      "question": "What are the symptoms of flea allergy dermatitis in dogs?",
+      "answer": "Symptoms include itchy skin, especially at the base of the tail, and irritation."
+    },
+    {
+      "question": "What triggers seasonal/environmental allergies in dogs?",
+      "answer": "Common triggers include pollens, plant or animal fibers, dust mites, and mold spores."
+    },
+    {
+      "question": "What are the signs of seasonal/environmental allergies in dogs?",
+      "answer": "Signs include scratching, licking paws, face rubbing, red skin, fur loss, and recurrent skin or ear infections."
+    },
+    {
+      "question": "What is the most common food allergy in dogs?",
+      "answer": "The most common food allergy in dogs is to a protein source in the diet."
+    },
+    {
+      "question": "What are the symptoms of food allergies in dogs?",
+      "answer": "Symptoms include itchy skin, scratching, licking, face rubbing, GI signs like diarrhea, vomiting, and increased bowel movements."
+    },
+    {
+      "question": "Can dogs be allergic to grains?",
+      "answer": "Yes, some dogs can develop allergies to grains."
+    },
+    {
+      "question": "How are seasonal/environmental allergies tested in dogs?",
+      "answer": "Allergy testing for seasonal/environmental allergies can be done via skin testing or blood testing."
+    },
+    {
+      "question": "Is there an accurate allergy test for food allergies in dogs?",
+      "answer": "No, studies have shown that blood testing and skin testing for food allergies are not accurate in dogs."
+    },
+    {
+      "question": "What should be ruled out before performing allergy testing in dogs?",
+      "answer": "Other causes for allergy symptoms should be ruled out before performing allergy testing."
+    },
+    {
+      "question": "What is the most accurate type of allergy test for dogs?",
+      "answer": "Skin testing is the most accurate type of allergy test for dogs."
+    },
+    {
+      "question": "What is the treatment for flea allergies in dogs?",
+      "answer": "Treatment includes strict flea control and reducing symptoms with medications like topical treatments or oral chews."
+    },
+    {
+      "question": "What is a hypoallergenic diet?",
+      "answer": "A hypoallergenic diet includes limited ingredients with uncommon protein sources or hydrolyzed proteins."
+    },
+    {
+      "question": "How long should a hypoallergenic diet be fed to determine food allergies?",
+      "answer": "A hypoallergenic diet should be fed for at least 12 weeks."
+    },
+    {
+      "question": "What are some oral medications for treating seasonal/environmental allergies in dogs?",
+      "answer": "Oral medications include Apoquel, Atopica, and antihistamines."
+    },
+    {
+      "question": "What is Cytopoint?",
+      "answer": "Cytopoint is an injectable medication used to help control itching in dogs with allergies."
+    },
+    {
+      "question": "What are the benefits of frequent bathing for dogs with allergies?",
+      "answer": "Frequent bathing helps remove allergens from the skin and coat, reducing allergy symptoms."
+    },
+    {
+      "question": "What is immunotherapy for dog allergies?",
+      "answer": "Immunotherapy, or allergy shots, aims to make the immune system less reactive to allergens."
+    },
+    {
+      "question": "What is the success rate of immunotherapy in dogs?",
+      "answer": "The success rate of immunotherapy in dogs is 60-70%."
+    },
+    {
+      "question": "What can be done if a dog is allergic to multiple substances?",
+      "answer": "Symptomatic treatment and possibly immunotherapy can be used to manage allergies in dogs allergic to multiple substances."
+    },
+    {
+      "question": "Why should steroids not be used long-term for allergy management in dogs?",
+      "answer": "Steroids should not be used long-term due to the risk of significant side effects."
+    },
+    {
+      "question": "What are some common allergens in the environment that affect dogs?",
+      "answer": "Common environmental allergens include pollens, dust mites, and mold spores."
+    },
+    {
+      "question": "What should be done if a dog has severe flea allergies?",
+      "answer": "Strict flea control and environmental treatment for fleas are required."
+    },
+    {
+      "question": "Can dogs outgrow their allergies?",
+      "answer": "No, allergies in dogs tend to worsen as they get older."
+    },
+    {
+      "question": "How can flea control be maintained in dogs with flea allergies?",
+      "answer": "Use highly effective flea control products and treat the dog's environment for fleas."
+    },
+    {
+      "question": "Can over-the-counter foods be used for a hypoallergenic diet trial?",
+      "answer": "No, over-the-counter foods are not recommended for a proper food trial."
+    },
+    {
+      "question": "What are the signs of gastrointestinal (GI) issues in dogs with food allergies?",
+      "answer": "GI signs include diarrhea, vomiting, and increased number of bowel movements per day."
+    },
+    {
+      "question": "What is the best long-term approach to allergy control in dogs?",
+      "answer": "Immunotherapy is the best long-term approach, especially in younger dogs with year-round symptoms."
+    },
+    {
+    "question": "What is the average weight range of a German Shepherd?",
+    "answer": "The average weight range of a German Shepherd is 50–90 pounds."
+  },
+  {
+    "question": "How tall do German Shepherds typically get?",
+    "answer": "German Shepherds typically reach a height of 22–26 inches."
+  },
+  {
+    "question": "What group do German Shepherds belong to?",
+    "answer": "German Shepherds belong to the herding group."
+  },
+  {
+    "question": "What are some common roles for German Shepherds in the working world?",
+    "answer": "German Shepherds are commonly used for patrolling, bomb sniffing, and search and rescue in the military and police."
+  },
+  {
+    "question": "How long do German Shepherds usually live?",
+    "answer": "The average lifespan of a German Shepherd is 7–10 years."
+  },
+  {
+    "question": "What are German Shepherds prone to in terms of health issues?",
+    "answer": "German Shepherds are prone to degenerative myelopathy, elbow and hip dysplasia, cancer, bloat and GDV, allergies, heart disease, EPI, and pannus."
+  },
+  {
+    "question": "What is degenerative myelopathy?",
+    "answer": "Degenerative myelopathy is a neurologic disorder affecting the spinal cord, leading to paralysis of the back legs."
+  },
+  {
+    "question": "What is the treatment for degenerative myelopathy?",
+    "answer": "There is no treatment for degenerative myelopathy, but physical therapy can help strengthen muscles."
+  },
+  {
+    "question": "What is elbow dysplasia?",
+    "answer": "Elbow dysplasia is a degenerative joint disease causing lifelong pain in the front limbs."
+  },
+  {
+    "question": "How is hip dysplasia treated in German Shepherds?",
+    "answer": "Treatment for hip dysplasia includes weight loss, reduced activity, joint supplements, anti-inflammatory and pain medications, or surgery."
+  },
+  {
+    "question": "What is gastric dilation-volvulus (GDV)?",
+    "answer": "Gastric dilation-volvulus (GDV) is a life-threatening condition where the stomach enlarges with gas and twists upon itself."
+  },
+  {
+    "question": "What are the signs of GDV?",
+    "answer": "Signs of GDV include a distended stomach, abdominal pain, restlessness, retching without producing vomit, and collapse."
+  },
+  {
+    "question": "What procedure can help prevent GDV in German Shepherds?",
+    "answer": "A gastropexy procedure can help prevent GDV by permanently attaching the stomach to the body wall."
+  },
+  {
+    "question": "What are the common types of cancer in German Shepherds?",
+    "answer": "Common cancers include hemangiosarcoma, bone cancer, lung cancer, and intestinal cancers."
+  },
+  {
+    "question": "What is exocrine pancreatic insufficiency (EPI)?",
+    "answer": "EPI is a condition where the pancreas does not produce enzymes and hormones normally, leading to digestive issues."
+  },
+  {
+    "question": "How is EPI managed in German Shepherds?",
+    "answer": "EPI is managed with lifelong pancreatic enzyme supplements."
+  },
+  {
+    "question": "What are the symptoms of allergies in German Shepherds?",
+    "answer": "Symptoms of allergies include itchy skin, skin infections, ear infections, vomiting, diarrhea, and weight loss."
+  },
+  {
+    "question": "What heart conditions are common in German Shepherds?",
+    "answer": "Common heart conditions include dilated cardiomyopathy (DCM), valvular disease, and heart murmurs."
+  },
+  {
+    "question": "What should German Shepherds eat?",
+    "answer": "German Shepherds require a high-quality, age-appropriate diet, preferably one approved by the Association of American Feed Control Officials (AAFCO)."
+  },
+  {
+    "question": "How often should German Shepherds be fed?",
+    "answer": "German Shepherd puppies should be fed three to four times per day, and adult dogs should be fed twice a day."
+  },
+  {
+    "question": "What is important for German Shepherd training?",
+    "answer": "Consistency, positive reinforcement, and a reward system are important for German Shepherd training."
+  },
+  {
+    "question": "What are some fun activities for German Shepherds?",
+    "answer": "Fun activities include herding, agility, tracking, nose work, and dock diving."
+  },
+  {
+    "question": "How often should German Shepherds be bathed?",
+    "answer": "German Shepherds should be bathed a few times a year."
+  },
+  {
+    "question": "How can German Shepherds' excessive shedding be managed?",
+    "answer": "Excessive shedding can be managed by brushing them every few days and during high-shedding periods."
+  },
+  {
+    "question": "How should German Shepherds' ears be cleaned?",
+    "answer": "Ears should be cleaned only if there is visible debris or an issue, to avoid bacterial growth and infections."
+  },
+  {
+    "question": "What grooming does a German Shepherd's coat require?",
+    "answer": "Their coat requires regular brushing to remove loose hairs and manage shedding."
+  },
+  {
+    "question": "How should German Shepherds' nails be cared for?",
+    "answer": "German Shepherds require regular nail trims unless their daily routine wears the claws down naturally."
+  },
+  {
+    "question": "Are German Shepherds good family dogs?",
+    "answer": "Yes, German Shepherds are good with kids if appropriately trained and well socialized."
+  },
+  {
+    "question": "Are German Shepherds smart dogs?",
+    "answer": "Yes, German Shepherds are considered to be one of the smartest dog breeds."
+  },
+  {
+    "question": "How much do German Shepherds cost?",
+    "answer": "The price of a German Shepherd can range from $2,000–$4,000 from a reputable breeder."
+  },
+  {
+    "question": "What is the American Eskimo Dog's alternative name?",
+    "answer": "The American Eskimo Dog is also known as the Eskie."
+  },
+  {
+    "question": "What sizes do American Eskimo Dogs come in?",
+    "answer": "American Eskimo Dogs come in three sizes: toy, miniature, and standard."
+  },
+  {
+    "question": "How tall are Toy American Eskimo Dogs?",
+    "answer": "Toy American Eskimo Dogs stand 9–12 inches tall."
+  },
+  {
+    "question": "How much do Toy American Eskimo Dogs weigh?",
+    "answer": "Toy American Eskimo Dogs weigh 6–10 pounds."
+  },
+  {
+    "question": "How tall are Miniature American Eskimo Dogs?",
+    "answer": "Miniature American Eskimo Dogs stand 12–15 inches tall."
+  },
+  {
+    "question": "How much do Miniature American Eskimo Dogs weigh?",
+    "answer": "Miniature American Eskimo Dogs weigh 10–20 pounds."
+  },
+  {
+    "question": "How tall are Standard American Eskimo Dogs?",
+    "answer": "Standard American Eskimo Dogs stand 15–19 inches tall."
+  },
+  {
+    "question": "How much do Standard American Eskimo Dogs weigh?",
+    "answer": "Standard American Eskimo Dogs weigh up to 30 pounds."
+  },
+  {
+    "question": "What is the origin of the American Eskimo Dog?",
+    "answer": "The American Eskimo Dog descended from the German Spitz dog breed."
+  },
+  {
+    "question": "What was the American Eskimo Dog previously known as?",
+    "answer": "The American Eskimo Dog was previously known as the American Spitz."
+  },
+  {
+    "question": "What is the average lifespan of an American Eskimo Dog?",
+    "answer": "The average lifespan of an American Eskimo Dog is 13–15 years."
+  },
+  {
+    "question": "What kind of coat does an American Eskimo Dog have?",
+    "answer": "The American Eskimo Dog has a striking white or cream double coat."
+  },
+  {
+    "question": "Do American Eskimo Dogs require professional grooming?",
+    "answer": "Most American Eskimo Dogs do not need extensive professional grooming."
+  },
+  {
+    "question": "How often should an American Eskimo Dog be brushed?",
+    "answer": "An American Eskimo Dog should be brushed at least twice a week."
+  },
+  {
+    "question": "What type of exercise do American Eskimo Dogs need?",
+    "answer": "American Eskimo Dogs need lots of physical exercise and mental stimulation."
+  },
+  {
+    "question": "Are American Eskimo Dogs intelligent?",
+    "answer": "Yes, American Eskimo Dogs are known to be intelligent and alert."
+  },
+  {
+    "question": "What is progressive retinal atrophy (PRA)?",
+    "answer": "Progressive retinal atrophy (PRA) is a group of diseases that causes the breakdown of the photoreceptor cells on the retina, leading to blindness."
+  },
+  {
+    "question": "How is progressive retinal atrophy inherited?",
+    "answer": "Progressive retinal atrophy is an inherited disease in most cases."
+  },
+  {
+    "question": "What is the treatment for progressive retinal atrophy?",
+    "answer": "There are currently no effective treatments for progressive retinal atrophy."
+  },
+  {
+    "question": "What is dental disease in American Eskimo Dogs?",
+    "answer": "Dental disease in American Eskimo Dogs involves bacterial tartar and plaque leading to inflammation of the tissues around the teeth and eventual tooth and bone decay."
+  },
+  {
+    "question": "How can dental disease be prevented in American Eskimo Dogs?",
+    "answer": "Dental disease can be prevented with daily tooth brushing using dog-specific toothpaste, and with routine dental cleanings."
+  },
+  {
+    "question": "What is patellar luxation?",
+    "answer": "Patellar luxation is a condition where the kneecap moves outside of its assigned groove when the knee is flexed, causing discomfort and potential arthritis."
+  },
+  {
+    "question": "What are signs of patellar luxation in American Eskimo Dogs?",
+    "answer": "Signs of patellar luxation include skipping, bunny-hopping, limping on three legs, and a cracking or popping noise when the knee is bent."
+  },
+  {
+    "question": "What is hip dysplasia?",
+    "answer": "Hip dysplasia is a condition where the hip joint doesn’t develop properly, causing a loose joint, which can lead to degenerative joint disease and osteoarthritis."
+  },
+  {
+    "question": "How is hip dysplasia managed in American Eskimo Dogs?",
+    "answer": "Hip dysplasia is managed with maintaining a lean body condition, low-intensity exercise, omega-3 fatty acids, glucosamine, chondroitin supplementation, and in severe cases, surgery."
+  },
+  {
+    "question": "What is epilepsy in American Eskimo Dogs?",
+    "answer": "Epilepsy is a brain disorder that causes seizures and is more common in American Eskimo Dogs compared to other breeds."
+  },
+  {
+    "question": "How is epilepsy diagnosed in American Eskimo Dogs?",
+    "answer": "Epilepsy is diagnosed after eliminating other causes of seizures through tests like bloodwork, urinalysis, X-rays, MRI, or CT-scans."
+  },
+  {
+    "question": "What diet is recommended for American Eskimo Dogs?",
+    "answer": "American Eskimo Dogs should be fed a commercial kibble or wet food compliant with the recommendations of the Association of American Feed Control Officials (AAFCO)."
+  },
+  {
+    "question": "How often should American Eskimo Dogs be fed?",
+    "answer": "American Eskimo Dogs do best with two to three measured feedings per day."
+  },
+  {
+    "question": "How should American Eskimo puppies be fed?",
+    "answer": "American Eskimo puppies should eat three to four small meals per day on a regular schedule."
+  },
+  {
+    "question": "What nutritional balance do American Eskimo Dogs require?",
+    "answer": "American Eskimo Dogs require a balance of carbohydrates, proteins, and fats to stay healthy and lean."
+  },
+  {
+    "question": "What additional supplements might benefit American Eskimo Dogs?",
+    "answer": "American Eskimo Dogs might benefit from omega-3 fatty acids, which support skin, coat, kidneys, joints, and heart health."
+  },
+  {
+    "question": "How should American Eskimo Dogs be socialized?",
+    "answer": "American Eskimo Dogs should be socialized early with exposure to various people, pets, and environments."
+  },
+  {
+    "question": "What are common behavioral issues in under-exercised American Eskimo Dogs?",
+    "answer": "Under-exercised American Eskimo Dogs may become destructive, bark excessively, or develop separation anxiety."
+  },
+  {
+    "question": "What training methods work best for American Eskimo Dogs?",
+    "answer": "American Eskimo Dogs respond well to training games and positive reinforcement methods."
+  },
+  {
+    "question": "What are fun activities for American Eskimo Dogs?",
+    "answer": "Fun activities for American Eskimo Dogs include obedience training, agility, learning tricks, puzzle games, and scent walks."
+  },
+  {
+    "question": "How often should American Eskimo Dogs be bathed?",
+    "answer": "American Eskimo Dogs should be bathed every few months."
+  },
+  {
+    "question": "How should an American Eskimo Dog's coat be cared for?",
+    "answer": "An American Eskimo Dog's coat should be brushed at least twice a week, more frequently during heavy shedding periods."
+  },
+  {
+    "question": "What special eye care do American Eskimo Dogs need?",
+    "answer": "American Eskimo Dogs do not need special eye care but may require attention if tear staining or vision changes occur."
+  },
+  {
+    "question": "How often should an American Eskimo Dog's ears be cleaned?",
+    "answer": "An American Eskimo Dog's ears should be cleaned every two weeks."
+  },
+  {
+    "question": "Do American Eskimo Dogs make good family pets?",
+    "answer": "Yes, American Eskimo Dogs can be wonderful family pets with proper care, exercise, and early socialization."
+  },
+  {
+    "question": "Are American Eskimo Dogs easy to train?",
+    "answer": "Yes, American Eskimo Dogs are generally easy to train due to their intelligence and eagerness to please."
+  },
+  {
+    "question": "What are common health issues in American Eskimo Dogs?",
+    "answer": "Common health issues include progressive retinal atrophy, dental disease, patellar luxation, hip dysplasia, and epilepsy."
+  },
+  {
+    "question": "What is the history of the American Eskimo Dog?",
+    "answer": "The American Eskimo Dog was originally used to herd and guard livestock, and became popular as a circus performing breed in the late 1800s."
+  },
+  {
+    "question": "What are the characteristics of an American Eskimo Dog's personality?",
+    "answer": "American Eskimo Dogs are known to be intelligent, alert, friendly, and eager to please."
+  }
+
+
+
+  ]
+
+

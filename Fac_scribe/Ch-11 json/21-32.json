@@ -1,0 +1,2194 @@
+[
+    {
+        "question": "What is the primary symptom of hoarseness in the given case?",
+        "answer": "The primary symptom of hoarseness in the given case includes a weak, strained voice and the inability to sing or speak extensively."
+    },
+    {
+        "question": "What physical examination finding was noted in a patient with hoarseness?",
+        "answer": "The physical examination revealed gastroesophageal reflux disease and a white, irregular, firm, vocal fold mass on laryngeal exam by strobovideolaryngoscopy."
+    },
+    {
+        "question": "What is the diagnosis for the patient with left vocal fold issues?",
+        "answer": "The diagnosis is infiltrating keratinizing squamous cell carcinoma of the left vocal fold with evidence of focal chronic inflammatory infiltrate."
+    },
+    {
+        "question": "What treatments did the patient with squamous cell carcinoma of the vocal fold undergo?",
+        "answer": "The patient underwent radiation therapy, reflux treatment, and voice therapy."
+    },
+    {
+        "question": "What is the impairment rating for voice/speech in the given case?",
+        "answer": "The impairment rating for voice/speech is 15% to 34%, with a whole person impairment of 5% to 12%."
+    },
+    {
+        "question": "What are the symptoms of adult-onset laryngeal papillomatosis?",
+        "answer": "Symptoms include constant hoarseness, voice fatigue, inability to project voice well, and inability to sing."
+    },
+    {
+        "question": "What was the physical exam finding for a patient with adult-onset laryngeal papillomatosis?",
+        "answer": "The physical exam showed a moderately hoarse and breathy voice, a broad-based, solid, white mass on the right vocal fold, and a fibrotic mass on the left vocal fold."
+    },
+    {
+        "question": "What clinical studies were conducted for a patient with adult-onset laryngeal papillomatosis?",
+        "answer": "Clinical studies included a laryngeal electromyogram showing mild bilateral superior laryngeal nerve paresis and decreased phonation time."
+    },
+    {
+        "question": "What is the diagnosis for a patient with constant hoarseness and vocal fold masses?",
+        "answer": "The diagnosis is adult-onset laryngeal papillomatosis."
+    },
+    {
+        "question": "What is the impairment rating for a patient with adult-onset laryngeal papillomatosis?",
+        "answer": "The impairment rating is 60% to 84% voice/speech impairment and 21% to 30% impairment of the whole person."
+    },
+    {
+        "question": "What comment was made regarding the prognosis of a patient with adult-onset laryngeal papillomatosis?",
+        "answer": "The comment indicated that the patient requires ongoing surveillance for recurrence of papillomas and laryngeal carcinoma, ongoing voice therapy, and treatment for reflux disease. The vocal prognosis is guarded."
+    },
+    {
+        "question": "What are the symptoms of a patient exposed to vinyl chloride fumes?",
+        "answer": "Symptoms include hoarseness, shortness of breath, chronic sensation of a lump in the throat, and voice deterioration after exposure to fumes."
+    },
+    {
+        "question": "What were the physical exam findings for a patient with inhalation injury from vinyl chloride?",
+        "answer": "The physical exam showed harsh, hoarse, slightly breathy, and strained voice with bilateral vocal fold scarring, decreased mucosal wave, and hypervascularity."
+    },
+    {
+        "question": "What is the impairment rating for a patient with severe voice impairment due to inhalation injury?",
+        "answer": "The impairment rating is 85% to 100% voice/speech impairment."
+    },
+    {
+        "question": "What is the diagnosis for a patient with mucosal vocal fold injury due to noxious fumes?",
+        "answer": "The diagnosis is mucosal vocal fold injury secondary to inhalation of noxious fumes, initially vinyl chloride, causing dysphonia and dyspnea."
+    },
+    {
+        "question": "What symptoms are associated with vestibular impairment?",
+        "answer": "Symptoms include dizziness, nausea, vomiting, and tinnitus."
+    },
+    {
+        "question": "What tests are conducted for diagnosing vestibular impairment?",
+        "answer": "Tests include audiologic evaluation, balance tests, electronystagmogram, blood pressure tests, and radiologic studies."
+    },
+    {
+        "question": "What are the physical findings in structural facial impairment?",
+        "answer": "Physical findings include cutaneous abnormalities, abnormalities of supporting structures like lips, and neurologic impairments."
+    },
+    {
+        "question": "What symptoms are associated with facial disfigurement?",
+        "answer": "Symptoms include history of burns, trauma, infection, dysplasia, and social factors affecting acceptance."
+    },
+    {
+        "question": "What are the examination procedures for assessing facial disfigurement?",
+        "answer": "Examination procedures include physical findings of face, head, and neck, neurologic studies, and photographic records."
+    },
+    {
+        "question": "What history is relevant for assessing respiration impairment?",
+        "answer": "Relevant history includes respiratory function, signs and symptoms of breathiness and dyspnea, exercise limitations, and related systems like pulmonary, cardiac, and metabolic."
+    },
+    {
+        "question": "What diagnostic tests are conducted for respiratory impairment?",
+        "answer": "Diagnostic tests include rhinometry, endoscopy, pulmonary function tests, radiologic studies, and ultrasound studies."
+    },
+    {
+        "question": "What conditions are considered for ear, nose, throat, and related structures impairments?",
+        "answer": "Conditions include conductive, sensorineural, mixed, and functional hearing loss, tinnitus, and Meniere’s disease."
+    },
+    {
+        "question": "What are the symptoms of otitis media?",
+        "answer": "Symptoms include hearing loss, ear pain, and fluid drainage from the ear."
+    },
+    {
+        "question": "What physical findings are associated with head trauma affecting the ear?",
+        "answer": "Findings include signs of otitis media, audiogram abnormalities, and electronystagmogram abnormalities."
+    },
+    {
+        "question": "What is assessed in an examination of the face for structural impairment?",
+        "answer": "Assessment includes cutaneous aspects, structural integrity, appearance of lips, nose, eyebrows, and eyelids, and radiologic studies."
+    },
+    {
+        "question": "What are the symptoms of Meniere’s disease?",
+        "answer": "Symptoms include vertigo, tinnitus, hearing loss, and a feeling of fullness in the ear."
+    },
+    {
+        "question": "What history is relevant for assessing mastication and deglutition impairments?",
+        "answer": "Relevant history includes dietary habits, history of burns or trauma, and records of related systems like gastrointestinal and neurologic."
+    },
+    {
+        "question": "What diagnostic tests are conducted for mastication and deglutition impairments?",
+        "answer": "Diagnostic tests include temporomandibular joint function, speech articulation tests, esophageal function tests, and endocrine studies."
+    },
+    {
+        "question": "What physical findings are associated with hearing loss due to head trauma?",
+        "answer": "Physical findings include audiogram abnormalities, auditory brain response findings, and signs of cardiovascular, endocrine, metabolic, or ocular disorders."
+    },
+    {
+        "question": "What is the diagnosis for a patient with chronic hoarseness and dysphonia for 10 years?",
+        "answer": "The diagnosis includes chronic hoarseness, gastroesophageal reflux disease, vocal fold polypectomy, and multiple laryngeal surgeries."
+    },
+    {
+        "question": "What is the impairment rating for a patient with severe vocal fold issues?",
+        "answer": "The impairment rating is 35% to 59% voice/speech impairment."
+    },
+    {
+        "question": "What comment was made regarding the patient with severe vocal fold issues?",
+        "answer": "The comment indicated recurrent vocal fold hemorrhages, stiffness, and scarring, with initial improvement but deterioration after heavy voice use."
+    },
+    {
+        "question": "What are the symptoms of a patient with recurrent hoarseness despite treatment?",
+        "answer": "Symptoms include constant hoarseness, voice fatigue, and inability to project voice well."
+    },
+    {
+        "question": "What physical exam finding was noted for a patient with recurrent hoarseness?",
+        "answer": "The physical exam showed left vocal fold scar and new right vocal fold mass, likely a cyst."
+    },
+    {
+        "question": "What is the diagnosis for a patient with chronic hoarseness and new vocal fold mass?",
+        "answer": "The diagnosis is adult-onset laryngeal papillomatosis with evidence of reflux laryngitis."
+    },
+    {
+        "question": "What impairment rating was given to a patient with significant vocal fold issues?",
+        "answer": "The impairment rating is 60% to 84% voice/speech impairment."
+    },
+    {
+        "question": "What treatments were required for a patient with adult-onset laryngeal papillomatosis?",
+        "answer": "Treatments included laryngeal surgeries, voice therapy, reflux disease treatment, and ongoing surveillance."
+    },
+    {
+        "question": "What comment was made about the prognosis of a patient with adult-onset laryngeal papillomatosis?",
+        "answer": "The comment indicated a guarded prognosis for vocal improvement and the need for ongoing surveillance for recurrence of papillomas and laryngeal carcinoma."
+    },
+    {
+        "question": "What symptoms are associated with hoarseness from inhalation of vinyl chloride?",
+        "answer": "Symptoms include constant hoarseness, dyspnea, chronic sensation of a lump in the throat, and voice fatigue after exposure."
+    },
+    {
+        "question": "What physical exam findings are associated with vinyl chloride inhalation injury?",
+        "answer": "The physical exam showed harsh, hoarse, slightly breathy, and strained voice with bilateral vocal fold scarring, decreased mucosal wave, and hypervascularity."
+    },
+    {
+        "question": "What impairment rating was given to a patient with severe voice issues due to inhalation injury?",
+        "answer": "The impairment rating is 85% to 100% voice/speech impairment."
+    },
+    {
+        "question": "What diagnosis was given to a patient with hoarseness and exposure to noxious fumes?",
+        "answer": "The diagnosis is mucosal vocal fold injury secondary to inhalation of noxious fumes."
+    },
+    {
+        "question": "What are the symptoms of vestibular impairment?",
+        "answer": "Symptoms include dizziness, nausea, vomiting, and tinnitus."
+    },
+    {
+        "question": "What diagnostic tests are used for assessing vestibular impairment?",
+        "answer": "Tests include audiologic evaluation, balance tests, electronystagmogram, blood pressure tests, and radiologic studies."
+    },
+    {
+        "question": "What are the symptoms of facial disfigurement?",
+        "answer": "Symptoms include signs of burns, trauma, infection, dysplasia, and social challenges due to appearance."
+    },
+    {
+        "question": "What is examined for structural facial impairment?",
+        "answer": "Examination includes cutaneous and supporting structures, neurologic impairments, and radiologic studies."
+    },
+    {
+        "question": "What history is relevant for assessing respiration impairment?",
+        "answer": "Relevant history includes signs and symptoms of breathiness and dyspnea, exercise limitations, and related systems like pulmonary, cardiac, and metabolic."
+    },
+    {
+        "question": "What diagnostic tests are conducted for respiration impairment?",
+        "answer": "Tests include rhinometry, endoscopy, pulmonary function tests, radiologic studies, and ultrasound studies."
+    },
+    {
+        "question": "What conditions are assessed for ear, nose, throat, and related structures impairments?",
+        "answer": "Conditions include hearing loss types, tinnitus, and Meniere’s disease."
+    },
+    {
+        "question": "What are the symptoms of otitis media?",
+        "answer": "Symptoms include hearing loss, ear pain, and fluid drainage from the ear."
+    },
+    {
+        "question": "What physical findings are associated with ear trauma?",
+        "answer": "Findings include otitis media signs, audiogram abnormalities, and electronystagmogram abnormalities."
+    },
+    {
+        "question": "What is assessed in an examination of the face for structural impairment?",
+        "answer": "Assessment includes cutaneous aspects, structural integrity, and appearance of facial features."
+    },
+    {
+        "question": "What are the symptoms of Meniere’s disease?",
+        "answer": "Symptoms include vertigo, tinnitus, hearing loss, and a feeling of fullness in the ear."
+    },
+    {
+        "question": "What history is relevant for mastication and deglutition impairments?",
+        "answer": "Relevant history includes dietary habits, history of burns or trauma, and gastrointestinal and neurologic system records."
+    },
+    {
+        "question": "What diagnostic tests are conducted for mastication and deglutition impairments?",
+        "answer": "Tests include temporomandibular joint function, speech articulation tests, esophageal function tests, and endocrine studies."
+    },
+    {
+        "question": "What are the physical findings of hearing loss due to head trauma?",
+        "answer": "Findings include audiogram abnormalities and auditory brain response findings."
+    },
+    {
+        "question": "What diagnosis is given to a patient with chronic hoarseness and multiple laryngeal surgeries?",
+        "answer": "The diagnosis includes chronic hoarseness, gastroesophageal reflux disease, and vocal fold polypectomy."
+    },
+    {
+        "question": "What is the impairment rating for severe vocal fold issues?",
+        "answer": "The impairment rating is 35% to 59% voice/speech impairment."
+    },
+    {
+        "question": "What was commented about a patient with severe vocal fold issues?",
+        "answer": "The comment indicated recurrent vocal fold hemorrhages, stiffness, and scarring, with initial improvement but later deterioration."
+    },
+    {
+        "question": "What are the symptoms of recurrent hoarseness despite treatment?",
+        "answer": "Symptoms include constant hoarseness, voice fatigue, and inability to project voice well."
+    },
+    {
+        "question": "What physical exam finding was noted for recurrent hoarseness?",
+        "answer": "The physical exam showed a left vocal fold scar and a new right vocal fold mass, likely a cyst."
+    },
+    {
+        "question": "What diagnosis is given to a patient with chronic hoarseness and new vocal fold mass?",
+        "answer": "The diagnosis is adult-onset laryngeal papillomatosis with reflux laryngitis."
+    },
+    {
+        "question": "What impairment rating is given to significant vocal fold issues?",
+        "answer": "The impairment rating is 60% to 84% voice/speech impairment."
+    },
+    {
+        "question": "What treatments are required for adult-onset laryngeal papillomatosis?",
+        "answer": "Treatments include laryngeal surgeries, voice therapy, reflux disease treatment, and ongoing surveillance."
+    },
+    {
+        "question": "What comment is made about the prognosis of adult-onset laryngeal papillomatosis?",
+        "answer": "The comment indicates a guarded prognosis for vocal improvement and the need for ongoing surveillance for recurrence."
+    },
+    {
+        "question": "What symptoms are associated with hoarseness from inhalation of vinyl chloride?",
+        "answer": "Symptoms include constant hoarseness, dyspnea, chronic sensation of a lump in the throat, and voice fatigue."
+    },
+    {
+        "question": "What physical exam findings are associated with inhalation injury?",
+        "answer": "The exam shows harsh, hoarse, slightly breathy, and strained voice with bilateral vocal fold scarring and hypervascularity."
+    },
+    {
+        "question": "What impairment rating is given to severe voice issues due to inhalation injury?",
+        "answer": "The impairment rating is 85% to 100% voice/speech impairment."
+    },
+    {
+        "question": "What diagnosis is given to a patient with hoarseness and noxious fumes exposure?",
+        "answer": "The diagnosis is mucosal vocal fold injury from noxious fumes."
+    },
+    {
+        "question": "What are the symptoms of vestibular impairment?",
+        "answer": "Symptoms include dizziness, nausea, vomiting, and tinnitus."
+    },
+    {
+        "question": "What diagnostic tests are used for vestibular impairment?",
+        "answer": "Tests include audiologic evaluation, balance tests, electronystagmogram, blood pressure tests, and radiologic studies."
+    },
+    {
+        "question": "What are the symptoms of facial disfigurement?",
+        "answer": "Symptoms include burns, trauma, infection, dysplasia, and social acceptance issues."
+    },
+    {
+        "question": "What is examined for structural facial impairment?",
+        "answer": "Examination includes cutaneous and supporting structures, neurologic impairments, and radiologic studies."
+    },
+    {
+        "question": "What history is relevant for respiration impairment?",
+        "answer": "Relevant history includes signs and symptoms of breathiness, dyspnea, exercise limitations, and related system records."
+    },
+    {
+        "question": "What diagnostic tests are conducted for respiration impairment?",
+        "answer": "Tests include rhinometry, endoscopy, pulmonary function tests, radiologic studies, and ultrasound."
+    },
+    {
+        "question": "What conditions are assessed for ear, nose, throat, and related structures impairments?",
+        "answer": "Conditions include hearing loss types, tinnitus, and Meniere’s disease."
+    },
+    {
+        "question": "What are the symptoms of otitis media?",
+        "answer": "Symptoms include hearing loss, ear pain, and fluid drainage."
+    },
+    {
+        "question": "What physical findings are associated with ear trauma?",
+        "answer": "Findings include otitis media signs, audiogram abnormalities, and electronystagmogram abnormalities."
+    },
+    {
+        "question": "What is assessed in facial structural impairment examination?",
+        "answer": "Assessment includes cutaneous aspects, structural integrity, and appearance of facial features."
+    },
+    {
+        "question": "What are the symptoms of Meniere’s disease?",
+        "answer": "Symptoms include vertigo, tinnitus, hearing loss, and fullness in the ear."
+    },
+    {
+        "question": "What history is relevant for mastication and deglutition impairments?",
+        "answer": "Relevant history includes dietary habits, burns or trauma, and gastrointestinal and neurologic system records."
+    },
+    {
+        "question": "What diagnostic tests are conducted for mastication and deglutition impairments?",
+        "answer": "Tests include temporomandibular joint function, speech articulation tests, esophageal function tests, and endocrine studies."
+    },
+    {
+        "question": "What are the physical findings of hearing loss due to head trauma?",
+        "answer": "Findings include audiogram abnormalities and auditory brain response findings."
+    },
+    {
+        "question": "What diagnosis is given to chronic hoarseness and multiple laryngeal surgeries?",
+        "answer": "The diagnosis includes chronic hoarseness, gastroesophageal reflux disease, and vocal fold polypectomy."
+    },
+    
+    {
+        "question": "What are the typical current symptoms in patients with vocal fold mass?",
+        "answer": "Patients with vocal fold mass may experience breathiness, hoarseness, loss of vocal stamina, loss of volume, and loss of lower range."
+    },
+    {
+        "question": "What physical exam findings might be present in a patient with vocal fold scar?",
+        "answer": "Physical exam findings in a patient with vocal fold scar may include hoarseness, vocal fold mass, scar, reflux laryngitis, and neurolaryngologic asymmetries."
+    },
+    {
+        "question": "Which clinical studies are relevant for diagnosing vocal fold scar?",
+        "answer": "Relevant clinical studies for diagnosing vocal fold scar include laryngeal electromyogram, electroglottogram (EGG), quasi-open quotient, air-conduction flow, minimal flow, maximum flow rate, S/Z ratio, and acoustic measurements."
+    },
+    {
+        "question": "What is the impairment rating for a patient with a 15% to 34% voice/speech impairment?",
+        "answer": "The impairment rating for a patient with a 15% to 34% voice/speech impairment is 5% to 12% impairment of the whole person."
+    },
+    {
+        "question": "What treatment is recommended for a patient with persistent vocal fold mass and vocal fold scar?",
+        "answer": "Treatment for persistent vocal fold mass and vocal fold scar includes direct microlaryngoscopy and excision of the mass, and possibly autologous fat injection for the scar."
+    },
+    {
+        "question": "What history is significant in a patient with chronic hoarseness and multiple laryngeal surgeries?",
+        "answer": "Significant history includes chronic hoarseness, gastroesophageal reflux disease, and multiple laryngeal surgeries such as vocal fold polypectomy."
+    },
+    {
+        "question": "What are common current symptoms in a patient with adult-onset laryngeal papillomatosis?",
+        "answer": "Common symptoms include constant hoarseness, voice fatigue, inability to project voice, and moderate hoarseness and breathiness."
+    },
+    {
+        "question": "What physical exam findings might indicate adult-onset laryngeal papillomatosis?",
+        "answer": "Findings include broad-based, solid, white mass on the vocal fold, fibrotic mass, arytenoid erythema and edema, bilateral superior surface varicosities, and vocal fold scars."
+    },
+    {
+        "question": "What is the diagnosis for a patient with a history of inhalation injury from vinyl chloride fumes?",
+        "answer": "The diagnosis is mucosal vocal fold injury secondary to inhalation of noxious fumes, causing dysphonia and dyspnea."
+    },
+    {
+        "question": "What symptoms are present in a patient with inhalation injury from vinyl chloride fumes?",
+        "answer": "Symptoms include voice deterioration after using voice, hoarseness, shortness of breath, and chronic sensation of a lump in the throat."
+    },
+    {
+        "question": "What clinical studies are significant for diagnosing mucosal vocal fold injury?",
+        "answer": "Significant studies include marked abnormalities in harmonic to noise ratio, shimmer, and maximum flow rate."
+    },
+    {
+        "question": "What history is significant in a patient with professional voice use and sudden onset dysphonia?",
+        "answer": "Significant history includes sudden onset of dysphonia, diagnosis of vocal fold hemorrhage, and development of vocal fold mass."
+    },
+    {
+        "question": "What are common current symptoms in a professional operatic soprano with vocal fold hemorrhage?",
+        "answer": "Common symptoms include hoarseness, voice fatigue, inability to sing or speak extensively, weak and strained voice, and inability to project voice."
+    },
+    {
+        "question": "What physical exam findings are expected in a patient with gastroesophageal reflux disease and vocal fold mass?",
+        "answer": "Findings include gastroesophageal reflux disease, height disparity of vocal folds, and white, irregular, firm vocal fold mass."
+    },
+    {
+        "question": "What is the impairment rating for a patient with infiltrating keratinizing squamous cell carcinoma of the vocal fold?",
+        "answer": "The impairment rating is 15% to 34% voice/speech impairment and 5% to 12% impairment of the whole person."
+    },
+    {
+        "question": "What is the recommended treatment for infiltrating keratinizing squamous cell carcinoma of the vocal fold?",
+        "answer": "Recommended treatment includes radiation therapy, reflux treatment, and voice therapy."
+    },
+    {
+        "question": "What are the current symptoms in a patient with a 38-year-old man suffering from voice deterioration after inhalation injury?",
+        "answer": "Symptoms include voice deterioration after using voice, hoarseness, shortness of breath, and chronic sensation of a lump in the throat."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing adult-onset laryngeal papillomatosis?",
+        "answer": "Relevant studies include laryngeal electromyogram, decreased intensity, phonation time, harmonic to noise ratio, and other acoustic measures."
+    },
+    {
+        "question": "What are the common symptoms in a patient with constant hoarseness and vocal fold hemorrhage?",
+        "answer": "Common symptoms include hoarseness, voice fatigue, pain, weak and strained voice, and inability to project voice."
+    },
+    {
+        "question": "What physical exam findings are consistent with leukoplakia on the vocal fold?",
+        "answer": "Findings include leukoplakia on the vocal fold, stiffness of vibratory margin secondary to scar, erythema and edema of the glottis, and muscle-tension dysphonia."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing gastroesophageal reflux disease and vocal fold issues?",
+        "answer": "Relevant studies include laryngeal electromyogram, harmonic to noise ratios, decreased intensity, decreased frequency range, and decreased phonation time."
+    },
+    {
+        "question": "What diagnosis is given to a patient with chronic hoarseness and muscle-tension dysphonia?",
+        "answer": "The diagnosis includes vocal fold scar, leukoplakia, muscle-tension dysphonia, and gastroesophageal reflux disease."
+    },
+    {
+        "question": "What is the impairment rating for a patient with a 60% to 84% voice/speech impairment?",
+        "answer": "The impairment rating is 21% to 30% impairment of the whole person."
+    },
+    {
+        "question": "What history is significant in a patient with recurrent sinusitis and progressive hoarseness?",
+        "answer": "Significant history includes recurrent sinusitis, progressive hoarseness, vocal fold polypectomy for leukoplakia, and exposure to car fumes, asbestos, and aerosols."
+    },
+    {
+        "question": "What are the current symptoms in a 40-year-old man with recurrent hoarseness and sinusitis?",
+        "answer": "Symptoms include constant hoarseness, difficulty speaking, frequent throat-clearing, and sensation of a lump in the throat."
+    },
+    {
+        "question": "What is the diagnosis for a patient with a new right vocal fold mass and left vocal fold scar?",
+        "answer": "The diagnosis includes vocal fold mass and scar, muscle-tension dysphonia, and reflux laryngitis."
+    },
+    {
+        "question": "What physical exam findings might be present in a patient with recurrent hoarseness and left vocal fold scar?",
+        "answer": "Findings include left vocal fold scar, new right vocal fold mass (probably a cyst), evidence of reflux laryngitis, and muscle-tension dysphonia."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing chronic hoarseness and left vocal fold scar?",
+        "answer": "Relevant studies include abnormal acoustic measures, including harmonic measures and harmonic to noise ratio."
+    },
+    {
+        "question": "What is the impairment rating for a patient with a 35% to 59% voice/speech impairment?",
+        "answer": "The impairment rating is 12% to 21% impairment of the whole person."
+    },
+    {
+        "question": "What treatment is recommended for a patient with vocal fold hemorrhage and vocal fold scar?",
+        "answer": "Recommended treatment includes direct microlaryngoscopy and excision of the vocal fold mass, autologous fat injection, and possibly fat implantation for the scar."
+    },
+    {
+        "question": "What history is significant in a patient with recurrent vocal fold hemorrhage and gastroesophageal reflux disease?",
+        "answer": "Significant history includes recurrent vocal fold hemorrhage, gastroesophageal reflux disease, multiple laryngeal surgeries, and vocal fold nodules treated with voice therapy."
+    },
+    {
+        "question": "What are the current symptoms in a patient with recurrent vocal fold hemorrhage and reflux disease?",
+        "answer": "Symptoms include recurrent hoarseness, despite strictly adhering to antireflux treatment and voice therapy modifications."
+    },
+    {
+        "question": "What physical exam findings are expected in a patient with left vocal fold scar and new right vocal fold mass?",
+        "answer": "Findings include left vocal fold scar, new right vocal fold mass (probably a cyst), evidence of reflux laryngitis, and muscle-tension dysphonia."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing recurrent hoarseness and left vocal fold scar?",
+        "answer": "Relevant studies include laryngeal electromyogram, electroglottogram (EGG), and abnormal acoustic measures."
+    },
+    {
+        "question": "What is the impairment rating for a patient with 85% to 100% voice/speech impairment?",
+        "answer": "The impairment rating is 30% to 35% impairment of the whole person."
+    },
+    {
+        "question": "What treatment is recommended for a patient with vocal fold hemorrhage, scar, and chronic hoarseness?",
+        "answer": "Recommended treatment includes direct microlaryngoscopy and excision of vocal fold mass, possibly autologous fat injection, and fat implantation for the scar."
+    },
+    {
+        "question": "What history is significant in a patient with chronic hoarseness and persistent vocal fold nodules?",
+        "answer": "Significant history includes chronic hoarseness, persistent vocal fold nodules, gastroesophageal reflux disease, and multiple laryngeal surgeries."
+    },
+    {
+        "question": "What are the common current symptoms in a patient with chronic hoarseness and multiple laryngeal surgeries?",
+        "answer": "Common symptoms include chronic hoarseness, voice fatigue, loss of vocal stamina, loss of volume, and loss of lower range."
+    },
+    {
+        "question": "What physical exam findings might be present in a patient with chronic hoarseness and reflux laryngitis?",
+        "answer": "Findings include hoarseness, vocal fold mass, scar, reflux laryngitis, and neurolaryngologic asymmetries."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing vocal fold mass and scar?",
+        "answer": "Relevant studies include laryngeal electromyogram, electroglottogram (EGG), quasi-open quotient, air-conduction flow, minimal flow, maximum flow rate, S/Z ratio, and acoustic measurements."
+    },
+    {
+        "question": "What is the impairment rating for a patient with vocal fold mass and 15% to 34% voice/speech impairment?",
+        "answer": "The impairment rating is 5% to 12% impairment of the whole person."
+    },
+    {
+        "question": "What treatment is recommended for a patient with vocal fold mass and persistent vocal fold nodules?",
+        "answer": "Recommended treatment includes direct microlaryngoscopy and excision of the vocal fold mass, and possibly autologous fat injection for the scar."
+    },
+    {
+        "question": "What history is significant in a patient with recurrent vocal fold nodules and vocal fold hemorrhage?",
+        "answer": "Significant history includes recurrent vocal fold nodules, vocal fold hemorrhage, multiple laryngeal surgeries, and gastroesophageal reflux disease."
+    },
+    {
+        "question": "What are the common current symptoms in a patient with recurrent vocal fold nodules and voice fatigue?",
+        "answer": "Common symptoms include recurrent hoarseness, voice fatigue, loss of vocal stamina, loss of volume, and loss of lower range."
+    },
+    {
+        "question": "What physical exam findings might be present in a patient with vocal fold scar and neurolaryngologic asymmetries?",
+        "answer": "Findings include vocal fold scar, reflux laryngitis, hoarseness, vocal fold mass, and neurolaryngologic asymmetries."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing vocal fold mass and neurolaryngologic asymmetries?",
+        "answer": "Relevant studies include laryngeal electromyogram, electroglottogram (EGG), quasi-open quotient, air-conduction flow, minimal flow, maximum flow rate, S/Z ratio, and acoustic measurements."
+    },
+    {
+        "question": "What is the impairment rating for a patient with 15% to 34% voice/speech impairment and vocal fold mass?",
+        "answer": "The impairment rating is 5% to 12% impairment of the whole person."
+    },
+    {
+        "question": "What treatment is recommended for a patient with vocal fold mass, vocal fold scar, and recurrent vocal fold nodules?",
+        "answer": "Recommended treatment includes direct microlaryngoscopy and excision of the vocal fold mass, and possibly autologous fat injection for the scar."
+    },
+    {
+        "question": "What history is significant in a patient with recurrent vocal fold hemorrhage and multiple laryngeal surgeries?",
+        "answer": "Significant history includes recurrent vocal fold hemorrhage, multiple laryngeal surgeries, gastroesophageal reflux disease, and vocal fold nodules treated with voice therapy."
+    },
+    {
+        "question": "What are the common current symptoms in a patient with recurrent hoarseness and vocal fold hemorrhage?",
+        "answer": "Common symptoms include recurrent hoarseness, despite strictly adhering to antireflux treatment and voice therapy modifications."
+    },
+    {
+        "question": "What physical exam findings are expected in a patient with vocal fold hemorrhage and vocal fold scar?",
+        "answer": "Findings include vocal fold scar, new vocal fold mass (probably a cyst), evidence of reflux laryngitis, and muscle-tension dysphonia."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing recurrent vocal fold hemorrhage and scar?",
+        "answer": "Relevant studies include laryngeal electromyogram, electroglottogram (EGG), and abnormal acoustic measures."
+    },
+    {
+        "question": "What is the impairment rating for a patient with recurrent vocal fold hemorrhage and 35% to 59% voice/speech impairment?",
+        "answer": "The impairment rating is 12% to 21% impairment of the whole person."
+    },
+    {
+        "question": "What treatment is recommended for a patient with recurrent vocal fold hemorrhage and scar?",
+        "answer": "Recommended treatment includes direct microlaryngoscopy and excision of vocal fold mass, possibly autologous fat injection, and fat implantation for the scar."
+    },
+    {
+        "question": "What history is significant in a patient with chronic hoarseness and persistent vocal fold nodules?",
+        "answer": "Significant history includes chronic hoarseness, persistent vocal fold nodules, gastroesophageal reflux disease, and multiple laryngeal surgeries."
+    },
+    {
+        "question": "What are the common current symptoms in a patient with chronic hoarseness and multiple laryngeal surgeries?",
+        "answer": "Common symptoms include chronic hoarseness, voice fatigue, loss of vocal stamina, loss of volume, and loss of lower range."
+    },
+    {
+        "question": "What physical exam findings might be present in a patient with chronic hoarseness and reflux laryngitis?",
+        "answer": "Findings include hoarseness, vocal fold mass, scar, reflux laryngitis, and neurolaryngologic asymmetries."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing vocal fold mass and scar?",
+        "answer": "Relevant studies include laryngeal electromyogram, electroglottogram (EGG), quasi-open quotient, air-conduction flow, minimal flow, maximum flow rate, S/Z ratio, and acoustic measurements."
+    },
+    {
+        "question": "What is the impairment rating for a patient with vocal fold mass and 15% to 34% voice/speech impairment?",
+        "answer": "The impairment rating is 5% to 12% impairment of the whole person."
+    },
+    {
+        "question": "What treatment is recommended for a patient with vocal fold mass and persistent vocal fold nodules?",
+        "answer": "Recommended treatment includes direct microlaryngoscopy and excision of the vocal fold mass, and possibly autologous fat injection for the scar."
+    },
+    {
+        "question": "What history is significant in a patient with recurrent vocal fold nodules and vocal fold hemorrhage?",
+        "answer": "Significant history includes recurrent vocal fold nodules, vocal fold hemorrhage, multiple laryngeal surgeries, and gastroesophageal reflux disease."
+    },
+    {
+        "question": "What are the common current symptoms in a patient with recurrent vocal fold nodules and voice fatigue?",
+        "answer": "Common symptoms include recurrent hoarseness, voice fatigue, loss of vocal stamina, loss of volume, and loss of lower range."
+    },
+    {
+        "question": "What physical exam findings might be present in a patient with vocal fold scar and neurolaryngologic asymmetries?",
+        "answer": "Findings include vocal fold scar, reflux laryngitis, hoarseness, vocal fold mass, and neurolaryngologic asymmetries."
+    },
+    {
+        "question": "What clinical studies are relevant for diagnosing vocal fold mass and neurolaryngologic asymmetries?",
+        "answer": "Relevant studies include laryngeal electromyogram, electroglottogram (EGG), quasi-open quotient, air-conduction flow, minimal flow, maximum flow rate, S/Z ratio, and acoustic measurements."
+    },
+    {
+        "question": "What is the impairment rating for a patient with 15% to 34% voice/speech impairment and vocal fold mass?",
+        "answer": "The impairment rating is 5% to 12% impairment of the whole person."
+    },
+    {
+        "question": "What treatment is recommended for a patient with vocal fold mass, vocal fold scar, and recurrent vocal fold nodules?",
+        "answer": "Recommended treatment includes direct microlaryngoscopy and excision of the vocal fold mass, and possibly autologous fat injection for the scar."
+    },
+
+    
+    {
+        "question": "What are the common symptoms of laryngeal carcinoma?",
+        "answer": "Common symptoms include hoarseness, difficulty swallowing, a lump in the neck, persistent cough, and sometimes ear pain."
+    },
+    {
+        "question": "What treatment is recommended for vocal fold nodules?",
+        "answer": "Treatment typically includes voice therapy, vocal rest, and in some cases, surgical removal of the nodules."
+    },
+    {
+        "question": "How is vocal cord dysfunction diagnosed?",
+        "answer": "Diagnosis is often based on the patient's history, physical examination, and laryngoscopy to observe the vocal cords during breathing and speaking."
+    },
+    {
+        "question": "What procedures are involved in a laryngeal examination?",
+        "answer": "Laryngeal examinations commonly involve indirect laryngoscopy, fiberoptic laryngoscopy, stroboscopy, and sometimes microlaryngoscopy."
+    },
+    {
+        "question": "What are common causes of hoarseness?",
+        "answer": "Common causes include acute laryngitis, chronic laryngitis, vocal fold nodules or polyps, vocal cord paralysis, and gastroesophageal reflux disease."
+    },
+    {
+        "question": "What outcomes can be expected from voice therapy?",
+        "answer": "Voice therapy can improve vocal function, reduce strain, and help manage conditions like vocal fold nodules, muscle tension dysphonia, and hoarseness."
+    },
+    {
+        "question": "What are the typical management strategies for vocal fold nodules?",
+        "answer": "Management strategies include voice therapy, vocal rest, avoiding vocal strain, and in some cases, surgical intervention."
+    },
+    {
+        "question": "What is the purpose of laryngeal electromyography (EMG)?",
+        "answer": "Laryngeal EMG is used to assess the electrical activity of the muscles involved in voice production and can help diagnose nerve or muscle disorders affecting the larynx."
+    },
+    {
+        "question": "How can inhalation injuries affect the vocal folds?",
+        "answer": "Inhalation injuries can cause inflammation, scarring, and the formation of vocal fold polyps, leading to hoarseness and breathing difficulties."
+    },
+    {
+        "question": "What are the steps involved in microlaryngoscopy?",
+        "answer": "Microlaryngoscopy involves the use of a microscope and fine instruments to examine and perform surgery on the vocal folds. It is often used to remove polyps, nodules, and other lesions."
+    },
+    {
+        "question": "What treatment is recommended for laryngeal papillomatosis?",
+        "answer": "Treatment typically includes surgical removal of papillomas, laser therapy, and ongoing monitoring for recurrence. Adjuvant therapies may also be considered."
+    },
+    {
+        "question": "How is vocal fold leukoplakia diagnosed?",
+        "answer": "Diagnosis is usually made through visual inspection with laryngoscopy, often followed by biopsy to determine if there are any precancerous or cancerous changes."
+    },
+    {
+        "question": "What are the symptoms of mucosal vocal fold injury due to inhalation of noxious fumes?",
+        "answer": "Symptoms include hoarseness, voice fatigue, pain, and sometimes difficulty breathing. Physical exams may show vocal fold scarring and mucosal irregularities."
+    },
+    {
+        "question": "What are the typical clinical findings in laryngeal electromyogram (EMG) for a patient with vocal fold paralysis?",
+        "answer": "Typical findings may include reduced or absent muscle activity in the affected vocal fold, indicating nerve damage or dysfunction."
+    },
+    {
+        "question": "What are the treatment options for chronic laryngitis?",
+        "answer": "Treatment options include voice rest, hydration, avoiding irritants, managing underlying conditions like reflux or allergies, and sometimes medication or voice therapy."
+    },
+    {
+        "question": "How is gastroesophageal reflux disease (GERD) related to voice disorders?",
+        "answer": "GERD can cause laryngeal irritation and inflammation, leading to symptoms like hoarseness, chronic cough, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "What is the purpose of strobovideolaryngoscopy?",
+        "answer": "Strobovideolaryngoscopy is used to visualize vocal fold vibration in slow motion, helping to diagnose and assess vocal fold lesions and dysfunctions."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold nodules?",
+        "answer": "Common symptoms include hoarseness, voice fatigue, and difficulty producing high-pitched sounds."
+    },
+    {
+        "question": "How can voice therapy help patients with muscle tension dysphonia?",
+        "answer": "Voice therapy can teach techniques to reduce muscle tension, improve vocal quality, and prevent vocal strain."
+    },
+    {
+        "question": "What are the signs of arytenoid erythema and edema on laryngeal examination?",
+        "answer": "Signs include redness and swelling of the arytenoid cartilages, often associated with conditions like GERD or vocal abuse."
+    },
+    {
+        "question": "What are the potential complications of untreated vocal fold polyps?",
+        "answer": "Complications can include persistent hoarseness, voice fatigue, and in severe cases, airway obstruction."
+    },
+    {
+        "question": "How is laryngeal papillomatosis diagnosed?",
+        "answer": "Diagnosis is typically made through laryngoscopy and biopsy of the lesions to confirm the presence of papillomas."
+    },
+    {
+        "question": "What are the primary goals of treatment for vocal cord dysfunction?",
+        "answer": "The primary goals are to improve breathing, reduce symptoms, and address any underlying conditions such as GERD or asthma."
+    },
+    {
+        "question": "What are the typical symptoms of vocal cord paralysis?",
+        "answer": "Symptoms include hoarseness, breathiness, difficulty speaking loudly, and sometimes aspiration or choking on liquids."
+    },
+    {
+        "question": "How can vocal fold hemorrhage occur?",
+        "answer": "Vocal fold hemorrhage can occur from trauma to the vocal cords, such as excessive shouting, coughing, or vocal strain."
+    },
+    {
+        "question": "What are the common causes of vocal fold nodules in teachers?",
+        "answer": "Common causes include excessive voice use, speaking in noisy environments, and poor vocal hygiene."
+    },
+    {
+        "question": "What role does hydration play in vocal health?",
+        "answer": "Proper hydration helps keep the vocal folds lubricated, reducing the risk of irritation and vocal strain."
+    },
+    {
+        "question": "What are the treatment options for recurrent laryngeal nerve paresis?",
+        "answer": "Treatment options may include voice therapy, surgical interventions such as medialization laryngoplasty, and sometimes botulinum toxin injections."
+    },
+    {
+        "question": "How is vocal fold scarring treated?",
+        "answer": "Treatment options include voice therapy, surgical interventions to remove scar tissue, and sometimes injections to improve vocal fold flexibility."
+    },
+    {
+        "question": "What are the symptoms of laryngeal papillomatosis in adults?",
+        "answer": "Symptoms include hoarseness, voice changes, and in severe cases, airway obstruction."
+    },
+    {
+        "question": "What are the possible outcomes of untreated vocal fold cysts?",
+        "answer": "Untreated vocal fold cysts can lead to persistent hoarseness, voice fatigue, and potential complications such as vocal fold scarring."
+    },
+    {
+        "question": "How can vocal fold varices be treated?",
+        "answer": "Treatment may include voice rest, voice therapy, and in some cases, surgical removal of the varices."
+    },
+    {
+        "question": "What are the clinical features of muscle tension dysphonia?",
+        "answer": "Features include strained or tight voice, vocal fatigue, and sometimes pain or discomfort when speaking."
+    },
+    {
+        "question": "What are the symptoms of a vocal fold granuloma?",
+        "answer": "Symptoms include hoarseness, throat pain, a sensation of a lump in the throat, and sometimes difficulty swallowing."
+    },
+    {
+        "question": "What are the treatment options for vocal fold granulomas?",
+        "answer": "Treatment options include voice rest, anti-reflux medications, voice therapy, and in some cases, surgical removal of the granuloma."
+    },
+    {
+        "question": "What are the signs of vocal fold polyps on laryngoscopy?",
+        "answer": "Signs include visible, swollen, fluid-filled lesions on the vocal folds, often with a broad base or a thin stalk."
+    },
+    {
+        "question": "How can voice therapy benefit patients with vocal fold paralysis?",
+        "answer": "Voice therapy can help improve vocal quality, increase vocal strength, and teach compensatory techniques for better voice production."
+    },
+    {
+        "question": "What are the causes of recurrent vocal fold hemorrhage?",
+        "answer": "Causes include vocal trauma, excessive vocal use, and underlying vascular abnormalities in the vocal folds."
+    },
+    {
+        "question": "How is vocal fold leukoplakia managed?",
+        "answer": "Management includes monitoring with regular laryngoscopy, voice therapy, and sometimes surgical removal of the leukoplakia."
+    },
+    {
+        "question": "What are the potential complications of vocal fold surgery?",
+        "answer": "Complications can include vocal fold scarring, granuloma formation, voice changes, and, in rare cases, airway obstruction."
+    },
+    {
+        "question": "What are the signs of laryngeal carcinoma on laryngoscopy?",
+        "answer": "Signs include irregular, often ulcerated masses on the vocal folds or other laryngeal structures, sometimes with visible bleeding."
+    },
+    {
+        "question": "What are the typical symptoms of chronic laryngitis?",
+        "answer": "Symptoms include persistent hoarseness, throat discomfort, coughing, and a sensation of throat clearing."
+    },
+    {
+        "question": "How can voice therapy help in treating vocal fold nodules?",
+        "answer": "Voice therapy can help reduce vocal strain, teach healthy vocal techniques, and promote healing of the nodules."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold cysts?",
+        "answer": "Symptoms include hoarseness, vocal fatigue, and sometimes a sensation of a lump in the throat."
+    },
+    {
+        "question": "How is vocal fold polyps diagnosed?",
+        "answer": "Diagnosis is made through laryngoscopy, which allows direct visualization of the polyps on the vocal folds."
+    },
+    {
+        "question": "What is the treatment for vocal fold varices?",
+        "answer": "Treatment often involves voice rest, voice therapy, and in some cases, surgical intervention to remove the varices."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold hemorrhage?",
+        "answer": "Symptoms include sudden hoarseness, loss of vocal range, and sometimes throat pain or discomfort."
+    },
+    {
+        "question": "How can laryngopharyngeal reflux affect the vocal folds?",
+        "answer": "Laryngopharyngeal reflux can cause inflammation, redness, and swelling of the vocal folds, leading to hoarseness and throat discomfort."
+    },
+    {
+        "question": "What are the signs of vocal fold paralysis on laryngoscopy?",
+        "answer": "Signs include one or both vocal folds not moving properly, resulting in a gap during phonation and sometimes atrophy of the affected fold."
+    },
+    {
+        "question": "What is the role of botulinum toxin in treating muscle tension dysphonia?",
+        "answer": "Botulinum toxin injections can help reduce excessive muscle tension and improve vocal quality in patients with muscle tension dysphonia."
+    },
+    {
+        "question": "What are the typical findings in a patient with vocal fold paresis?",
+        "answer": "Findings may include reduced vocal fold movement, incomplete closure during phonation, and a breathy or weak voice."
+    },
+    {
+        "question": "How can inhalation of noxious fumes lead to vocal fold injury?",
+        "answer": "Inhalation of noxious fumes can cause chemical burns, inflammation, and scarring of the vocal folds, leading to voice changes and breathing difficulties."
+    },
+    {
+        "question": "What are the symptoms of laryngeal papillomatosis in children?",
+        "answer": "Symptoms include hoarseness, weak cry, chronic cough, and in severe cases, airway obstruction."
+    },
+    {
+        "question": "How is vocal fold hemorrhage treated?",
+        "answer": "Treatment includes strict voice rest, sometimes corticosteroids to reduce inflammation, and in severe cases, surgical intervention to stop the bleeding."
+    },
+    {
+        "question": "What are the signs of chronic laryngitis on laryngoscopy?",
+        "answer": "Signs include thickened, red, and sometimes swollen vocal folds, often with mucus buildup."
+    },
+    {
+        "question": "How is vocal fold leukoplakia treated?",
+        "answer": "Treatment includes monitoring with regular laryngoscopy, voice therapy, and sometimes surgical removal of leukoplakic lesions."
+    },
+    {
+        "question": "What are the potential outcomes of untreated vocal fold paralysis?",
+        "answer": "Outcomes can include persistent hoarseness, voice fatigue, aspiration, and in severe cases, breathing difficulties."
+    },
+    {
+        "question": "What are the signs of vocal fold nodules on laryngoscopy?",
+        "answer": "Signs include small, bilateral, symmetrical lesions on the vocal folds, often at the midpoint of the membranous vocal fold."
+    },
+    {
+        "question": "What are the symptoms of arytenoid erythema and edema?",
+        "answer": "Symptoms include hoarseness, throat pain, and sometimes a sensation of a lump in the throat."
+    },
+    {
+        "question": "How can laryngeal carcinoma be treated?",
+        "answer": "Treatment options include surgery, radiation therapy, chemotherapy, and sometimes targeted therapy depending on the stage and location of the cancer."
+    },
+    {
+        "question": "What are the common causes of vocal fold granulomas?",
+        "answer": "Common causes include vocal trauma, gastroesophageal reflux disease (GERD), and prolonged intubation."
+    },
+    {
+        "question": "How is laryngeal papillomatosis managed?",
+        "answer": "Management includes surgical removal of papillomas, laser therapy, and ongoing monitoring for recurrence. Adjuvant therapies may also be considered."
+    },
+    {
+        "question": "What are the symptoms of muscle tension dysphonia?",
+        "answer": "Symptoms include strained or tight voice, vocal fatigue, and sometimes pain or discomfort when speaking."
+    },
+    {
+        "question": "How is vocal fold cysts diagnosed?",
+        "answer": "Diagnosis is made through laryngoscopy, which allows direct visualization of the cysts on the vocal folds."
+    },
+    {
+        "question": "What are the treatment options for vocal fold polyps?",
+        "answer": "Treatment options include voice rest, voice therapy, and in some cases, surgical removal of the polyps."
+    },
+    {
+        "question": "How can voice therapy help patients with vocal fold cysts?",
+        "answer": "Voice therapy can help reduce vocal strain, teach healthy vocal techniques, and promote healing of the cysts."
+    },
+    {
+        "question": "What are the signs of vocal fold hemorrhage on laryngoscopy?",
+        "answer": "Signs include visible blood or bruising on the vocal folds, often with associated swelling and redness."
+    },
+    {
+        "question": "What are the potential complications of vocal fold granulomas?",
+        "answer": "Complications can include persistent hoarseness, voice fatigue, and in severe cases, airway obstruction."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold varices?",
+        "answer": "Symptoms include hoarseness, voice fatigue, and sometimes throat discomfort or pain."
+    },
+    {
+        "question": "How can laryngopharyngeal reflux be managed?",
+        "answer": "Management includes dietary modifications, medications to reduce stomach acid, voice therapy, and lifestyle changes to reduce reflux symptoms."
+    },
+    {
+        "question": "What are the signs of vocal fold polyps on laryngoscopy?",
+        "answer": "Signs include visible, swollen, fluid-filled lesions on the vocal folds, often with a broad base or a thin stalk."
+    },
+    {
+        "question": "What are the treatment options for chronic laryngitis?",
+        "answer": "Treatment options include voice rest, hydration, avoiding irritants, managing underlying conditions like reflux or allergies, and sometimes medication or voice therapy."
+    },
+    {
+        "question": "How is vocal fold scarring diagnosed?",
+        "answer": "Diagnosis is typically made through laryngoscopy, which allows direct visualization of the scarring on the vocal folds."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold nodules?",
+        "answer": "Common symptoms include hoarseness, voice fatigue, and difficulty producing high-pitched sounds."
+    },
+    {
+        "question": "How can voice therapy help patients with muscle tension dysphonia?",
+        "answer": "Voice therapy can teach techniques to reduce muscle tension, improve vocal quality, and prevent vocal strain."
+    },
+    {
+        "question": "What are the typical management strategies for vocal fold nodules?",
+        "answer": "Management strategies include voice therapy, vocal rest, avoiding vocal strain, and in some cases, surgical intervention."
+    },
+    {
+        "question": "What are the symptoms of mucosal vocal fold injury due to inhalation of noxious fumes?",
+        "answer": "Symptoms include hoarseness, voice fatigue, pain, and sometimes difficulty breathing. Physical exams may show vocal fold scarring and mucosal irregularities."
+    },
+    {
+        "question": "What are the common symptoms of laryngeal carcinoma?",
+        "answer": "Common symptoms include hoarseness, difficulty swallowing, a lump in the neck, persistent cough, and sometimes ear pain."
+    },
+    {
+        "question": "What are the common causes of hoarseness?",
+        "answer": "Common causes include acute laryngitis, chronic laryngitis, vocal fold nodules or polyps, vocal cord paralysis, and gastroesophageal reflux disease."
+    },
+    {
+        "question": "How is vocal cord dysfunction diagnosed?",
+        "answer": "Diagnosis is often based on the patient's history, physical examination, and laryngoscopy to observe the vocal cords during breathing and speaking."
+    },
+    {
+        "question": "What are the typical clinical findings in laryngeal electromyogram (EMG) for a patient with vocal fold paralysis?",
+        "answer": "Typical findings may include reduced or absent muscle activity in the affected vocal fold, indicating nerve damage or dysfunction."
+    },
+    {
+        "question": "What are the common causes of vocal fold nodules in teachers?",
+        "answer": "Common causes include excessive voice use, speaking in noisy environments, and poor vocal hygiene."
+    },
+    {
+        "question": "What are the signs of arytenoid erythema and edema on laryngeal examination?",
+        "answer": "Signs include redness and swelling of the arytenoid cartilages, often associated with conditions like GERD or vocal abuse."
+    },
+
+    {
+        "question": "What are the common symptoms of vocal fold mass?",
+        "answer": "Common symptoms of vocal fold mass include hoarseness, breathiness, decreased vocal intensity, and vocal fatigue."
+    },
+    {
+        "question": "What diagnosis is associated with vocal fold scar and muscle-tension dysphonia?",
+        "answer": "The diagnosis associated with vocal fold scar and muscle-tension dysphonia often includes conditions like reflux laryngitis and vocal fold masses."
+    },
+    {
+        "question": "What is the recommended treatment for vocal fold scar?",
+        "answer": "The recommended treatment for vocal fold scar may include direct microlaryngoscopy and excision of vocal fold mass, along with autologous fat injection."
+    },
+    {
+        "question": "What are the common physical exam findings in patients with vocal fold mass?",
+        "answer": "Physical exam findings often include evidence of reflux laryngitis, muscle-tension dysphonia, and presence of vocal fold masses or scars."
+    },
+    {
+        "question": "What clinical studies are used to diagnose vocal fold mass?",
+        "answer": "Clinical studies used to diagnose vocal fold mass include strobovideolaryngoscopy, laryngeal electromyography, and acoustic measurements."
+    },
+    {
+        "question": "What impairment rating is given to patients with vocal fold scar and mass?",
+        "answer": "Patients with vocal fold scar and mass may receive an impairment rating of 35% to 59% voice/speech impairment."
+    },
+    {
+        "question": "What history is often associated with vocal fold leukoplakia?",
+        "answer": "History often includes recurrent sinusitis, progressive hoarseness, and exposure to irritants like car fumes and asbestos."
+    },
+    {
+        "question": "What are the common symptoms of gastroesophageal reflux disease affecting the vocal cords?",
+        "answer": "Symptoms include hoarseness, throat clearing, sensation of a lump in the throat, and vocal fatigue."
+    },
+    {
+        "question": "What are the physical exam findings in patients with leukoplakia on the vocal cords?",
+        "answer": "Findings include leukoplakia on the vocal fold, erythema, edema, and muscle-tension dysphonia."
+    },
+    {
+        "question": "What is the impairment rating for vocal fold leukoplakia?",
+        "answer": "Impairment rating for vocal fold leukoplakia is typically 35% to 59% voice/speech impairment."
+    },
+    {
+        "question": "What treatment options are considered for vocal fold scar and leukoplakia?",
+        "answer": "Treatment options include surgical excision, voice therapy, and management of gastroesophageal reflux disease."
+    },
+    {
+        "question": "What are the symptoms of muscle-tension dysphonia?",
+        "answer": "Symptoms include strained, hoarse voice, vocal fatigue, and difficulty in producing speech."
+    },
+    {
+        "question": "What are the diagnostic measures for muscle-tension dysphonia?",
+        "answer": "Diagnostic measures include laryngeal electromyogram, strobovideolaryngoscopy, and acoustic analysis."
+    },
+    {
+        "question": "What impairment rating is given for severe vocal fold scarring?",
+        "answer": "Severe vocal fold scarring may result in a voice/speech impairment rating of 35% to 59%."
+    },
+    {
+        "question": "What are common symptoms of vocal fold hemorrhage?",
+        "answer": "Common symptoms include hoarseness, breathiness, and decreased vocal range."
+    },
+    {
+        "question": "What physical exam findings indicate a vocal fold hemorrhage?",
+        "answer": "Findings include vocal fold mass or cyst, scar tissue, and possibly erythema and edema."
+    },
+    {
+        "question": "What is the impairment rating for vocal fold hemorrhage?",
+        "answer": "Impairment rating for vocal fold hemorrhage is 15% to 34% voice/speech impairment."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold nodules?",
+        "answer": "Symptoms include hoarseness, vocal fatigue, and breathiness."
+    },
+    {
+        "question": "What are the physical exam findings in patients with vocal fold nodules?",
+        "answer": "Findings include bilateral vocal fold masses and evidence of reflux laryngitis."
+    },
+    {
+        "question": "What treatment is recommended for vocal fold nodules?",
+        "answer": "Treatment includes voice therapy, medical management of reflux, and possibly surgical excision."
+    },
+    {
+        "question": "What impairment rating is given for vocal fold nodules?",
+        "answer": "Impairment rating for vocal fold nodules ranges from 15% to 34% voice/speech impairment."
+    },
+    {
+        "question": "What are the symptoms of vocal fold cysts?",
+        "answer": "Symptoms include hoarseness, vocal fatigue, and decreased vocal range."
+    },
+    {
+        "question": "What physical exam findings are associated with vocal fold cysts?",
+        "answer": "Findings include presence of a cyst on the vocal fold, scar tissue, and possibly muscle-tension dysphonia."
+    },
+    {
+        "question": "What is the recommended treatment for vocal fold cysts?",
+        "answer": "Treatment may include surgical excision and voice therapy."
+    },
+    {
+        "question": "What impairment rating is given for vocal fold cysts?",
+        "answer": "Impairment rating for vocal fold cysts ranges from 15% to 34% voice/speech impairment."
+    },
+    {
+        "question": "What are the symptoms of vocal fold paralysis?",
+        "answer": "Symptoms include hoarseness, breathiness, decreased vocal intensity, and vocal fatigue."
+    },
+    {
+        "question": "What physical exam findings indicate vocal fold paralysis?",
+        "answer": "Findings include immobility of one or both vocal folds, arytenoid dislocation, and muscle-tension dysphonia."
+    },
+    {
+        "question": "What is the treatment for vocal fold paralysis?",
+        "answer": "Treatment may include voice therapy, surgical intervention such as medialization, and management of underlying conditions."
+    },
+    {
+        "question": "What impairment rating is given for vocal fold paralysis?",
+        "answer": "Impairment rating for vocal fold paralysis ranges from 35% to 59% voice/speech impairment."
+    },
+    {
+        "question": "What are the common symptoms of arytenoid dislocation?",
+        "answer": "Symptoms include hoarseness, breathiness, and vocal fatigue."
+    },
+    {
+        "question": "What physical exam findings are associated with arytenoid dislocation?",
+        "answer": "Findings include dislocation of the arytenoid cartilage and vocal fold immobility."
+    },
+    {
+        "question": "What is the treatment for arytenoid dislocation?",
+        "answer": "Treatment may include surgical correction and voice therapy."
+    },
+    {
+        "question": "What impairment rating is given for arytenoid dislocation?",
+        "answer": "Impairment rating for arytenoid dislocation ranges from 0% to 14% voice/speech impairment."
+    },
+    {
+        "question": "What are the symptoms of laryngeal papillomatosis?",
+        "answer": "Symptoms include hoarseness, breathiness, and vocal fatigue."
+    },
+    {
+        "question": "What physical exam findings indicate laryngeal papillomatosis?",
+        "answer": "Findings include presence of papillomas on the vocal folds and evidence of reflux laryngitis."
+    },
+    {
+        "question": "What is the recommended treatment for laryngeal papillomatosis?",
+        "answer": "Treatment may include surgical excision of papillomas and management of underlying reflux."
+    },
+    {
+        "question": "What impairment rating is given for laryngeal papillomatosis?",
+        "answer": "Impairment rating for laryngeal papillomatosis ranges from 60% to 84% voice/speech impairment."
+    },
+    {
+        "question": "What are the common symptoms of superior laryngeal nerve paresis?",
+        "answer": "Symptoms include hoarseness, decreased vocal range, and vocal fatigue."
+    },
+    {
+        "question": "What physical exam findings indicate superior laryngeal nerve paresis?",
+        "answer": "Findings include decreased function of the superior laryngeal nerve and possible muscle-tension dysphonia."
+    },
+    {
+        "question": "What is the recommended treatment for superior laryngeal nerve paresis?",
+        "answer": "Treatment may include voice therapy and management of underlying conditions."
+    },
+    {
+        "question": "What impairment rating is given for superior laryngeal nerve paresis?",
+        "answer": "Impairment rating for superior laryngeal nerve paresis ranges from 0% to 14% voice/speech impairment."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold hemorrhage?",
+        "answer": "Symptoms include hoarseness, breathiness, decreased vocal range, and vocal fatigue."
+    },
+    {
+        "question": "What physical exam findings indicate vocal fold hemorrhage?",
+        "answer": "Findings include presence of a vocal fold mass or cyst, scar tissue, and possible erythema and edema."
+    },
+    
+    {
+        "question": "What are the primary symptoms of vocal fold hemorrhage?",
+        "answer": "Primary symptoms include sudden hoarseness, loss of vocal range, and throat pain."
+    },
+    {
+        "question": "How is vocal fold hemorrhage typically treated?",
+        "answer": "Treatment includes strict voice rest, corticosteroids to reduce inflammation, and, in severe cases, surgical intervention."
+    },
+    {
+        "question": "What are the key symptoms of laryngeal papillomatosis?",
+        "answer": "Key symptoms include hoarseness, weak cry in children, chronic cough, and airway obstruction in severe cases."
+    },
+    {
+        "question": "How is laryngeal papillomatosis managed?",
+        "answer": "Management includes surgical removal of papillomas, laser therapy, and monitoring for recurrence."
+    },
+    {
+        "question": "What are the symptoms of superior laryngeal nerve paresis?",
+        "answer": "Symptoms include hoarseness, decreased pitch range, and vocal fatigue."
+    },
+    {
+        "question": "What treatments are recommended for superior laryngeal nerve paresis?",
+        "answer": "Recommended treatments include voice therapy and managing underlying conditions."
+    },
+    {
+        "question": "What are common symptoms of vocal fold cysts?",
+        "answer": "Common symptoms include hoarseness, vocal fatigue, and the sensation of a lump in the throat."
+    },
+    {
+        "question": "How are vocal fold cysts diagnosed?",
+        "answer": "Diagnosis is typically made through laryngoscopy, allowing direct visualization of the cysts."
+    },
+    {
+        "question": "What is the recommended treatment for vocal fold cysts?",
+        "answer": "Recommended treatment includes surgical excision and voice therapy."
+    },
+    {
+        "question": "What are the key management strategies for arytenoid dislocation?",
+        "answer": "Key management strategies include surgical correction and voice therapy."
+    },
+    {
+        "question": "What are the primary symptoms of arytenoid dislocation?",
+        "answer": "Primary symptoms include hoarseness, breathiness, and vocal fatigue."
+    },
+    {
+        "question": "What are common symptoms of vocal fold nodules?",
+        "answer": "Common symptoms include hoarseness, vocal fatigue, and difficulty producing high-pitched sounds."
+    },
+    {
+        "question": "How are vocal fold nodules typically treated?",
+        "answer": "Treatment includes voice therapy, vocal rest, and, in some cases, surgical removal."
+    },
+    {
+        "question": "What are the signs of vocal fold polyps on laryngoscopy?",
+        "answer": "Signs include visible, swollen, fluid-filled lesions on the vocal folds."
+    },
+    {
+        "question": "What are the treatment options for vocal fold polyps?",
+        "answer": "Treatment options include voice rest, voice therapy, and surgical removal."
+    },
+    {
+        "question": "What are the symptoms of laryngeal carcinoma?",
+        "answer": "Symptoms include persistent hoarseness, difficulty swallowing, lump in the neck, chronic cough, and ear pain."
+    },
+    {
+        "question": "How is laryngeal carcinoma typically treated?",
+        "answer": "Treatment options include surgery, radiation therapy, chemotherapy, and targeted therapy."
+    },
+    {
+        "question": "What are the signs of vocal fold paralysis on laryngoscopy?",
+        "answer": "Signs include one or both vocal folds not moving properly, resulting in a gap during phonation."
+    },
+    {
+        "question": "What are the treatment options for vocal fold paralysis?",
+        "answer": "Treatment options include voice therapy, surgical interventions like medialization, and managing underlying conditions."
+    },
+    {
+        "question": "What are the common symptoms of chronic laryngitis?",
+        "answer": "Common symptoms include persistent hoarseness, throat discomfort, coughing, and a sensation of throat clearing."
+    },
+    {
+        "question": "How is chronic laryngitis typically managed?",
+        "answer": "Management includes voice rest, hydration, avoiding irritants, and managing underlying conditions like reflux."
+    },
+    {
+        "question": "What are the symptoms of muscle tension dysphonia?",
+        "answer": "Symptoms include strained or tight voice, vocal fatigue, and pain when speaking."
+    },
+    {
+        "question": "How is muscle tension dysphonia typically treated?",
+        "answer": "Treatment includes voice therapy to reduce muscle tension and improve vocal quality."
+    },
+    {
+        "question": "What are the signs of vocal fold varices on laryngoscopy?",
+        "answer": "Signs include visible, dilated blood vessels on the vocal folds."
+    },
+    {
+        "question": "How are vocal fold varices treated?",
+        "answer": "Treatment includes voice rest, voice therapy, and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold hemorrhage?",
+        "answer": "Symptoms include sudden hoarseness, loss of vocal range, and throat pain."
+    },
+    {
+        "question": "What is the role of botulinum toxin in treating muscle tension dysphonia?",
+        "answer": "Botulinum toxin injections can reduce excessive muscle tension and improve vocal quality."
+    },
+    {
+        "question": "What are the symptoms of vocal fold paresis?",
+        "answer": "Symptoms include reduced vocal fold movement, incomplete closure during phonation, and a breathy voice."
+    },
+    {
+        "question": "What is the recommended treatment for vocal fold paresis?",
+        "answer": "Treatment includes voice therapy and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the signs of vocal fold nodules on laryngoscopy?",
+        "answer": "Signs include small, bilateral, symmetrical lesions on the vocal folds."
+    },
+    {
+        "question": "How can voice therapy help in treating vocal fold nodules?",
+        "answer": "Voice therapy can help reduce vocal strain, teach healthy vocal techniques, and promote healing."
+    },
+    {
+        "question": "What are the symptoms of arytenoid erythema and edema?",
+        "answer": "Symptoms include hoarseness, throat pain, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "How is arytenoid erythema and edema treated?",
+        "answer": "Treatment includes managing underlying causes like reflux and using anti-inflammatory medications."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold polyps?",
+        "answer": "Common symptoms include hoarseness, vocal fatigue, and difficulty with vocal projection."
+    },
+    {
+        "question": "What are the signs of vocal fold scarring on laryngoscopy?",
+        "answer": "Signs include stiff, immobile areas on the vocal folds, often with irregular edges."
+    },
+    {
+        "question": "What are the symptoms of laryngopharyngeal reflux affecting the vocal folds?",
+        "answer": "Symptoms include hoarseness, throat clearing, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "How is laryngopharyngeal reflux managed?",
+        "answer": "Management includes dietary modifications, medications to reduce stomach acid, and lifestyle changes."
+    },
+    {
+        "question": "What are the signs of chronic laryngitis on laryngoscopy?",
+        "answer": "Signs include thickened, red, and sometimes swollen vocal folds with mucus buildup."
+    },
+    {
+        "question": "What are the potential outcomes of untreated vocal fold paralysis?",
+        "answer": "Outcomes can include persistent hoarseness, voice fatigue, aspiration, and breathing difficulties."
+    },
+    {
+        "question": "What are the signs of vocal fold leukoplakia on laryngoscopy?",
+        "answer": "Signs include white patches or plaques on the vocal folds, which may be precancerous."
+    },
+    {
+        "question": "How is vocal fold leukoplakia treated?",
+        "answer": "Treatment includes monitoring, voice therapy, and sometimes surgical removal of lesions."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold granulomas?",
+        "answer": "Symptoms include hoarseness, throat pain, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "How are vocal fold granulomas typically treated?",
+        "answer": "Treatment includes voice rest, anti-reflux medication, and sometimes surgical removal."
+    },
+    {
+        "question": "What are the symptoms of laryngeal edema?",
+        "answer": "Symptoms include hoarseness, difficulty breathing, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "How is laryngeal edema treated?",
+        "answer": "Treatment includes managing underlying causes, anti-inflammatory medications, and sometimes steroids."
+    },
+    {
+        "question": "What are the signs of laryngeal carcinoma on laryngoscopy?",
+        "answer": "Signs include irregular, often ulcerated masses on the vocal folds, sometimes with visible bleeding."
+    },
+    {
+        "question": "What are the symptoms of vocal fold scarring?",
+        "answer": "Symptoms include hoarseness, vocal fatigue, and reduced vocal range."
+    },
+    {
+        "question": "How is vocal fold scarring treated?",
+        "answer": "Treatment includes voice therapy, surgical intervention, and managing underlying conditions."
+    },
+    {
+        "question": "What are the symptoms of vocal fold hemorrhage?",
+        "answer": "Symptoms include sudden hoarseness, loss of vocal range, and throat pain."
+    },
+    {
+        "question": "What is the recommended treatment for vocal fold hemorrhage?",
+        "answer": "Treatment includes strict voice rest, corticosteroids, and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the signs of laryngeal papillomatosis on laryngoscopy?",
+        "answer": "Signs include multiple, wart-like growths on the vocal folds, often causing obstruction."
+    },
+    {
+        "question": "How is laryngeal papillomatosis managed?",
+        "answer": "Management includes surgical removal, laser therapy, and monitoring for recurrence."
+    },
+    {
+        "question": "What are the symptoms of muscle tension dysphonia?",
+        "answer": "Symptoms include a strained, tight voice, vocal fatigue, and pain when speaking."
+    },
+    {
+        "question": "How is muscle tension dysphonia treated?",
+        "answer": "Treatment includes voice therapy to reduce muscle tension and improve vocal quality."
+    },
+    {
+        "question": "What are the signs of vocal fold varices on laryngoscopy?",
+        "answer": "Signs include visible, dilated blood vessels on the vocal folds."
+    },
+    {
+        "question": "How are vocal fold varices treated?",
+        "answer": "Treatment includes voice rest, voice therapy, and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold hemorrhage?",
+        "answer": "Symptoms include sudden hoarseness, loss of vocal range, and throat pain."
+    },
+    {
+        "question": "What are the symptoms of vocal fold paresis?",
+        "answer": "Symptoms include reduced vocal fold movement, incomplete closure during phonation, and a breathy voice."
+    },
+    {
+        "question": "How is vocal fold paresis typically treated?",
+        "answer": "Treatment includes voice therapy and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the signs of vocal fold nodules on laryngoscopy?",
+        "answer": "Signs include small, bilateral, symmetrical lesions on the vocal folds."
+    },
+    {
+        "question": "What are the symptoms of arytenoid erythema and edema?",
+        "answer": "Symptoms include hoarseness, throat pain, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "How is arytenoid erythema and edema treated?",
+        "answer": "Treatment includes managing underlying causes like reflux and using anti-inflammatory medications."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold polyps?",
+        "answer": "Common symptoms include hoarseness, vocal fatigue, and difficulty with vocal projection."
+    },
+    {
+        "question": "What are the signs of vocal fold scarring on laryngoscopy?",
+        "answer": "Signs include stiff, immobile areas on the vocal folds, often with irregular edges."
+    },
+    {
+        "question": "What are the symptoms of laryngopharyngeal reflux affecting the vocal folds?",
+        "answer": "Symptoms include hoarseness, throat clearing, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "How is laryngopharyngeal reflux managed?",
+        "answer": "Management includes dietary modifications, medications to reduce stomach acid, and lifestyle changes."
+    },
+    {
+        "question": "What are the signs of chronic laryngitis on laryngoscopy?",
+        "answer": "Signs include thickened, red, and sometimes swollen vocal folds with mucus buildup."
+    },
+    {
+        "question": "What are the potential outcomes of untreated vocal fold paralysis?",
+        "answer": "Outcomes can include persistent hoarseness, voice fatigue, aspiration, and breathing difficulties."
+    },
+    {
+        "question": "What are the signs of vocal fold leukoplakia on laryngoscopy?",
+        "answer": "Signs include white patches or plaques on the vocal folds, which may be precancerous."
+    },
+    {
+        "question": "How is vocal fold leukoplakia treated?",
+        "answer": "Treatment includes monitoring, voice therapy, and sometimes surgical removal of lesions."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold granulomas?",
+        "answer": "Symptoms include hoarseness, throat pain, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "How are vocal fold granulomas typically treated?",
+        "answer": "Treatment includes voice rest, anti-reflux medication, and sometimes surgical removal."
+    },
+    {
+        "question": "What are the symptoms of laryngeal edema?",
+        "answer": "Symptoms include hoarseness, difficulty breathing, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "How is laryngeal edema treated?",
+        "answer": "Treatment includes managing underlying causes, anti-inflammatory medications, and sometimes steroids."
+    },
+    {
+        "question": "What are the signs of laryngeal carcinoma on laryngoscopy?",
+        "answer": "Signs include irregular, often ulcerated masses on the vocal folds, sometimes with visible bleeding."
+    },
+    {
+        "question": "What are the symptoms of vocal fold scarring?",
+        "answer": "Symptoms include hoarseness, vocal fatigue, and reduced vocal range."
+    },
+    {
+        "question": "How is vocal fold scarring treated?",
+        "answer": "Treatment includes voice therapy, surgical intervention, and managing underlying conditions."
+    },
+    {
+        "question": "What are the symptoms of vocal fold hemorrhage?",
+        "answer": "Symptoms include sudden hoarseness, loss of vocal range, and throat pain."
+    },
+    {
+        "question": "What is the recommended treatment for vocal fold hemorrhage?",
+        "answer": "Treatment includes strict voice rest, corticosteroids, and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the signs of laryngeal papillomatosis on laryngoscopy?",
+        "answer": "Signs include multiple, wart-like growths on the vocal folds, often causing obstruction."
+    },
+    {
+        "question": "How is laryngeal papillomatosis managed?",
+        "answer": "Management includes surgical removal, laser therapy, and monitoring for recurrence."
+    },
+    {
+        "question": "What are the symptoms of muscle tension dysphonia?",
+        "answer": "Symptoms include a strained, tight voice, vocal fatigue, and pain when speaking."
+    },
+    {
+        "question": "How is muscle tension dysphonia treated?",
+        "answer": "Treatment includes voice therapy to reduce muscle tension and improve vocal quality."
+    },
+    {
+        "question": "What are the signs of vocal fold varices on laryngoscopy?",
+        "answer": "Signs include visible, dilated blood vessels on the vocal folds."
+    },
+    {
+        "question": "How are vocal fold varices treated?",
+        "answer": "Treatment includes voice rest, voice therapy, and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold hemorrhage?",
+        "answer": "Symptoms include sudden hoarseness, loss of vocal range, and throat pain."
+    },
+    {
+        "question": "What are the symptoms of vocal fold paresis?",
+        "answer": "Symptoms include reduced vocal fold movement, incomplete closure during phonation, and a breathy voice."
+    },
+    {
+        "question": "How is vocal fold paresis typically treated?",
+        "answer": "Treatment includes voice therapy and sometimes surgical intervention."
+    },
+
+
+    {
+        "question": "What is the purpose of laryngoscopy?",
+        "answer": "Laryngoscopy is used to examine the larynx, vocal cords, and surrounding structures to diagnose abnormalities."
+    },
+    {
+        "question": "What are the indications for performing a laryngoscopy?",
+        "answer": "Indications include hoarseness, throat pain, difficulty swallowing, and suspicion of laryngeal cancer."
+    },
+    {
+        "question": "What are common symptoms that might lead to a laryngoscopy?",
+        "answer": "Symptoms include persistent hoarseness, throat pain, coughing up blood, and difficulty breathing."
+    },
+    {
+        "question": "How is a flexible laryngoscopy performed?",
+        "answer": "A flexible laryngoscopy is performed by inserting a thin, flexible scope through the nose to view the larynx."
+    },
+    {
+        "question": "What are the risks associated with laryngoscopy?",
+        "answer": "Risks include bleeding, infection, and vocal cord damage."
+    },
+    {
+        "question": "What is a common treatment for laryngeal inflammation?",
+        "answer": "Treatment often includes voice rest, hydration, and avoiding irritants such as smoke."
+    },
+    {
+        "question": "What are the signs of vocal fold granulomas on laryngoscopy?",
+        "answer": "Signs include firm, nodular masses typically located on the vocal processes of the arytenoids."
+    },
+    {
+        "question": "How are vocal fold granulomas treated?",
+        "answer": "Treatment includes voice therapy, anti-reflux medications, and sometimes surgical excision."
+    },
+    {
+        "question": "What is the role of voice therapy in treating vocal fold disorders?",
+        "answer": "Voice therapy helps improve vocal technique, reduce strain, and promote healing of the vocal folds."
+    },
+    {
+        "question": "What are the symptoms of vocal fold lesions?",
+        "answer": "Symptoms include hoarseness, breathiness, and vocal fatigue."
+    },
+    {
+        "question": "What are the treatment options for vocal fold lesions?",
+        "answer": "Treatment options include voice therapy, surgical removal, and managing underlying conditions."
+    },
+    {
+        "question": "What are the causes of vocal fold cysts?",
+        "answer": "Causes include vocal abuse, trauma, and congenital factors."
+    },
+    {
+        "question": "What are the diagnostic methods for vocal fold cysts?",
+        "answer": "Diagnosis is typically made using laryngoscopy or stroboscopy to visualize the cysts."
+    },
+    {
+        "question": "What are the potential complications of untreated vocal fold cysts?",
+        "answer": "Complications include persistent hoarseness, vocal fatigue, and potential for rupture."
+    },
+    {
+        "question": "What is the typical presentation of laryngeal papillomatosis in children?",
+        "answer": "Typical presentation includes a weak cry, chronic cough, and respiratory distress."
+    },
+    {
+        "question": "What is the role of laser surgery in treating laryngeal papillomatosis?",
+        "answer": "Laser surgery is used to precisely remove papillomas and minimize damage to surrounding tissue."
+    },
+    {
+        "question": "What are the common symptoms of superior laryngeal nerve paresis?",
+        "answer": "Common symptoms include hoarseness, reduced pitch range, and difficulty projecting the voice."
+    },
+    {
+        "question": "What are the causes of superior laryngeal nerve paresis?",
+        "answer": "Causes include viral infections, trauma, and surgical complications."
+    },
+    {
+        "question": "How is superior laryngeal nerve paresis diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, electromyography, and assessment of vocal function."
+    },
+    {
+        "question": "What are the signs of arytenoid dislocation on laryngoscopy?",
+        "answer": "Signs include abnormal arytenoid position and impaired vocal fold movement."
+    },
+    {
+        "question": "What are the treatment options for arytenoid dislocation?",
+        "answer": "Treatment options include manual reduction, surgical correction, and voice therapy."
+    },
+    {
+        "question": "What are the symptoms of vocal fold nodules in singers?",
+        "answer": "Symptoms include hoarseness, loss of vocal range, and vocal fatigue."
+    },
+    {
+        "question": "How can vocal fold nodules be prevented?",
+        "answer": "Prevention includes proper vocal technique, adequate hydration, and avoiding vocal strain."
+    },
+    {
+        "question": "What are the signs of vocal fold polyps on laryngoscopy?",
+        "answer": "Signs include unilateral, fluid-filled lesions on the vocal folds."
+    },
+    {
+        "question": "What are the common symptoms of laryngeal carcinoma?",
+        "answer": "Common symptoms include persistent hoarseness, throat pain, and difficulty swallowing."
+    },
+    {
+        "question": "What are the risk factors for developing laryngeal carcinoma?",
+        "answer": "Risk factors include smoking, alcohol consumption, and exposure to certain chemicals."
+    },
+    {
+        "question": "What are the treatment options for early-stage laryngeal carcinoma?",
+        "answer": "Treatment options include radiation therapy, surgery, and sometimes chemotherapy."
+    },
+    {
+        "question": "What are the diagnostic methods for laryngeal carcinoma?",
+        "answer": "Diagnostic methods include laryngoscopy, biopsy, and imaging studies such as CT or MRI."
+    },
+    {
+        "question": "What are the signs of vocal fold paralysis on laryngoscopy?",
+        "answer": "Signs include one or both vocal folds being immobile or having limited movement."
+    },
+    {
+        "question": "What are the symptoms of unilateral vocal fold paralysis?",
+        "answer": "Symptoms include hoarseness, breathy voice, and aspiration."
+    },
+    {
+        "question": "What are the common causes of vocal fold paralysis?",
+        "answer": "Common causes include nerve injury, viral infections, and tumors."
+    },
+    {
+        "question": "What are the treatment options for vocal fold paralysis?",
+        "answer": "Treatment options include voice therapy, surgical medialization, and injection laryngoplasty."
+    },
+    {
+        "question": "What are the symptoms of chronic laryngitis?",
+        "answer": "Symptoms include persistent hoarseness, throat discomfort, and frequent throat clearing."
+    },
+    {
+        "question": "What are the common causes of chronic laryngitis?",
+        "answer": "Common causes include smoking, GERD, and chronic vocal strain."
+    },
+    {
+        "question": "What are the signs of chronic laryngitis on laryngoscopy?",
+        "answer": "Signs include thickened, red vocal folds with mucus buildup."
+    },
+    {
+        "question": "What are the treatment options for chronic laryngitis?",
+        "answer": "Treatment options include voice rest, hydration, and managing underlying causes."
+    },
+    {
+        "question": "What are the symptoms of muscle tension dysphonia?",
+        "answer": "Symptoms include strained voice, vocal fatigue, and pain when speaking."
+    },
+    {
+        "question": "What are the causes of muscle tension dysphonia?",
+        "answer": "Causes include vocal misuse, stress, and underlying medical conditions."
+    },
+    {
+        "question": "How is muscle tension dysphonia diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, voice evaluation, and assessment of vocal habits."
+    },
+    {
+        "question": "What are the treatment options for muscle tension dysphonia?",
+        "answer": "Treatment options include voice therapy, relaxation techniques, and managing underlying stress."
+    },
+    {
+        "question": "What are the signs of vocal fold varices on laryngoscopy?",
+        "answer": "Signs include visible, dilated blood vessels on the vocal folds."
+    },
+    {
+        "question": "What are the symptoms of vocal fold varices?",
+        "answer": "Symptoms include hoarseness, vocal fatigue, and sometimes throat pain."
+    },
+    {
+        "question": "What are the treatment options for vocal fold varices?",
+        "answer": "Treatment options include voice rest, voice therapy, and sometimes laser treatment."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold hemorrhage?",
+        "answer": "Symptoms include sudden hoarseness, loss of vocal range, and throat pain."
+    },
+    {
+        "question": "What are the causes of vocal fold hemorrhage?",
+        "answer": "Causes include vocal trauma, vocal abuse, and use of anticoagulant medications."
+    },
+    {
+        "question": "What are the signs of vocal fold hemorrhage on laryngoscopy?",
+        "answer": "Signs include bright red or bruised areas on the vocal folds."
+    },
+    {
+        "question": "How is vocal fold hemorrhage treated?",
+        "answer": "Treatment includes strict voice rest, corticosteroids, and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the common symptoms of vocal fold paresis?",
+        "answer": "Symptoms include reduced vocal fold movement, breathy voice, and vocal fatigue."
+    },
+    {
+        "question": "What are the diagnostic methods for vocal fold paresis?",
+        "answer": "Diagnosis involves laryngoscopy, electromyography, and voice assessment."
+    },
+    {
+        "question": "What are the treatment options for vocal fold paresis?",
+        "answer": "Treatment options include voice therapy, surgical intervention, and managing underlying conditions."
+    },
+    {
+        "question": "What are the symptoms of laryngeal edema?",
+        "answer": "Symptoms include hoarseness, difficulty breathing, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "What are the causes of laryngeal edema?",
+        "answer": "Causes include allergies, infections, and trauma to the larynx."
+    },
+    {
+        "question": "What are the signs of laryngeal edema on laryngoscopy?",
+        "answer": "Signs include swollen, red laryngeal tissues, often with fluid accumulation."
+    },
+    {
+        "question": "What are the treatment options for laryngeal edema?",
+        "answer": "Treatment options include managing underlying causes, anti-inflammatory medications, and sometimes steroids."
+    },
+    {
+        "question": "What are the symptoms of laryngeal papillomatosis?",
+        "answer": "Symptoms include hoarseness, chronic cough, and sometimes airway obstruction."
+    },
+    {
+        "question": "What are the causes of laryngeal papillomatosis?",
+        "answer": "Causes include infection with human papillomavirus (HPV)."
+    },
+    {
+        "question": "What are the treatment options for laryngeal papillomatosis?",
+        "answer": "Treatment options include surgical removal, laser therapy, and monitoring for recurrence."
+    },
+    {
+        "question": "What are the symptoms of arytenoid erythema and edema?",
+        "answer": "Symptoms include hoarseness, throat pain, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "What are the causes of arytenoid erythema and edema?",
+        "answer": "Causes include GERD, vocal abuse, and infections."
+    },
+    {
+        "question": "What are the treatment options for arytenoid erythema and edema?",
+        "answer": "Treatment options include anti-reflux medications, voice rest, and managing underlying infections."
+    },
+    {
+        "question": "What are the symptoms of vocal fold leukoplakia?",
+        "answer": "Symptoms include hoarseness, vocal fatigue, and sometimes throat pain."
+    },
+    {
+        "question": "What are the causes of vocal fold leukoplakia?",
+        "answer": "Causes include smoking, alcohol consumption, and chronic irritation."
+    },
+    {
+        "question": "What are the signs of vocal fold leukoplakia on laryngoscopy?",
+        "answer": "Signs include white patches or plaques on the vocal folds."
+    },
+    {
+        "question": "What are the treatment options for vocal fold leukoplakia?",
+        "answer": "Treatment options include monitoring, voice therapy, and sometimes surgical removal of lesions."
+    },
+    {
+        "question": "What are the symptoms of vocal fold scarring?",
+        "answer": "Symptoms include hoarseness, vocal fatigue, and reduced vocal range."
+    },
+    {
+        "question": "What are the causes of vocal fold scarring?",
+        "answer": "Causes include vocal fold surgery, trauma, and chronic inflammation."
+    },
+    {
+        "question": "What are the signs of vocal fold scarring on laryngoscopy?",
+        "answer": "Signs include stiff, immobile areas on the vocal folds with irregular edges."
+    },
+    {
+        "question": "What are the treatment options for vocal fold scarring?",
+        "answer": "Treatment options include voice therapy, surgical intervention, and managing underlying conditions."
+    },
+    {
+        "question": "What are the symptoms of laryngeal carcinoma?",
+        "answer": "Symptoms include persistent hoarseness, throat pain, and difficulty swallowing."
+    },
+    {
+        "question": "What are the diagnostic methods for laryngeal carcinoma?",
+        "answer": "Diagnostic methods include laryngoscopy, biopsy, and imaging studies such as CT or MRI."
+    },
+    {
+        "question": "What are the treatment options for laryngeal carcinoma?",
+        "answer": "Treatment options include surgery, radiation therapy, and sometimes chemotherapy."
+    },
+    {
+        "question": "What are the signs of vocal fold paralysis on laryngoscopy?",
+        "answer": "Signs include one or both vocal folds being immobile or having limited movement."
+    },
+    {
+        "question": "What are the symptoms of unilateral vocal fold paralysis?",
+        "answer": "Symptoms include hoarseness, breathy voice, and aspiration."
+    },
+    {
+        "question": "What are the common causes of vocal fold paralysis?",
+        "answer": "Common causes include nerve injury, viral infections, and tumors."
+    },
+    {
+        "question": "What are the treatment options for vocal fold paralysis?",
+        "answer": "Treatment options include voice therapy, surgical medialization, and injection laryngoplasty."
+    },
+    {
+        "question": "What are the symptoms of chronic laryngitis?",
+        "answer": "Symptoms include persistent hoarseness, throat discomfort, and frequent throat clearing."
+    },
+    {
+        "question": "What are the common causes of chronic laryngitis?",
+        "answer": "Common causes include smoking, GERD, and chronic vocal strain."
+    },
+    {
+        "question": "What are the signs of chronic laryngitis on laryngoscopy?",
+        "answer": "Signs include thickened, red vocal folds with mucus buildup."
+    },
+    {
+        "question": "What are the treatment options for chronic laryngitis?",
+        "answer": "Treatment options include voice rest, hydration, and managing underlying causes."
+    },
+    {
+        "question": "What are the symptoms of muscle tension dysphonia?",
+        "answer": "Symptoms include strained voice, vocal fatigue, and pain when speaking."
+    },
+    {
+        "question": "What are the causes of muscle tension dysphonia?",
+        "answer": "Causes include vocal misuse, stress, and underlying medical conditions."
+    },
+    {
+        "question": "How is muscle tension dysphonia diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, voice evaluation, and assessment of vocal habits."
+    },
+    {
+        "question": "What are the treatment options for muscle tension dysphonia?",
+        "answer": "Treatment options include voice therapy, relaxation techniques, and managing underlying stress."
+    },
+
+    {
+        "question": "What is recurrent laryngeal nerve paralysis?",
+        "answer": "Recurrent laryngeal nerve paralysis is a condition where one or both of the recurrent laryngeal nerves are damaged, leading to vocal fold immobility."
+    },
+    {
+        "question": "What are the symptoms of recurrent laryngeal nerve paralysis?",
+        "answer": "Symptoms include hoarseness, breathy voice, and aspiration."
+    },
+    {
+        "question": "What are the common causes of recurrent laryngeal nerve paralysis?",
+        "answer": "Common causes include surgical injury, tumors, and viral infections."
+    },
+    {
+        "question": "How is recurrent laryngeal nerve paralysis diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, electromyography, and imaging studies."
+    },
+    {
+        "question": "What are the treatment options for recurrent laryngeal nerve paralysis?",
+        "answer": "Treatment options include voice therapy, surgical medialization, and sometimes nerve reinnervation."
+    },
+    {
+        "question": "What is subglottic stenosis?",
+        "answer": "Subglottic stenosis is a narrowing of the airway below the vocal cords, which can cause breathing difficulties."
+    },
+    {
+        "question": "What are the symptoms of subglottic stenosis?",
+        "answer": "Symptoms include stridor, difficulty breathing, and sometimes chronic cough."
+    },
+    {
+        "question": "What are the causes of subglottic stenosis?",
+        "answer": "Causes include prolonged intubation, infections, and congenital anomalies."
+    },
+    {
+        "question": "How is subglottic stenosis diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, bronchoscopy, and imaging studies."
+    },
+    {
+        "question": "What are the treatment options for subglottic stenosis?",
+        "answer": "Treatment options include surgical dilation, laser therapy, and sometimes tracheostomy."
+    },
+    {
+        "question": "What is laryngeal trauma?",
+        "answer": "Laryngeal trauma refers to injuries to the larynx caused by external or internal forces."
+    },
+    {
+        "question": "What are the symptoms of laryngeal trauma?",
+        "answer": "Symptoms include hoarseness, difficulty breathing, and pain in the throat."
+    },
+    {
+        "question": "What are the common causes of laryngeal trauma?",
+        "answer": "Common causes include blunt trauma, penetrating injuries, and inhalation of harmful substances."
+    },
+    {
+        "question": "How is laryngeal trauma diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, imaging studies, and physical examination."
+    },
+    {
+        "question": "What are the treatment options for laryngeal trauma?",
+        "answer": "Treatment options include airway management, surgical repair, and voice therapy."
+    },
+    {
+        "question": "What is the role of vocal fold mobility in voice production?",
+        "answer": "Vocal fold mobility is essential for normal voice production as it allows the vocal folds to come together and vibrate to produce sound."
+    },
+    {
+        "question": "What are the symptoms of reduced vocal fold mobility?",
+        "answer": "Symptoms include hoarseness, breathy voice, and difficulty projecting the voice."
+    },
+    {
+        "question": "What are the causes of reduced vocal fold mobility?",
+        "answer": "Causes include nerve damage, vocal fold scarring, and joint abnormalities."
+    },
+    {
+        "question": "How is vocal fold mobility assessed?",
+        "answer": "Vocal fold mobility is assessed using laryngoscopy and stroboscopy."
+    },
+    {
+        "question": "What are the treatment options for reduced vocal fold mobility?",
+        "answer": "Treatment options include voice therapy, surgical intervention, and managing underlying conditions."
+    },
+    {
+        "question": "What is reflux laryngitis?",
+        "answer": "Reflux laryngitis is inflammation of the larynx caused by stomach acid refluxing into the throat."
+    },
+    {
+        "question": "What are the symptoms of reflux laryngitis?",
+        "answer": "Symptoms include hoarseness, throat clearing, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "What are the causes of reflux laryngitis?",
+        "answer": "Causes include gastroesophageal reflux disease (GERD) and laryngopharyngeal reflux (LPR)."
+    },
+    {
+        "question": "How is reflux laryngitis diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, pH monitoring, and evaluating reflux symptoms."
+    },
+    {
+        "question": "What are the treatment options for reflux laryngitis?",
+        "answer": "Treatment options include dietary modifications, antacids, and proton pump inhibitors."
+    },
+    {
+        "question": "What is dysphonia?",
+        "answer": "Dysphonia is a term used to describe disorders of the voice, including hoarseness, weakness, and breathiness."
+    },
+    {
+        "question": "What are the common causes of dysphonia?",
+        "answer": "Common causes include vocal abuse, infections, and neurological conditions."
+    },
+    {
+        "question": "How is dysphonia diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, voice assessment, and sometimes imaging studies."
+    },
+    {
+        "question": "What are the treatment options for dysphonia?",
+        "answer": "Treatment options include voice therapy, medical management, and sometimes surgical intervention."
+    },
+    {
+        "question": "What is phonosurgery?",
+        "answer": "Phonosurgery refers to surgical procedures aimed at improving or restoring the voice."
+    },
+    {
+        "question": "What are the indications for phonosurgery?",
+        "answer": "Indications include vocal fold lesions, paralysis, and scarring."
+    },
+    {
+        "question": "What are the common types of phonosurgery?",
+        "answer": "Common types include microlaryngeal surgery, injection laryngoplasty, and medialization thyroplasty."
+    },
+    {
+        "question": "What are the risks associated with phonosurgery?",
+        "answer": "Risks include bleeding, infection, and potential voice changes."
+    },
+    {
+        "question": "What are the expected outcomes of phonosurgery?",
+        "answer": "Expected outcomes include improved voice quality, reduced hoarseness, and better vocal function."
+    },
+    {
+        "question": "What is the role of voice therapy after phonosurgery?",
+        "answer": "Voice therapy helps patients recover their voice, improve vocal technique, and prevent recurrence of issues."
+    },
+    {
+        "question": "What are the symptoms of vocal fold paralysis?",
+        "answer": "Symptoms include hoarseness, breathy voice, and aspiration."
+    },
+    {
+        "question": "What are the diagnostic methods for vocal fold paralysis?",
+        "answer": "Diagnostic methods include laryngoscopy, electromyography, and imaging studies."
+    },
+    {
+        "question": "What are the treatment options for vocal fold paralysis?",
+        "answer": "Treatment options include voice therapy, surgical medialization, and injection laryngoplasty."
+    },
+    {
+        "question": "What are the symptoms of vocal fold granulomas?",
+        "answer": "Symptoms include hoarseness, throat pain, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "What are the causes of vocal fold granulomas?",
+        "answer": "Causes include vocal abuse, GERD, and intubation trauma."
+    },
+    {
+        "question": "How are vocal fold granulomas diagnosed?",
+        "answer": "Diagnosis is made using laryngoscopy to visualize the granulomas."
+    },
+    {
+        "question": "What are the treatment options for vocal fold granulomas?",
+        "answer": "Treatment includes voice therapy, anti-reflux medications, and sometimes surgical removal."
+    },
+    {
+        "question": "What are the symptoms of laryngeal cancer?",
+        "answer": "Symptoms include persistent hoarseness, throat pain, and difficulty swallowing."
+    },
+    {
+        "question": "What are the risk factors for laryngeal cancer?",
+        "answer": "Risk factors include smoking, alcohol consumption, and exposure to certain chemicals."
+    },
+    {
+        "question": "How is laryngeal cancer diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, biopsy, and imaging studies."
+    },
+    {
+        "question": "What are the treatment options for laryngeal cancer?",
+        "answer": "Treatment options include surgery, radiation therapy, and chemotherapy."
+    },
+    {
+        "question": "What are the symptoms of vocal fold nodules?",
+        "answer": "Symptoms include hoarseness, loss of vocal range, and vocal fatigue."
+    },
+    {
+        "question": "What are the causes of vocal fold nodules?",
+        "answer": "Causes include vocal abuse, chronic vocal strain, and poor vocal technique."
+    },
+    {
+        "question": "How are vocal fold nodules diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy and stroboscopy to visualize the nodules."
+    },
+    {
+        "question": "What are the treatment options for vocal fold nodules?",
+        "answer": "Treatment includes voice therapy, vocal rest, and sometimes surgical removal."
+    },
+    {
+        "question": "What are the symptoms of laryngeal polyps?",
+        "answer": "Symptoms include hoarseness, breathy voice, and vocal fatigue."
+    },
+    {
+        "question": "What are the causes of laryngeal polyps?",
+        "answer": "Causes include vocal abuse, smoking, and chronic irritation."
+    },
+    {
+        "question": "How are laryngeal polyps diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy and stroboscopy to visualize the polyps."
+    },
+    {
+        "question": "What are the treatment options for laryngeal polyps?",
+        "answer": "Treatment includes surgical removal, voice therapy, and addressing underlying causes."
+    },
+    {
+        "question": "What are the symptoms of laryngeal cysts?",
+        "answer": "Symptoms include hoarseness, breathy voice, and vocal fatigue."
+    },
+    {
+        "question": "What are the causes of laryngeal cysts?",
+        "answer": "Causes include blocked mucous glands and congenital anomalies."
+    },
+    {
+        "question": "How are laryngeal cysts diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy and imaging studies to visualize the cysts."
+    },
+    {
+        "question": "What are the treatment options for laryngeal cysts?",
+        "answer": "Treatment includes surgical removal and managing any underlying conditions."
+    },
+    {
+        "question": "What is vocal fold atrophy?",
+        "answer": "Vocal fold atrophy is the thinning and weakening of the vocal folds, often associated with aging."
+    },
+    {
+        "question": "What are the symptoms of vocal fold atrophy?",
+        "answer": "Symptoms include a weak, breathy voice, reduced vocal stamina, and difficulty projecting the voice."
+    },
+    {
+        "question": "What are the causes of vocal fold atrophy?",
+        "answer": "Causes include aging, disuse, and underlying medical conditions."
+    },
+    {
+        "question": "How is vocal fold atrophy diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy and stroboscopy to assess vocal fold structure and function."
+    },
+    {
+        "question": "What are the treatment options for vocal fold atrophy?",
+        "answer": "Treatment includes voice therapy, vocal fold injections, and sometimes surgical intervention."
+    },
+    {
+        "question": "What is spasmodic dysphonia?",
+        "answer": "Spasmodic dysphonia is a voice disorder characterized by involuntary spasms of the vocal folds during speech."
+    },
+    {
+        "question": "What are the symptoms of spasmodic dysphonia?",
+        "answer": "Symptoms include a strained, strangled voice, and difficulty speaking."
+    },
+    {
+        "question": "What are the causes of spasmodic dysphonia?",
+        "answer": "Causes are often unknown but may involve neurological factors."
+    },
+    {
+        "question": "How is spasmodic dysphonia diagnosed?",
+        "answer": "Diagnosis involves voice assessment, laryngoscopy, and sometimes neurological evaluation."
+    },
+    {
+        "question": "What are the treatment options for spasmodic dysphonia?",
+        "answer": "Treatment includes botulinum toxin injections, voice therapy, and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the symptoms of vocal fold paralysis?",
+        "answer": "Symptoms include hoarseness, breathy voice, and aspiration."
+    },
+    {
+        "question": "What are the diagnostic methods for vocal fold paralysis?",
+        "answer": "Diagnostic methods include laryngoscopy, electromyography, and imaging studies."
+    },
+    {
+        "question": "What are the treatment options for vocal fold paralysis?",
+        "answer": "Treatment options include voice therapy, surgical medialization, and injection laryngoplasty."
+    },
+    {
+        "question": "What are the symptoms of vocal fold granulomas?",
+        "answer": "Symptoms include hoarseness, throat pain, and a sensation of a lump in the throat."
+    },
+    {
+        "question": "What are the causes of vocal fold granulomas?",
+        "answer": "Causes include vocal abuse, GERD, and intubation trauma."
+    },
+    {
+        "question": "How are vocal fold granulomas diagnosed?",
+        "answer": "Diagnosis is made using laryngoscopy to visualize the granulomas."
+    },
+    {
+        "question": "What are the treatment options for vocal fold granulomas?",
+        "answer": "Treatment includes voice therapy, anti-reflux medications, and sometimes surgical removal."
+    },
+    {
+        "question": "What are the symptoms of laryngeal cancer?",
+        "answer": "Symptoms include persistent hoarseness, throat pain, and difficulty swallowing."
+    },
+    {
+        "question": "What are the risk factors for laryngeal cancer?",
+        "answer": "Risk factors include smoking, alcohol consumption, and exposure to certain chemicals."
+    },
+    {
+        "question": "How is laryngeal cancer diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy, biopsy, and imaging studies."
+    },
+    {
+        "question": "What are the treatment options for laryngeal cancer?",
+        "answer": "Treatment options include surgery, radiation therapy, and chemotherapy."
+    },
+    {
+        "question": "What are the symptoms of vocal fold nodules?",
+        "answer": "Symptoms include hoarseness, loss of vocal range, and vocal fatigue."
+    },
+    {
+        "question": "What are the causes of vocal fold nodules?",
+        "answer": "Causes include vocal abuse, chronic vocal strain, and poor vocal technique."
+    },
+    {
+        "question": "How are vocal fold nodules diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy and stroboscopy to visualize the nodules."
+    },
+    {
+        "question": "What are the treatment options for vocal fold nodules?",
+        "answer": "Treatment includes voice therapy, vocal rest, and sometimes surgical removal."
+    },
+    {
+        "question": "What are the symptoms of laryngeal polyps?",
+        "answer": "Symptoms include hoarseness, breathy voice, and vocal fatigue."
+    },
+    {
+        "question": "What are the causes of laryngeal polyps?",
+        "answer": "Causes include vocal abuse, smoking, and chronic irritation."
+    },
+    {
+        "question": "How are laryngeal polyps diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy and stroboscopy to visualize the polyps."
+    },
+    {
+        "question": "What are the treatment options for laryngeal polyps?",
+        "answer": "Treatment includes surgical removal, voice therapy, and addressing underlying causes."
+    },
+    {
+        "question": "What are the symptoms of laryngeal cysts?",
+        "answer": "Symptoms include hoarseness, breathy voice, and vocal fatigue."
+    },
+    {
+        "question": "What are the causes of laryngeal cysts?",
+        "answer": "Causes include blocked mucous glands and congenital anomalies."
+    },
+    {
+        "question": "How are laryngeal cysts diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy and imaging studies to visualize the cysts."
+    },
+    {
+        "question": "What are the treatment options for laryngeal cysts?",
+        "answer": "Treatment includes surgical removal and managing any underlying conditions."
+    },
+    {
+        "question": "What is vocal fold atrophy?",
+        "answer": "Vocal fold atrophy is the thinning and weakening of the vocal folds, often associated with aging."
+    },
+    {
+        "question": "What are the symptoms of vocal fold atrophy?",
+        "answer": "Symptoms include a weak, breathy voice, reduced vocal stamina, and difficulty projecting the voice."
+    },
+    {
+        "question": "What are the causes of vocal fold atrophy?",
+        "answer": "Causes include aging, disuse, and underlying medical conditions."
+    },
+    {
+        "question": "How is vocal fold atrophy diagnosed?",
+        "answer": "Diagnosis involves laryngoscopy and stroboscopy to assess vocal fold structure and function."
+    },
+    {
+        "question": "What are the treatment options for vocal fold atrophy?",
+        "answer": "Treatment includes voice therapy, vocal fold injections, and sometimes surgical intervention."
+    }
+
+
+
+       
+
+
+]
+
+

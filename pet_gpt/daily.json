@@ -1,0 +1,319 @@
+[
+    {
+      "question": "What time does the dog wake up?",
+      "answer": "The dog typically wakes up around 7:00 AM."
+    },
+    {
+      "question": "What does the dog eat for breakfast?",
+      "answer": "The dog usually eats a bowl of dry kibble mixed with some wet food around 7:30 AM."
+    },
+    {
+      "question": "When does the dog go for its first walk?",
+      "answer": "The dog goes for its first walk around 8:00 AM."
+    },
+    {
+      "question": "How long is the morning walk?",
+      "answer": "The morning walk typically lasts about 30 minutes."
+    },
+    {
+      "question": "What does the dog do during the day?",
+      "answer": "During the day, the dog plays with toys, naps, and sometimes has training sessions or playtime in the yard."
+    },
+    {
+      "question": "When does the dog have lunch?",
+      "answer": "The dog usually has a small snack or lunch around 12:00 PM."
+    },
+    {
+      "question": "Does the dog go for another walk in the afternoon?",
+      "answer": "Yes, the dog usually goes for a second walk around 3:00 PM."
+    },
+    {
+      "question": "How long is the afternoon walk?",
+      "answer": "The afternoon walk is typically about 20-30 minutes."
+    },
+    {
+      "question": "What time does the dog have dinner?",
+      "answer": "The dog has dinner around 6:00 PM."
+    },
+    {
+      "question": "What does the dog eat for dinner?",
+      "answer": "For dinner, the dog has another bowl of dry kibble mixed with some wet food."
+    },
+    {
+      "question": "When does the dog go for its last walk?",
+      "answer": "The dog goes for its last walk of the day around 8:00 PM."
+    },
+    {
+      "question": "How long is the evening walk?",
+      "answer": "The evening walk is usually about 15-20 minutes."
+    },
+    {
+      "question": "What time does the dog go to bed?",
+      "answer": "The dog typically goes to bed around 10:00 PM."
+    },
+    {
+      "question": "Does the dog have playtime with other dogs?",
+      "answer": "Yes, the dog often has playtime with other dogs in the neighborhood or at the dog park."
+    },
+    {
+      "question": "How often does the dog go to the vet?",
+      "answer": "The dog usually goes to the vet for check-ups once a year, or more often if needed."
+    },
+    {
+      "question": "Does the dog receive any special training?",
+      "answer": "Yes, the dog has training sessions a few times a week to learn new commands and behaviors."
+    },
+    {
+      "question": "What kind of toys does the dog play with?",
+      "answer": "The dog enjoys playing with squeaky toys, chew toys, and interactive puzzle toys."
+    },
+    {
+      "question": "Does the dog get groomed regularly?",
+      "answer": "Yes, the dog is groomed every few months to keep its coat clean and healthy."
+    },
+    {
+      "question": "What time does the dog take naps?",
+      "answer": "The dog takes naps throughout the day, usually after walks and playtime."
+    },
+    {
+      "question": "How does the dog stay cool in hot weather?",
+      "answer": "The dog stays cool by drinking plenty of water, resting in shaded areas, and sometimes playing in a kiddie pool."
+    },
+    {
+      "question": "Does the dog have any favorite treats?",
+      "answer": "Yes, the dog loves treats like peanut butter, small pieces of cheese, and dog biscuits."
+    },
+    {
+      "question": "What activities does the dog enjoy on weekends?",
+      "answer": "On weekends, the dog enjoys longer walks, hikes, visits to the dog park, and sometimes trips to the beach."
+    },
+    {
+      "question": "Does the dog like car rides?",
+      "answer": "Yes, the dog enjoys car rides, especially if it means going to the park or visiting friends."
+    },
+    {
+      "question": "How often does the dog bathe?",
+      "answer": "The dog usually gets a bath once a month, or more often if it gets particularly dirty."
+    },
+    {
+      "question": "Does the dog sleep in a crate?",
+      "answer": "Yes, the dog sleeps in a comfortable crate at night."
+    },
+    {
+      "question": "What time does the dog have playtime in the yard?",
+      "answer": "The dog typically has playtime in the yard around 4:00 PM."
+    },
+    {
+      "question": "Does the dog have any allergies?",
+      "answer": "Yes, the dog is allergic to certain grains, so it eats grain-free food."
+    },
+    {
+      "question": "How does the dog react to strangers?",
+      "answer": "The dog is friendly and curious with strangers but can be a bit shy at first."
+    },
+    {
+      "question": "Does the dog have a favorite sleeping spot?",
+      "answer": "Yes, the dog loves to sleep on a soft bed in the living room."
+    },
+    {
+      "question": "What kind of exercise does the dog get?",
+      "answer": "The dog gets exercise through walks, playtime, and occasional runs in the park."
+    },
+    {
+      "question": "Does the dog like to swim?",
+      "answer": "Yes, the dog loves to swim and often goes to a nearby lake."
+    },
+    {
+      "question": "How does the dog handle being alone?",
+      "answer": "The dog is generally okay being alone for a few hours but prefers to have company."
+    },
+    {
+      "question": "Does the dog wear a collar or harness?",
+      "answer": "The dog wears a harness during walks for better control and comfort."
+    },
+    {
+      "question": "What commands does the dog know?",
+      "answer": "The dog knows basic commands like sit, stay, come, and down."
+    },
+    {
+      "question": "Does the dog have a favorite human food?",
+      "answer": "Yes, the dog loves small pieces of cooked chicken as a treat."
+    },
+    {
+      "question": "How often does the dog see other animals?",
+      "answer": "The dog sees other animals regularly during walks and trips to the park."
+    },
+    {
+      "question": "Does the dog bark a lot?",
+      "answer": "The dog barks occasionally, especially when it sees someone at the door or a squirrel outside."
+    },
+    {
+      "question": "What is the dog's favorite game?",
+      "answer": "The dog loves playing fetch and tug-of-war."
+    },
+    {
+      "question": "Does the dog wear a coat in cold weather?",
+      "answer": "Yes, the dog wears a warm coat during very cold weather to stay comfortable."
+    },
+    {
+      "question": "How does the dog handle thunderstorms?",
+      "answer": "The dog gets a bit anxious during thunderstorms and prefers to stay close to its owner."
+    },
+    {
+      "question": "Does the dog like to dig?",
+      "answer": "Yes, the dog enjoys digging in the yard, especially when it's looking for hidden toys."
+    },
+    {
+      "question": "Does the dog have any special skills?",
+      "answer": "Yes, the dog can do some tricks like rolling over and playing dead."
+    },
+    {
+      "question": "How often does the dog get new toys?",
+      "answer": "The dog gets new toys every few months or on special occasions."
+    },
+    {
+      "question": "Does the dog have a favorite person?",
+      "answer": "Yes, the dog is particularly attached to its owner but loves the whole family."
+    },
+    {
+      "question": "Does the dog participate in any sports?",
+      "answer": "The dog participates in agility training and enjoys running through obstacle courses."
+    },
+    {
+      "question": "How does the dog react to other dogs?",
+      "answer": "The dog is generally friendly with other dogs but can be cautious around unfamiliar ones."
+    },
+    {
+      "question": "Does the dog have a regular feeding schedule?",
+      "answer": "Yes, the dog is fed twice a day, once in the morning and once in the evening."
+    },
+    {
+      "question": "Does the dog like to be brushed?",
+      "answer": "Yes, the dog enjoys being brushed and it helps keep its coat healthy."
+    },
+    {
+      "question": "How does the dog travel on long trips?",
+      "answer": "The dog travels in a comfortable crate or with a seatbelt harness in the car."
+    },
+    {
+      "question": "What is the dog's favorite outdoor activity?",
+      "answer": "The dog loves running and playing fetch at the park."
+    },
+    {
+      "question": "Does the dog have a favorite type of toy?",
+      "answer": "Yes, the dog prefers squeaky toys and chew toys."
+    },
+    {
+      "question": "Does the dog like meeting new people?",
+      "answer": "Yes, the dog is usually friendly and enjoys meeting new people."
+    },
+    {
+      "question": "Does the dog have a bedtime routine?",
+      "answer": "Yes, the dog has a bedtime routine that includes a final walk, some playtime, and a treat before bed."
+    },
+    {
+      "question": "How does the dog handle hot weather?",
+      "answer": "In hot weather, the dog stays indoors with air conditioning, drinks plenty of water, and takes shorter walks."
+    },
+    {
+      "question": "Does the dog like to chase squirrels?",
+      "answer": "Yes, the dog loves to chase squirrels when it sees them in the yard or on walks."
+    },
+    {
+      "question": "Does the dog have a favorite spot in the house?",
+      "answer": "Yes, the dog has a favorite spot on the couch where it likes to relax."
+    },
+    {
+      "question": "How does the dog handle new environments?",
+      "answer": "The dog is curious and excited in new environments, but it takes a little time to adjust."
+    },
+    {
+      "question": "Does the dog get anxious when left alone?",
+      "answer": "Yes, the dog can get a bit anxious when left alone for long periods but does okay with toys and treats."
+    },
+    {
+      "question": "Does the dog enjoy playing with children?",
+      "answer": "Yes, the dog enjoys playing with children and is gentle and patient with them."
+    },
+    {
+      "question": "How does the dog react to loud noises?",
+      "answer": "The dog gets startled by loud noises and prefers to stay close to its owner during fireworks or thunderstorms."
+    },
+    {
+      "question": "Does the dog have a special diet?",
+      "answer": "Yes, the dog is on a special diet due to food sensitivities and eats grain-free food."
+    },
+    {
+      "question": "Does the dog like to cuddle?",
+      "answer": "Yes, the dog loves to cuddle and often seeks out affection from its owner."
+    },
+    {
+      "question": "How does the dog react to the vet?",
+      "answer": "The dog is generally calm and well-behaved at the vet, although it can get a little nervous."
+    },
+    {
+      "question": "Does the dog enjoy playing in the snow?",
+      "answer": "Yes, the dog loves playing in the snow and often jumps around and digs in it."
+    },
+    {
+      "question": "Does the dog like to chew on bones?",
+      "answer": "Yes, the dog loves to chew on bones and it helps keep its teeth clean."
+    },
+    {
+      "question": "How often does the dog visit the groomer?",
+      "answer": "The dog visits the groomer every 6-8 weeks for a bath, haircut, and nail trim."
+    },
+    {
+      "question": "Does the dog have a favorite playmate?",
+      "answer": "Yes, the dog has a favorite playmate in the neighborhood that it enjoys playing with regularly."
+    },
+    {
+      "question": "Does the dog participate in any dog-friendly events?",
+      "answer": "Yes, the dog participates in local dog-friendly events and enjoys meeting other dogs and people."
+    },
+    {
+      "question": "Does the dog have any unique behaviors?",
+      "answer": "Yes, the dog has a habit of tilting its head when it hears certain sounds."
+    },
+    {
+      "question": "Does the dog like to sunbathe?",
+      "answer": "Yes, the dog loves to lie in sunny spots and sunbathe, especially in the morning."
+    },
+    {
+      "question": "Does the dog enjoy watching TV?",
+      "answer": "Yes, the dog sometimes watches TV, especially if there are animals on the screen."
+    },
+    {
+      "question": "How does the dog react to grooming at home?",
+      "answer": "The dog is usually calm during home grooming sessions and enjoys the attention."
+    },
+    {
+      "question": "Does the dog have a favorite time of day?",
+      "answer": "Yes, the dog seems to enjoy the evening when the whole family is home and there is more activity."
+    },
+    {
+      "question": "Does the dog have a favorite walking route?",
+      "answer": "Yes, the dog has a favorite walking route that passes through a park with lots of interesting smells."
+    },
+    {
+      "question": "Does the dog have a favorite chew toy?",
+      "answer": "Yes, the dog has a favorite chew toy that it carries around everywhere."
+    },
+    {
+      "question": "How does the dog react to visitors?",
+      "answer": "The dog is excited to see visitors and often greets them with wagging tail and happy barks."
+    },
+    {
+      "question": "Does the dog enjoy being in water?",
+      "answer": "Yes, the dog loves being in water and enjoys swimming and splashing around."
+    },
+    {
+      "question": "Does the dog have a favorite time of year?",
+      "answer": "Yes, the dog seems to enjoy the fall when the weather is cooler and there are lots of leaves to play in."
+    },
+    {
+      "question": "Does the dog have any special needs?",
+      "answer": "Yes, the dog has a sensitive stomach and needs to be fed a special diet to avoid digestive issues."
+    }
+  ]
+

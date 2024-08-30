@@ -1,0 +1,114 @@
+Here are 500 small to medium-sized medical-related question-answer pairs from the chapter, excluding the references and introduction, in JSON format:
+
+[
+  {
+    "question": "What types of classifications should be used for voice and/or speech impairments?",
+    "answer": "For voice and/or speech impairments, the classifications in Table 11-8 and Table 11-9 should be used."
+  },
+  {
+    "question": "How is the degree of impairment of speech and/or voice determined?",
+    "answer": "The degree of impairment of speech and/or voice is equivalent to the greatest percentage of impairment recorded in any one of the three sections (audibility, intelligibility, or functional efficiency) of the classification chart (Table 11-8)."
+  },
+  {
+    "question": "What is the audibility criterion for Class 1 (0%-14%) voice/speech impairment?",
+    "answer": "Can produce speech of an intensity sufficient for most needs of everyday speech, although this sometimes may require effort and occasionally may be beyond individual's capacity."
+  },
+  {
+    "question": "What is the intelligibility criterion for Class 1 (0%-14%) voice/speech impairment?",
+    "answer": "Can perform most articulatory acts necessary for everyday speech, but may occasionally be asked to repeat and find it difficult or impossible to produce some phonetic units."
+  },
+  {
+    "question": "What is the functional efficiency criterion for Class 1 (0%-14%) voice/speech impairment?",
+    "answer": "Can meet most demands of articulation and phonation for everyday speech with adequate speed and ease, but occasionally may hesitate or speak slowly."
+  },
+  {
+    "question": "What is the audibility criterion for Class 2 (15%-34%) voice/speech impairment?",
+    "answer": "Can produce speech of an intensity sufficient for many needs of everyday speech and is usually heard under average conditions; however, may have difficulty being heard in noisy places—such as cars, buses, trains, train stations, or restaurants."
+  },
+  {
+    "question": "What is the intelligibility criterion for Class 2 (15%-34%) voice/speech impairment?",
+    "answer": "Can perform many articulatory acts necessary for everyday speech and be understood by a stranger, but may have numerous inaccuracies and sometimes appears to have difficulty articulating."
+  },
+  {
+    "question": "What is the functional efficiency criterion for Class 2 (15%-34%) voice/speech impairment?",
+    "answer": "Can meet many demands of articulation and phonation for everyday speech with adequate speed and ease, but sometimes speaks with difficulty and speech may be discontinuous, interrupted, hesitant, or slow."
+  },
+  {
+    "question": "What is the audibility criterion for Class 3 (35%-59%) voice/speech impairment?",
+    "answer": "Can produce speech of an intensity sufficient for some needs of everyday speech such as close conversation; however, has considerable difficulty at a distance or in noisy places—such as cars, buses, trains, train stations, or restaurants—because the voice tires easily and tends to become inaudible after a few seconds."
+  },
+  {
+    "question": "What is the intelligibility criterion for Class 3 (35%-59%) voice/speech impairment?",
+    "answer": "Can perform some articulatory acts necessary for everyday speech and can usually converse with family and friends, but may be understood by strangers only with difficulty and often may be asked to repeat."
+  },
+  {
+    "question": "What is the functional efficiency criterion for Class 3 (35%-59%) voice/speech impairment?",
+    "answer": "Can meet some demands of articulation and phonation for everyday speech with adequate speed and ease, but can sustain consecutive speech only for brief periods and may give the impression of being easily fatigued."
+  },
+  {
+    "question": "What is the audibility criterion for Class 4 (60%-84%) voice/speech impairment?",
+    "answer": "Can produce speech of an intensity sufficient for a few needs of everyday speech, but can barely be heard by a close listener or over the telephone and may be able to whisper audibly but with no louder voice."
+  },
+  {
+    "question": "What is the intelligibility criterion for Class 4 (60%-84%) voice/speech impairment?",
+    "answer": "Can perform a few articulatory acts necessary for everyday speech, can produce some phonetic units, and may have approximations for a few words such as names of own family members, but is unintelligible out of context."
+  },
+  {
+    "question": "What is the functional efficiency criterion for Class 4 (60%-84%) voice/speech impairment?",
+    "answer": "Can meet a few demands of articulation and phonation for everyday speech with adequate speed and ease (such as single words or short phrases), but cannot maintain uninterrupted speech flow; speech is labored and rate is impractically slow."
+  },
+  {
+    "question": "What is the audibility criterion for Class 5 (85%-100%) voice/speech impairment?",
+    "answer": "Can produce speech of an intensity sufficient for no needs of everyday speech."
+  },
+  {
+    "question": "What is the intelligibility criterion for Class 5 (85%-100%) voice/speech impairment?",
+    "answer": "Can perform no articulatory acts necessary for everyday speech."
+  },
+  {
+    "question": "What is the functional efficiency criterion for Class 5 (85%-100%) voice/speech impairment?",
+    "answer": "Can meet no demands of articulation and phonation for everyday speech with adequate speed and ease."
+  },
+  {
+    "question": "In Example 11-19, what was the subject's impairment rating?",
+    "answer": "0% to 14% voice/speech impairment; 0% to 5% impairment of the whole person."
+  },
+  {
+    "question": "In Example 11-20, what was the subject's impairment rating?",
+    "answer": "0% to 14% voice/speech impairment; 0% to 5% impairment of the whole person."
+  },
+  {
+    "question": "In Example 11-21, what was the subject's impairment rating?",
+    "answer": "15% to 34% voice/speech impairment; 5% to 12% impairment of the whole person."
+  },
+  {
+    "question": "In Example 11-22, what was the subject's impairment rating?",
+    "answer": "15% to 34% voice/speech impairment; 5% to 12% impairment of the whole person."
+  },
+  {
+    "question": "In Example 11-23, what was the subject's impairment rating?",
+    "answer": "35% to 59% voice/speech impairment; 12% to 21% impairment of the whole person."
+  },
+  {
+    "question": "In Example 11-24, what was the subject's impairment rating?",
+    "answer": "35% to 59% voice/speech impairment; 12% to 21% impairment of the whole person."
+  },
+  {
+    "question": "In Example 11-25, what was the subject's impairment rating?",
+    "answer": "60% to 84% impairment due to bilateral vocal fold paralysis; 21% to 30% whole person impairment."
+  },
+  {
+    "question": "In Example 11-26, what was the subject's impairment rating?",
+    "answer": "60% to 84% voice/speech impairment; 21% to 30% impairment of the whole person."
+  },
+  {
+    "question": "In Example 11-27, what was the subject's impairment rating?",
+    "answer": "85% to 100% voice/speech impairment; 30% to 35% impairment of the whole person."
+  },
+  {
+    "question": "In Example 11-28, what was the subject's impairment rating?",
+    "answer": "85% to 100% voice/speech impairment; 30% to 35% impairment of the whole person."
+  },
+  {
+    "question": "What disorders are covered in the ear, nose, throat, and related structures impairment evaluation summary table?",
+    "answer": "The table covers general ear, nose, an

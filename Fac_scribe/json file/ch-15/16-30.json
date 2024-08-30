@@ -1,0 +1,2815 @@
+[
+  {
+    "question": "What are the current symptoms of a patient with a herniated disk at C6-7?",
+    "answer": "Occasional neck pain with physical activity. Upper extremity pain resolved."
+  },
+  {
+    "question": "What physical exam findings might you expect in a patient with a compression fracture at T8?",
+    "answer": "Spotty numbness in the left leg, grade 4/5 left leg weakness, measurable atrophy of the left thigh and leg, and slightly hypoactive left leg reflexes."
+  },
+  {
+    "question": "What clinical study findings are indicative of a herniated disk at C6-7?",
+    "answer": "Radiographs showing a healed C6-7 fusion."
+  },
+  {
+    "question": "What is the diagnosis for a patient with numbness along a T1-3 dermatomal area and MRI showing degenerative disk changes at T1-2?",
+    "answer": "Degenerative disk disease T1."
+  },
+  {
+    "question": "What impairment rating is given for a patient with radiculopathy due to disk herniation at C6?",
+    "answer": "18% impairment of the whole person."
+  },
+  {
+    "question": "Describe the impairment rating criteria for DRE Cervical Category IV.",
+    "answer": "25%-28% Impairment of the Whole Person due to alteration of motion segment integrity or bilateral or multilevel radiculopathy."
+  },
+  {
+    "question": "What history is consistent with a 37-year-old woman who has undergone a diskectomy of the sixth cervical disk and fusion of C6 to C7?",
+    "answer": "Onset of pain in the neck and right arm along the radial aspect and into the thumb following a medium-speed rear-end auto collision."
+  },
+  {
+    "question": "What are the current symptoms of a patient with a healed C6-7 fusion?",
+    "answer": "Occasional neck pain with physical activity. Upper extremity pain resolved."
+  },
+  {
+    "question": "What is the impairment rating for a 35-year-old man with a compression fracture of T8?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What impairment rating is given for a patient with ongoing neurologic impairment of the lower extremity related to a thoracolumbar injury?",
+    "answer": "15%-18% Impairment of the Whole Person."
+  },
+  {
+    "question": "What diagnosis is given to a patient with a compression fracture of T8 and minor back pain with heavy physical activity?",
+    "answer": "Compression fracture T8 with residual left lower extremity neurologic involvement."
+  },
+  {
+    "question": "What symptoms are reported by a 44-year-old man with a blow to his posterior neck from a machine support?",
+    "answer": "Unable to use his dominant left hand for ADL without considerable pain in neck, left upper back, and ulnar left upper limb. No discomfort in the lower extremities."
+  },
+  {
+    "question": "What physical exam findings are consistent with a left posterolateral disk herniation at C7-8?",
+    "answer": "Decreased range of motion in the neck with severe radiating pain to the left arm in a C6 distribution."
+  },
+  {
+    "question": "What impairment rating is given for a patient with a 25% to 28% impairment due to alterations of motion segment integrity?",
+    "answer": "25%-28% impairment of the whole person."
+  },
+  {
+    "question": "What history is typical for a patient with a burst fracture at L2 with cauda equina syndrome?",
+    "answer": "A fall from a ladder resulting in a burst fracture of L2 with a loss of height of 35%, numbness and weakness of both lower extremities, and inability to empty the bladder requiring catheterization."
+  },
+  {
+    "question": "What are the current symptoms of a patient with a burst fracture at L2 and cauda equina syndrome?",
+    "answer": "Persistent weakness of both lower extremities requiring the use of ankle-foot orthoses, walking with two crutches, requiring intermittent catheterization of the bladder, and occasional bowel incontinence."
+  },
+  {
+    "question": "What is the impairment rating for a 54-year-old woman with a burst fracture at L2 and cauda equina syndrome?",
+    "answer": "78% impairment of the whole person."
+  },
+  {
+    "question": "Describe the impairment rating criteria for DRE Thoracic Category V.",
+    "answer": "25%-28% Impairment of the Whole Person due to impairment of the lower extremity and loss of structural integrity."
+  },
+  {
+    "question": "What physical exam findings are indicative of cauda equina syndrome following a burst fracture at L2?",
+    "answer": "Mild tenderness to palpation at the fracture site, weakness of L2 to S1 innervated muscle, numbness and atrophy of both lower extremities, decreased rectal tone, and absent knee and ankle reflexes."
+  },
+  {
+    "question": "What is the diagnosis for a 54-year-old woman with persistent lower extremity weakness and bladder impairment after a burst fracture at L2?",
+    "answer": "Burst fracture L2 with cauda equina syndrome."
+  },
+
+
+  
+    {
+        "question": "What is the impairment rating for a 54-year-old woman with a burst fracture of L2 and cauda equina syndrome?",
+        "answer": "The impairment rating is 78% impairment of the whole person."
+    },
+    {
+        "question": "What were the symptoms of the 54-year-old woman with a burst fracture of L2?",
+        "answer": "She had persistent weakness of both lower extremities, required the use of ankle-foot orthoses, walked using two crutches, and required intermittent catheterization of her bladder. She also had occasional bowel incontinence."
+    },
+    {
+        "question": "What is the impairment rating for a 56-year-old man with degenerative disk disease at T1?",
+        "answer": "The impairment rating is 5% impairment of the whole person."
+    },
+    {
+        "question": "What are the principles of inclinometry and spine motion measurement?",
+        "answer": "It is essential to measure simultaneously motion of both the upper and lower extremes of the spine region being examined. An inclinometer is preferred for accurate, reproducible measurements in a simple, practical, and inexpensive way."
+    },
+    {
+        "question": "What is the purpose of the range-of-motion method?",
+        "answer": "The range-of-motion method evaluates the range of motion of the impaired spine region, accompanying diagnoses, and any spinal nerve deficit to provide important clinical information about the function of an individual’s spine."
+    },
+    {
+        "question": "What conditions should be met for the ROM method to be valid?",
+        "answer": "The ROM method is valid only if there is medical evidence of a documented injury or illness with a permanent anatomic and/or physiologic residual dysfunction."
+    },
+    {
+        "question": "What are the three components assessed in the range-of-motion method?",
+        "answer": "The three components are the range of motion of the impaired spine region, accompanying diagnoses, and any spinal nerve deficit."
+    },
+    {
+        "question": "What should the examiner do if the average range of motion is less than 50°?",
+        "answer": "If the average range of motion is less than 50°, three consecutive measurements must fall within 5° of the mean."
+    },
+    {
+        "question": "How many measurements should be taken for consistency in ROM testing?",
+        "answer": "At least three consecutive measurements should be taken and the mean calculated. If inconsistency persists after six measurements, the spinal motions are considered invalid."
+    },
+    {
+        "question": "What should be done if motion testing results are inconsistent after six measurements?",
+        "answer": "If inconsistency persists after six measurements, the spinal motions are considered invalid and the measurements and accompanying impairment estimates may be disallowed."
+    },
+    {
+        "question": "What factors can influence flexibility more than inherent factors according to the studies?",
+        "answer": "Lifestyle factors may influence flexibility far more than inherent factors, as the variability of overall motion between individuals increases with advancing years."
+    },
+    {
+        "question": "What are the general ROM method measurement principles?",
+        "answer": "Impairment should be evaluated when the condition has stabilized after completion of all necessary medical, surgical, and rehabilitative treatment. Acute illness or injury should not be rated, and acute muscle spasm should be noted but not used for estimating permanent impairment."
+    },
+    {
+        "question": "What should be done if pain, fear of injury, disuse, or neuromuscular inhibition limits mobility?",
+        "answer": "The physician should seek consistency when testing active motion, strength, and sensation. Tests with inconsistent results should be repeated, and results that remain inconsistent should be disregarded."
+    },
+    {
+        "question": "What should the physician ensure when measuring range of motion?",
+        "answer": "The physician should ensure the anatomical landmarks are accurate, the body part is stabilized, the measurement device is properly stabilized on the spine, and appropriate instructions are provided to the individual."
+    },
+    {
+        "question": "What is the purpose of warming up before ROM measurements?",
+        "answer": "Warming up prior to ROM measurements helps to ensure adequate movement and minimize errors due to examination technique, measurement device, or normal human variability."
+    },
+    {
+        "question": "What should the individual do to warm up before ROM measurements?",
+        "answer": "The individual should perform flexion and extension twice, left and right rotation twice, left and right lateral bending twice, and one additional flexion and extension."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old man with a compression fracture of T8?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms did the 35-year-old man with a compression fracture of T8 experience?",
+        "answer": "He experienced minor back pain with heavy physical activity, left lower extremity weakness, and numbness in the left leg."
+    },
+    {
+        "question": "What is the significance of the Combined Values Chart in the ROM method?",
+        "answer": "The Combined Values Chart is used to combine ratings from the range of motion, accompanying diagnoses, and any spinal nerve deficit to obtain the whole person impairment rating."
+    },
+    {
+        "question": "What does a DRE lumbar category III rating of 10% indicate?",
+        "answer": "A DRE lumbar category III rating of 10% indicates a moderate impairment due to structural inclusion of a compression fracture with a specific loss of height."
+    },
+    {
+        "question": "How is the impairment rating for thoracic spine injuries categorized?",
+        "answer": "Thoracic spine injuries are categorized into DRE Thoracic Categories I to V, each with a specific percentage range of impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating does DRE Thoracic Category III represent?",
+        "answer": "DRE Thoracic Category III represents a 15%-18% impairment of the whole person."
+    },
+    {
+        "question": "What are the criteria for rating impairment due to thoracic spine injury?",
+        "answer": "Criteria include the extent of compression fractures, neural compromise, and structural integrity as defined in specific DRE thoracic categories."
+    },
+    {
+        "question": "What is the importance of proper posture and an appropriate workstation?",
+        "answer": "Proper posture and an appropriate workstation are important for alleviating temporary discomfort and preventing further musculoskeletal issues."
+    },
+    {
+        "question": "What is a significant source of error in quantitative physical examination?",
+        "answer": "A significant source of error is test administrator inexperience or lack of knowledge."
+    },
+    {
+        "question": "What should be done if acute muscle spasm is present during evaluation?",
+        "answer": "Acute muscle spasm should be noted in the examiner’s report, but the mobility measurements would not be valid for estimating permanent impairment."
+    },
+    {
+        "question": "How can the impairment rating be increased for an individual with thoracic injury?",
+        "answer": "The impairment rating can be increased by up to 3% if the individual is unable to perform activities of daily living as indicated in the relevant table."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old man with a compression fracture of T8 with residual left lower extremity neurologic involvement?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What should be documented if there are inconsistent results in physiologic measurements?",
+        "answer": "Inconsistent results should be repeated, and if they remain inconsistent, they should be disregarded until documented evidence is provided for the abnormalities noted on the physical examination."
+    },
+    {
+        "question": "What is the role of inclinometry in spine motion measurement?",
+        "answer": "Inclinometry is used to measure the motion of the spine in a simple, practical, and inexpensive way, ensuring accurate and reproducible measurements."
+    },
+    {
+        "question": "What is a burst fracture of L2 with cauda equina syndrome?",
+        "answer": "It is a spinal injury where a burst fracture of the second lumbar vertebra occurs, causing compression and dysfunction of the cauda equina, leading to significant impairment."
+    },
+    {
+        "question": "What should the average of three consecutive measurements fall within if the range of motion is greater than 50°?",
+        "answer": "If the range of motion is greater than 50°, three consecutive measurements must fall within 10% of the mean."
+    },
+    {
+        "question": "How is whole person impairment expressed as a regional spine impairment?",
+        "answer": "Whole person spine impairment is expressed as a regional spine impairment using the guidelines provided in the relevant tables and sections."
+    },
+    {
+        "question": "What is the impairment rating for a laborer with a history of degenerative disk disease at T1?",
+        "answer": "The impairment rating is 5% impairment of the whole person."
+    },
+    {
+        "question": "What should be considered when evaluating impairment in the presence of pain, fear of injury, or disuse?",
+        "answer": "Consistency in testing active motion, strength, and sensation should be sought, and tests with inconsistent results should be repeated or disregarded if inconsistency persists."
+    },
+    {
+        "question": "What is the impact of age on normal motion according to studies?",
+        "answer": "Normal motion decreases with advancing age, with greater alterations below 20 and above 60 years of age. However, the changes in normative data with age are relatively modest."
+    },
+    {
+        "question": "How should the examiner proceed if there are abnormal or inconsistent range-of-motion measurements?",
+        "answer": "The examiner should verify and repeat measurements to ensure accuracy and consistency. Inconsistent results should be documented and reconsidered in the context of the individual's overall condition."
+    },
+    {
+        "question": "What is the significance of specific activities of daily living (ADLs) in the evaluation of impairment?",
+        "answer": "Specific ADLs help assess the impact of spinal impairment on an individual's ability to perform routine tasks, which can influence the final impairment rating."
+    },
+    {
+        "question": "What should be done if an individual exhibits more than 10% inconsistency in range of motion?",
+        "answer": "If inconsistency exceeds 10% in the range of motion, additional measurements should be taken and the variability should be addressed before finalizing the impairment rating."
+    },
+    {
+        "question": "What factors should be considered when assessing permanent impairment due to spinal injury?",
+        "answer": "Factors include the extent of structural damage, neurologic involvement, pain levels, and the impact on activities of daily living."
+    },
+    {
+        "question": "How is the ROM method used to evaluate spinal impairments?",
+        "answer": "The ROM method evaluates spinal impairments by assessing the range of motion, accompanying diagnoses, and any spinal nerve deficits to provide a comprehensive impairment rating."
+    },
+    {
+        "question": "What is the importance of documenting evidence for abnormalities noted in physical examinations?",
+        "answer": "Documenting evidence ensures the validity of the impairment rating and provides a clear record of the individual's condition and its impact on their functional abilities."
+    },
+    {
+        "question": "What are the common issues encountered during the range of motion evaluation?",
+        "answer": "Common issues include measurement inconsistencies, acute muscle spasms, and limitations due to pain, fear of injury, or disuse."
+    },
+    {
+        "question": "What is the impairment rating for an individual with cauda equina syndrome due to a burst fracture of L2?",
+        "answer": "The impairment rating is 78% impairment of the whole person."
+    },
+    {
+        "question": "What should be included in the examiner's report when acute muscle spasm is present?",
+        "answer": "The presence of acute muscle spasm should be noted, but it should not be used for estimating permanent impairment."
+    },
+    {
+        "question": "What is the impairment rating for a 54-year-old woman with a burst fracture of L2 and persistent weakness of both lower extremities?",
+        "answer": "The impairment rating is 78% impairment of the whole person."
+    },
+    {
+        "question": "What is the role of the Combined Values Chart in spinal impairment evaluation?",
+        "answer": "The Combined Values Chart is used to combine impairment ratings from different components (e.g., range of motion, diagnoses, nerve deficits) to obtain an overall whole person impairment rating."
+    },
+    {
+        "question": "What should be done if there is a persistent discrepancy in range of motion measurements?",
+        "answer": "Persistent discrepancies should be addressed by repeating measurements and ensuring proper technique and stabilization. If inconsistencies remain, the measurements may be disregarded."
+    },
+    {
+        "question": "How should the examiner address inconsistencies in physiologic measurements?",
+        "answer": "The examiner should repeat tests to achieve consistent results. If inconsistencies persist, the results should be disregarded until further evidence supports the findings."
+    },
+    {
+        "question": "What is the significance of inclinometry in evaluating spinal motion?",
+        "answer": "Inclinometry provides a reliable method for measuring spinal motion, ensuring accurate and reproducible results essential for impairment evaluations."
+    },
+    {
+        "question": "What is the importance of warming up before performing range of motion measurements?",
+        "answer": "Warming up ensures adequate movement and minimizes errors, leading to more accurate and consistent range of motion measurements."
+    },
+    {
+        "question": "What should be done if motion testing results are inconsistent due to pain or fear of injury?",
+        "answer": "Tests with inconsistent results should be repeated, and results that remain inconsistent should be disregarded until further evidence of abnormalities is documented."
+    },
+    {
+        "question": "How can lifestyle factors influence flexibility according to the studies?",
+        "answer": "Lifestyle factors can significantly influence flexibility, often more than inherent factors, especially as individuals age."
+    },
+    {
+        "question": "What is the impairment rating for a 56-year-old man with a history of degenerative disk disease at T1?",
+        "answer": "The impairment rating is 5% impairment of the whole person."
+    },
+    {
+        "question": "What are the criteria for using the ROM method for evaluating spinal impairment?",
+        "answer": "Criteria include documented evidence of a permanent injury or illness, accurate range of motion measurements, and consistency in results across multiple tests."
+    },
+    {
+        "question": "What should be considered when rating impairment in the presence of neurologic involvement?",
+        "answer": "The extent of neurologic involvement, impact on functional abilities, and consistency of findings should be considered when rating impairment."
+    },
+    {
+        "question": "What is the importance of the Combined Values Chart in impairment evaluations?",
+        "answer": "The Combined Values Chart is crucial for integrating multiple impairment ratings into a single overall whole person impairment rating, ensuring a comprehensive evaluation."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old man with a T8 compression fracture and residual neurologic involvement?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What should be done if range of motion measurements are less than 50°?",
+        "answer": "Three consecutive measurements must fall within 5° of the mean if the range of motion is less than 50°."
+    },
+    {
+        "question": "How should the examiner document acute muscle spasm during the evaluation?",
+        "answer": "The examiner should note the presence of acute muscle spasm in the report but should not use it for estimating permanent impairment."
+    },
+    {
+        "question": "What is the impairment rating for a 54-year-old woman with persistent weakness of both lower extremities due to a burst fracture of L2?",
+        "answer": "The impairment rating is 78% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for thoracic spine injuries determined?",
+        "answer": "The impairment rating for thoracic spine injuries is determined using the DRE thoracic categories, which consider the extent of fractures, neural compromise, and structural integrity."
+    },
+    {
+        "question": "What should be done if the range of motion measurements are greater than 50°?",
+        "answer": "If the range of motion is greater than 50°, three consecutive measurements must fall within 10% of the mean."
+    },
+    {
+        "question": "What is the impact of a compression fracture at T8 on impairment rating?",
+        "answer": "A compression fracture at T8 with residual neurologic involvement can result in a 15% impairment of the whole person."
+    },
+    {
+        "question": "What should the examiner do if pain or disuse limits mobility during ROM testing?",
+        "answer": "The examiner should seek consistent results and repeat tests as needed. If inconsistencies persist, results should be disregarded until documented evidence supports the findings."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old man with a compression fracture of T8 and left lower extremity numbness?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "How should the examiner proceed if there are measurement inconsistencies during spinal impairment evaluation?",
+        "answer": "Measurement inconsistencies should be addressed by repeating measurements, ensuring proper technique, and stabilizing the body part. Persistent inconsistencies may lead to disregarding the measurements."
+    },
+    {
+        "question": "What is the role of the Combined Values Chart in the range-of-motion method?",
+        "answer": "The Combined Values Chart integrates multiple impairment components (ROM, diagnoses, nerve deficits) to provide an overall whole person impairment rating."
+    },
+    {
+        "question": "What should be done if three consecutive measurements do not fall within the required range during ROM testing?",
+        "answer": "Additional measurements should be taken, and if inconsistency persists, the measurements should be disregarded for impairment estimation."
+    },
+    {
+        "question": "How is the impairment rating for an individual with thoracic spine injury and neural compromise determined?",
+        "answer": "The impairment rating is determined based on the DRE thoracic categories, considering the extent of fractures, neural compromise, and structural integrity."
+    },
+    {
+        "question": "What factors should be considered when evaluating impairment due to spinal injury with accompanying neurologic deficits?",
+        "answer": "Factors include the extent of structural damage, neurologic involvement, pain levels, and impact on activities of daily living."
+    },
+    {
+        "question": "What is the impairment rating for a 54-year-old woman with occasional bowel incontinence due to a burst fracture of L2?",
+        "answer": "The impairment rating is 78% impairment of the whole person."
+    },
+    {
+        "question": "What is the significance of accurate landmark identification in ROM measurements?",
+        "answer": "Accurate landmark identification ensures reliable and reproducible ROM measurements, essential for valid impairment evaluations."
+    },
+    {
+        "question": "What should be documented if there are discrepancies in range of motion measurements due to pain or fear of injury?",
+        "answer": "Discrepancies should be documented, and tests should be repeated to achieve consistent results. Persistent inconsistencies should be disregarded until further evidence supports the findings."
+    },
+    {
+        "question": "How can the impairment rating be increased if an individual is unable to perform ADLs?",
+        "answer": "The impairment rating can be increased by up to 3% if the inability to perform ADLs significantly impacts the individual's overall functioning."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old man with minor back pain and a compression fracture of T8?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What should be done if the range of motion measurements are consistently inconsistent?",
+        "answer": "Measurements should be repeated to ensure accuracy, and if inconsistencies persist, the results should be disregarded until further evidence supports the findings."
+    },
+    {
+        "question": "What is the significance of proper stabilization during ROM measurements?",
+        "answer": "Proper stabilization ensures accurate and reproducible measurements, minimizing errors and providing valid data for impairment evaluation."
+    },
+    {
+        "question": "What is the impairment rating for a 56-year-old man with degenerative disk disease at T1 and minor back pain?",
+        "answer": "The impairment rating is 5% impairment of the whole person."
+    },
+    
+    {
+        "question": "What is the preferred device for obtaining accurate, reproducible spinal motion measurements?",
+        "answer": "An inclinometer is the preferred device for obtaining accurate, reproducible measurements of spinal motion."
+    },
+    {
+        "question": "What three elements need to be assessed in the range-of-motion method?",
+        "answer": "The range-of-motion method assesses (1) the range of motion of the impaired spine region, (2) accompanying diagnoses, and (3) any spinal nerve deficit."
+    },
+    {
+        "question": "When is an impairment rating based on loss of motion considered valid?",
+        "answer": "An impairment rating based on loss of motion is valid only if there is medical evidence of a documented injury or illness with permanent anatomic and/or physiologic residual dysfunction."
+    },
+    {
+        "question": "What is the purpose of the Combined Values Chart in impairment evaluation?",
+        "answer": "The Combined Values Chart is used to obtain the whole person impairment rating by combining ratings from all relevant components."
+    },
+    {
+        "question": "What is indicated by persistent inconsistency in spinal motion measurements after six attempts?",
+        "answer": "Persistent inconsistency in spinal motion measurements after six attempts indicates that the spinal motions are considered invalid."
+    },
+    {
+        "question": "What is the significance of proper anatomical landmark identification in spinal impairment evaluation?",
+        "answer": "Proper identification of anatomical landmarks ensures accurate measurement and stabilization, minimizing errors in the evaluation."
+    },
+    {
+        "question": "What criteria should be followed if the DRE method is not applicable?",
+        "answer": "If the DRE method is not applicable, the ROM method should be used if there is no verifiable injury, multilevel involvement, recurrent radiculopathy, multiple episodes of pathology, or if statutorily mandated."
+    },
+    {
+        "question": "How does age and gender potentially affect impairment evaluations?",
+        "answer": "Age and gender variations may bias impairments, as older individuals and males are perceived to be less flexible, which might affect their impairment ratings."
+    },
+    {
+        "question": "What should an individual do to prepare for range of motion measurements?",
+        "answer": "The individual should perform warm-up movements: flexion and extension twice, left and right rotation twice, left and right lateral bending twice, and one additional flexion and extension."
+    },
+    {
+        "question": "What factors contribute to errors in quantitative physical examinations?",
+        "answer": "Test administrator inexperience, lack of knowledge, and inadequate warm-up movements are significant sources of errors in quantitative physical examinations."
+    },
+    {
+        "question": "What is the impairment rating for a 54-year-old woman with a burst fracture of L2 and cauda equina syndrome?",
+        "answer": "The impairment rating is 78% impairment of the whole person."
+    },
+    {
+        "question": "How are bilateral neurologic or corticospinal tract damages evaluated in spinal cord injury cases?",
+        "answer": "Bilateral neurologic or corticospinal tract damages are evaluated using the criteria in Chapter 13, and consulting with a spinal cord injury specialist is recommended."
+    },
+    {
+        "question": "What impairment rating does a vertebral fracture with corticospinal tract damage receive?",
+        "answer": "The impairment rating is determined by combining the corticospinal tract involvement with other relevant impairments, resulting in a 69% impairment of the whole person."
+    },
+    {
+        "question": "What is the class rating for an individual who can rise to a standing position and walk with difficulty but is limited to level surfaces?",
+        "answer": "This individual would fall into Class 2 for station and gait disorders."
+    },
+    {
+        "question": "What is the impairment percentage for a dominant extremity with mild corticospinal tract impairment?",
+        "answer": "The impairment percentage for a dominant extremity with mild corticospinal tract impairment is 1%-9% of the whole person."
+    },
+    {
+        "question": "What class rating is given to an individual who cannot stand without help, mechanical support, and/or an assistive device?",
+        "answer": "This individual falls into Class 4 for station and gait disorders."
+    },
+    {
+        "question": "What is the rating for an individual with spontaneous respiration but restricted to sitting, standing, or limited ambulation?",
+        "answer": "This individual would receive a Class 2 rating for neurologic impairment of respiration, equating to 20%-49% impairment of the whole person."
+    },
+    {
+        "question": "What does the ROM method provide in the evaluation of permanent impairment?",
+        "answer": "The ROM method provides a comprehensive evaluation by assessing the range of motion, accompanying diagnoses, and spinal nerve deficits."
+    },
+    {
+        "question": "What is required for a whole person spine impairment rating?",
+        "answer": "A whole person spine impairment rating requires combining ratings from mobility, diagnoses, and nerve root deficits using the Combined Values Chart."
+    },
+    {
+        "question": "What is the impact of age-related flexibility differences on impairment ratings?",
+        "answer": "Age-related flexibility differences can lead to perceived biases in impairment ratings, potentially favoring younger individuals."
+    },
+    {
+        "question": "What are the three major components assessed in the ROM method?",
+        "answer": "The three major components are (1) range of motion of the impaired spine region, (2) accompanying diagnoses, and (3) spinal nerve deficit."
+    },
+    {
+        "question": "How should measurements be taken if the average range of motion is less than 50°?",
+        "answer": "If the average range of motion is less than 50°, three consecutive measurements must fall within 5° of the mean."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old man with minor back pain and a compression fracture of T8?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 56-year-old man with degenerative disk disease at T1 and minor back pain?",
+        "answer": "The impairment rating is 5% impairment of the whole person."
+    },
+    {
+        "question": "What should be done if spinal motion measurements are invalid due to inconsistency?",
+        "answer": "If spinal motion measurements are invalid due to inconsistency, the measurements and accompanying impairment estimates should be disallowed in part or in their entirety."
+    },
+    {
+        "question": "What criteria must three consecutive spinal motion measurements meet if the average is greater than 50°?",
+        "answer": "If the average is greater than 50°, three consecutive measurements must fall within 10% of the mean."
+    },
+    {
+        "question": "What is a key indicator of optimum effort in range of motion testing?",
+        "answer": "The reproducibility (precision) of an individual's performance is a key indicator of optimum effort in range of motion testing."
+    },
+    {
+        "question": "How are neurologic impairments rated in the context of spinal impairment?",
+        "answer": "Neurologic impairments are rated based on specific tables provided for neurologic evaluation, such as Tables 15-15 through 15-18."
+    },
+    {
+        "question": "What should be ensured during the evaluation to minimize errors due to examination technique?",
+        "answer": "To minimize errors due to examination technique, it should be ensured that anatomical landmarks are accurate, the body part is stabilized, and the measurement device is properly used."
+    },
+    {
+        "question": "What should be documented to validate an impairment rating based on loss of motion?",
+        "answer": "To validate an impairment rating based on loss of motion, there must be medical evidence of a documented injury or illness with permanent anatomic and/or physiologic residual dysfunction."
+    },
+    {
+        "question": "How is the whole person impairment rating for the spine obtained?",
+        "answer": "The whole person impairment rating for the spine is obtained by combining ratings from mobility, diagnoses, and nerve root deficits using the Combined Values Chart."
+    },
+    {
+        "question": "What does a Class 3 station and gait disorder indicate about an individual's ability to stand and walk?",
+        "answer": "A Class 3 station and gait disorder indicates that the individual can rise and maintain a standing position with difficulty but cannot walk without assistance."
+    },
+    {
+        "question": "What impairment rating does a Class 4 neurologic impairment of respiration receive?",
+        "answer": "A Class 4 neurologic impairment of respiration receives a 90%+ impairment of the whole person."
+    },
+    {
+        "question": "What should be done if the DRE method cannot place an individual within a multilevel DRE category?",
+        "answer": "If the DRE method cannot place an individual within a multilevel DRE category, the ROM method should be used."
+    },
+    {
+        "question": "How should spinal cord injuries affecting the upper extremities be evaluated?",
+        "answer": "Spinal cord injuries affecting the upper extremities should be evaluated using Table 15-6 and the appropriate impairment rating for one or both upper extremities."
+    },
+    {
+        "question": "What factors contribute to errors in spinal motion measurement?",
+        "answer": "Factors such as examiner inexperience, lack of knowledge, and inadequate warm-up can contribute to errors in spinal motion measurement."
+    },
+    {
+        "question": "What is the significance of a solid fusion from L1 to L3 in a patient with a burst fracture of L2?",
+        "answer": "A solid fusion from L1 to L3 in a patient with a burst fracture of L2 signifies successful stabilization but may still result in significant impairment."
+    },
+    {
+        "question": "What is a potential consequence of improperly using the inclinometer in spinal motion measurements?",
+        "answer": "Improper use of the inclinometer in spinal motion measurements can result in inaccurate and non-reproducible results."
+    },
+    {
+        "question": "What is the preferred method for assessing spinal impairment when there are recurrent radiculopathy or multiple episodes of pathology?",
+        "answer": "The ROM method is the preferred method for assessing spinal impairment when there are recurrent radiculopathy or multiple episodes of pathology."
+    },
+    {
+        "question": "What criteria must be met for impairment estimates to be based on spinal motion?",
+        "answer": "Impairment estimates based on spinal motion must meet criteria of precision in measurement and reproducibility of effort."
+    },
+    {
+        "question": "What impairment rating does a burst fracture of L2 with cauda equina syndrome result in?",
+        "answer": "A burst fracture of L2 with cauda equina syndrome results in a 78% impairment of the whole person."
+    },
+    {
+        "question": "What is the class rating for an individual with no neurologic impairment but limited standing and walking ability?",
+        "answer": "This individual would fall into Class 2 for station and gait disorders."
+    },
+    {
+        "question": "How are neurologic impairments affecting respiration rated?",
+        "answer": "Neurologic impairments affecting respiration are rated using specific tables for neurologic evaluation, such as Table 15-19."
+    },
+    {
+        "question": "What is required for a valid impairment rating based on loss of motion?",
+        "answer": "For a valid impairment rating based on loss of motion, medical evidence of a documented injury or illness with permanent residual dysfunction is required."
+    },
+    {
+        "question": "What is the impairment percentage for a nondominant extremity with severe corticospinal tract impairment?",
+        "answer": "The impairment percentage for a nondominant extremity with severe corticospinal tract impairment is 20%-35% of the whole person."
+    },
+    {
+        "question": "What class rating is given to an individual who can walk on level surfaces but cannot manage stairs or inclines?",
+        "answer": "This individual would receive a Class 2 rating for station and gait disorders."
+    },
+    {
+        "question": "What should be done if spinal motion measurements remain inconsistent after multiple attempts?",
+        "answer": "If spinal motion measurements remain inconsistent after multiple attempts, the measurements should be disallowed, and the impairment estimates should be reassessed."
+    },
+    {
+        "question": "What is the impairment rating for an individual with spontaneous respiration but requiring mechanical ventilation for most daily activities?",
+        "answer": "This individual would receive a Class 3 rating for neurologic impairment of respiration, equating to 50%-89% impairment of the whole person."
+    },
+    {
+        "question": "How are bilateral upper extremity neurologic impairments due to spinal cord injury evaluated?",
+        "answer": "Bilateral upper extremity neurologic impairments due to spinal cord injury are evaluated using Table 15-6, considering the specific impairments for each extremity."
+    },
+    {
+        "question": "What is the impact of inexperience and inadequate warm-up on spinal motion measurements?",
+        "answer": "Inexperience and inadequate warm-up can lead to significant errors and non-reproducible spinal motion measurements."
+    },
+    {
+        "question": "What does a Class 3 neurologic impairment of respiration indicate about an individual's respiratory function?",
+        "answer": "A Class 3 neurologic impairment of respiration indicates that the individual requires mechanical ventilation for most daily activities but can manage spontaneous respiration intermittently."
+    },
+    {
+        "question": "What should be done if an individual's spinal motion measurements show persistent inconsistency?",
+        "answer": "If an individual's spinal motion measurements show persistent inconsistency, the measurements should be disallowed, and the impairment should be reassessed."
+    },
+    {
+        "question": "What is the impairment rating for a 60-year-old man with degenerative disk disease at T12 and mild back pain?",
+        "answer": "The impairment rating is 10% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 40-year-old woman with a compression fracture of T6 and moderate back pain?",
+        "answer": "The impairment rating is 20% impairment of the whole person."
+    },
+    {
+        "question": "What does a Class 2 station and gait disorder indicate about an individual's walking ability?",
+        "answer": "A Class 2 station and gait disorder indicates that the individual can walk on level surfaces but has difficulty with stairs or inclines."
+    },
+    {
+        "question": "What is the impairment rating for a 50-year-old man with severe scoliosis and chronic back pain?",
+        "answer": "The impairment rating is 30% impairment of the whole person."
+    },
+    {
+        "question": "How are corticospinal tract impairments evaluated in spinal injury cases?",
+        "answer": "Corticospinal tract impairments are evaluated using Table 15-6, considering the specific severity and impact on the upper and lower extremities."
+    },
+    {
+        "question": "What should be documented to support an impairment rating based on loss of spinal motion?",
+        "answer": "Medical evidence of a documented injury or illness with permanent anatomic and/or physiologic residual dysfunction should be documented to support an impairment rating based on loss of spinal motion."
+    },
+    {
+        "question": "What is the impairment rating for a 45-year-old woman with mild radiculopathy and degenerative disk disease at L5?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 55-year-old man with severe radiculopathy and a burst fracture of L1?",
+        "answer": "The impairment rating is 40% impairment of the whole person."
+    },
+    {
+        "question": "What class rating is given to an individual who cannot walk or stand without assistance and has severe neurologic impairment?",
+        "answer": "This individual would receive a Class 4 rating for station and gait disorders."
+    },
+    {
+        "question": "What is the impairment rating for a 30-year-old man with moderate scoliosis and mild back pain?",
+        "answer": "The impairment rating is 10% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 70-year-old woman with severe kyphosis and chronic back pain?",
+        "answer": "The impairment rating is 35% impairment of the whole person."
+    },
+    {
+        "question": "What criteria must three consecutive spinal motion measurements meet if the average is less than 50°?",
+        "answer": "If the average is less than 50°, three consecutive measurements must fall within 5° of the mean."
+    },
+    {
+        "question": "How is the whole person impairment rating for neurologic deficits obtained?",
+        "answer": "The whole person impairment rating for neurologic deficits is obtained by combining ratings from mobility, diagnoses, and nerve root deficits using the Combined Values Chart."
+    },
+    {
+        "question": "What is the impairment rating for a 25-year-old man with mild radiculopathy and a compression fracture of T4?",
+        "answer": "The impairment rating is 12% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 65-year-old woman with moderate scoliosis and chronic back pain?",
+        "answer": "The impairment rating is 20% impairment of the whole person."
+    },
+    {
+        "question": "What is the class rating for an individual who requires mechanical support and assistance to stand?",
+        "answer": "This individual would fall into Class 4 for station and gait disorders."
+    },
+    {
+        "question": "What is the impairment rating for a 50-year-old woman with degenerative disk disease at L3 and mild back pain?",
+        "answer": "The impairment rating is 10% impairment of the whole person."
+    },
+    {
+        "question": "How should spinal motion measurements be validated for accurate impairment estimates?",
+        "answer": "Spinal motion measurements should be validated by ensuring reproducibility and precision in measurements, along with proper warm-up and technique."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old man with severe radiculopathy and a burst fracture of L3?",
+        "answer": "The impairment rating is 40% impairment of the whole person."
+    },
+    {
+        "question": "What class rating is given to an individual with severe neurologic impairment and limited ambulation?",
+        "answer": "This individual would receive a Class 4 rating for station and gait disorders."
+   
+    },
+
+    
+   
+    {
+      "question": "What percentage of whole person impairment is assigned to a burst fracture with cauda equina syndrome?",
+      "answer": "78% impairment of the whole person."
+    },
+    {
+      "question": "What condition does a 54-year-old woman with a burst fracture L2 have?",
+      "answer": "Cauda equina syndrome."
+    },
+    {
+      "question": "How is the range-of-motion method evaluated?",
+      "answer": "It consists of assessing the range of motion of the impaired spine region, accompanying diagnoses, and any spinal nerve deficit."
+    },
+    {
+      "question": "What are the components of the whole person impairment rating using the ROM method?",
+      "answer": "The rating is obtained by combining the range of motion, diagnoses, and spinal nerve deficits."
+    },
+    {
+      "question": "What is the principle of inclinometry in spine motion measurement?",
+      "answer": "It involves measuring the motion of both the upper and lower extremes of the spine region being examined simultaneously."
+    },
+    {
+      "question": "What impairment rating is given to a 37-year-old woman with a herniated C5-6 disk treated with residual bilateral C6 radiculopathy?",
+      "answer": "38% impairment of the whole person."
+    },
+    {
+      "question": "What defines DRE Cervical Category IV?",
+      "answer": "Alteration of motion segment integrity or bilateral or multilevel radiculopathy."
+    },
+    {
+      "question": "What is the impairment rating for DRE Cervical Category III?",
+      "answer": "15%-18% impairment of the whole person."
+    },
+    {
+      "question": "How is a whole person spine impairment expressed as a regional spine impairment?",
+      "answer": "Section 15.13 explains this process."
+    },
+    {
+      "question": "What does a 25%-28% impairment of the whole person indicate in cervical spine injury?",
+      "answer": "Alterations of motion segment integrity."
+    },
+    {
+      "question": "What should be done if the average spinal motion measurement is less than 50°?",
+      "answer": "Three consecutive measurements must fall within 5° of the mean."
+    },
+    {
+      "question": "What is required if spinal motion measurements are inconsistent after six attempts?",
+      "answer": "The spinal motions are considered invalid."
+    },
+    {
+      "question": "What factor is a significant source of error in quantitative physical examinations?",
+      "answer": "Test administrator inexperience or lack of knowledge."
+    },
+    {
+      "question": "What should an individual do before ROM measurements?",
+      "answer": "Perform warm-up movements including flexion, extension, left and right rotation, and lateral bending."
+    },
+    {
+      "question": "What does the physician need to ensure for accurate spinal motion measurement?",
+      "answer": "Accurate anatomical landmarks, stabilization of the body part, proper stabilization of the measurement device, and appropriate instructions."
+    },
+    {
+      "question": "What defines DRE Cervical Category II?",
+      "answer": "Clinical history and examination findings compatible with a specific injury, including muscle guarding or spasm, asymmetric loss of range of motion, or nonverifiable radicular complaints."
+    },
+    {
+      "question": "What is the impairment rating for DRE Cervical Category II?",
+      "answer": "5%-8% impairment of the whole person."
+    },
+    {
+      "question": "What is a common finding in older individuals regarding spinal motion?",
+      "answer": "There is a decrease in normal motion with advancing age, but the effect is not linear."
+    },
+    {
+      "question": "What does ROM method assessment rely on?",
+      "answer": "Medical evidence of a documented injury or illness with permanent anatomic and/or physiologic residual dysfunction."
+    },
+    {
+      "question": "When should impairment be evaluated?",
+      "answer": "When the condition has stabilized after completion of all necessary medical, surgical, and rehabilitative treatment."
+    },
+    {
+      "question": "What should be noted if acute muscle spasm is present during examination?",
+      "answer": "The mobility measurements would not be valid for estimating permanent impairment."
+    },
+    {
+      "question": "What are potential causes of limited mobility during ROM testing?",
+      "answer": "Pain, fear of injury, disuse, or neuromuscular inhibition."
+    },
+    {
+      "question": "What should the physician seek when testing active motion, strength, and sensation?",
+      "answer": "Consistency in the results."
+    },
+    {
+      "question": "What defines DRE Cervical Category I?",
+      "answer": "No significant clinical findings, no muscular guarding, no documentable neurologic impairment, no significant loss of motion segment integrity, and no other indication of impairment."
+    },
+    {
+      "question": "What is the impairment rating for DRE Cervical Category I?",
+      "answer": "0% impairment of the whole person."
+    },
+    {
+      "question": "What is the impairment rating for a 44-year-old man with radiculopathy due to disk herniation C6?",
+      "answer": "18% impairment of the whole person."
+    },
+    {
+      "question": "What symptoms did a 44-year-old man with radiculopathy experience?",
+      "answer": "Neck pain, radiating to the ulnar hand with numbness of the ring and little fingers."
+    },
+    {
+      "question": "What is a key consideration in assessing spinal motion using an inclinometer?",
+      "answer": "Spinal motion is compound and requires simultaneous measurement of motion of both the upper and lower extremes of the spine region."
+    },
+    {
+      "question": "What does a 20%-23% impairment rating indicate in a compression fracture of T1?",
+      "answer": "Residual symptoms and functional limitations to perform ADL."
+    },
+    {
+      "question": "What should be done if spinal motion measurement results are inconsistent?",
+      "answer": "The results should be repeated and, if still inconsistent, disallowed until documented evidence is provided."
+    },
+    {
+      "question": "What defines the ROM method?",
+      "answer": "The evaluation method assesses range of motion, accompanying diagnoses, and any spinal nerve deficit."
+    },
+    {
+      "question": "What is the impairment rating for a 56-year-old man with a compression fracture of T1?",
+      "answer": "20%-23% impairment of the whole person."
+    },
+    {
+      "question": "What condition is associated with a 78% impairment of the whole person?",
+      "answer": "Burst fracture with cauda equina syndrome."
+    },
+    {
+      "question": "What does a 37-year-old woman with a herniated C5-6 disk have after treatment?",
+      "answer": "Residual bilateral C6 radiculopathy."
+    },
+    {
+      "question": "What defines DRE Cervical Category III?",
+      "answer": "Significant signs of radiculopathy, such as pain and/or sensory loss in a dermatomal distribution, loss of relevant reflexes, loss of muscle strength, or unilateral atrophy."
+    },
+    {
+      "question": "What is the impairment rating for a DRE Cervical Category IV?",
+      "answer": "25%-28% impairment of the whole person."
+    },
+    {
+      "question": "What should be measured to obtain a valid impairment rating using the ROM method?",
+      "answer": "Mobility, diagnoses, and nerve root deficits."
+    },
+    {
+      "question": "What is the preferred device for obtaining accurate spinal motion measurements?",
+      "answer": "An inclinometer."
+    },
+    {
+      "question": "What should the evaluator ensure before ROM measurements?",
+      "answer": "The individual has performed adequate warm-up movements."
+    },
+    {
+      "question": "What does the ROM method evaluate?",
+      "answer": "The range of motion, accompanying diagnoses, and any spinal nerve deficit."
+    },
+    {
+      "question": "What impairment rating is given to a woman with mild tenderness at the fracture site and decreased rectal tone after a burst fracture L2?",
+      "answer": "78% impairment of the whole person."
+    },
+    {
+      "question": "What is the impairment rating for a 37-year-old woman with a herniated C5-6 disk and bilateral C6 radiculopathy?",
+      "answer": "38% impairment of the whole person."
+    },
+    {
+      "question": "What is the impairment rating for a 56-year-old man with bilateral upper extremity heaviness and weakness after a compression fracture of T1?",
+      "answer": "20%-23% impairment of the whole person."
+    },
+    {
+      "question": "What defines the impairment rating for DRE Cervical Category II?",
+      "answer": "Clinical history and examination findings compatible with a specific injury, including muscle guarding or spasm, asymmetric loss of range of motion, or nonverifiable radicular complaints."
+    },
+    {
+      "question": "What is the impairment rating for a 54-year-old woman with a burst fracture L2 and cauda equina syndrome?",
+      "answer": "78% impairment of the whole person."
+    },
+    {
+      "question": "What is the impairment rating for a 44-year-old man with radiculopathy due to disk herniation C6?",
+      "answer": "18% impairment of the whole person."
+    },
+    {
+      "question": "What impairment rating is given for DRE Cervical Category III?",
+      "answer": "15%-18% impairment of the whole person."
+    },
+    {
+      "question": "What defines the impairment rating for DRE Cervical Category IV?",
+      "answer": "Alteration of motion segment integrity or bilateral or multilevel radiculopathy."
+    },
+    {
+      "question": "What should the physician consider for valid spinal motion measurements?",
+      "answer": "Accurate anatomical landmarks, stabilization of the body part, and proper stabilization of the measurement device."
+    },
+    {
+      "question": "What should be done if the average spinal motion measurement is less than 50°?",
+      "answer": "Three consecutive measurements must fall within 5° of the mean."
+    },
+    {
+      "question": "What is required if spinal motion measurements are inconsistent after six attempts?",
+      "answer": "The spinal motions are considered invalid."
+    },
+    {
+      "question": "What is a significant source of error in quantitative physical examinations?",
+      "answer": "Test administrator inexperience or lack of knowledge."
+    },
+    {
+      "question": "What defines the ROM method in impairment evaluation?",
+      "answer": "It evaluates the range of motion, accompanying diagnoses, and any spinal nerve deficit."
+    },
+    {
+      "question": "What is the impairment rating for a woman with mild tenderness at the fracture site after a burst fracture L2?",
+      "answer": "78% impairment of the whole person."
+    },
+    {
+      "question": "What is the impairment rating for a 56-year-old man with residual symptoms and functional limitations after a compression fracture of T1?",
+      "answer": "20%-23% impairment of the whole person."
+    },
+    {
+      "question": "What should be noted if acute muscle spasm is present during examination?",
+      "answer": "The mobility measurements would not be valid for estimating permanent impairment."
+    },
+    {
+      "question": "What are potential causes of limited mobility during ROM testing?",
+      "answer": "Pain, fear of injury, disuse, or neuromuscular inhibition."
+    },
+    {
+      "question": "What should the physician seek when testing active motion, strength, and sensation?",
+      "answer": "Consistency in the results."
+    },
+    {
+      "question": "What defines DRE Cervical Category I?",
+      "answer": "No significant clinical findings, no muscular guarding, no documentable neurologic impairment, no significant loss of motion segment integrity, and no other indication of impairment."
+    },
+    {
+      "question": "What is the impairment rating for DRE Cervical Category I?",
+      "answer": "0% impairment of the whole person."
+    },
+    {
+      "question": "What impairment rating is given to a 44-year-old man with radiculopathy due to disk herniation C6?",
+      "answer": "18% impairment of the whole person."
+    },
+    {
+      "question": "What should the evaluator ensure before ROM measurements?",
+      "answer": "The individual has performed adequate warm-up movements."
+    },
+    {
+      "question": "What impairment rating is given to a 54-year-old woman with cauda equina syndrome after a burst fracture L2?",
+      "answer": "78% impairment of the whole person."
+    },
+    {
+      "question": "What is the impairment rating for a 37-year-old woman with a herniated C5-6 disk and residual bilateral C6 radiculopathy?",
+      "answer": "38% impairment of the whole person."
+    },
+    {
+      "question": "What defines the impairment rating for DRE Cervical Category II?",
+      "answer": "Clinical history and examination findings compatible with a specific injury, including muscle guarding or spasm, asymmetric loss of range of motion, or nonverifiable radicular complaints."
+    },
+    {
+      "question": "What impairment rating is given for DRE Cervical Category III?",
+      "answer": "15%-18% impairment of the whole person."
+    },
+    {
+      "question": "What defines the impairment rating for DRE Cervical Category IV?",
+      "answer": "Alteration of motion segment integrity or bilateral or multilevel radiculopathy."
+    },
+    {
+      "question": "What is the impairment rating for a 56-year-old man with residual symptoms and functional limitations after a compression fracture of T1?",
+      "answer": "20%-23% impairment of the whole person."
+    },
+    {
+      "question": "What is required if spinal motion measurements are inconsistent after six attempts?",
+      "answer": "The spinal motions are considered invalid."
+    },
+    {
+      "question": "What should be noted if acute muscle spasm is present during examination?",
+      "answer": "The mobility measurements would not be valid for estimating permanent impairment."
+    },
+    {
+      "question": "What should the physician seek when testing active motion, strength, and sensation?",
+      "answer": "Consistency in the results."
+    },
+    {
+      "question": "What defines the ROM method in impairment evaluation?",
+      "answer": "It evaluates the range of motion, accompanying diagnoses, and any spinal nerve deficit."
+    },
+    {
+      "question": "What is the impairment rating for a woman with mild tenderness at the fracture site after a burst fracture L2?",
+      "answer": "78% impairment of the whole person."
+    },
+    {
+      "question": "What is the impairment rating for a 56-year-old man with bilateral upper extremity heaviness and weakness after a compression fracture of T1?",
+      "answer": "20%-23% impairment of the whole person."
+    },
+    {
+      "question": "What impairment rating is given to a 44-year-old man with radiculopathy due to disk herniation C6?",
+      "answer": "18% impairment of the whole person."
+    },
+    {
+      "question": "What should the evaluator ensure before ROM measurements?",
+      "answer": "The individual has performed adequate warm-up movements."
+    },
+    {
+      "question": "What impairment rating is given to a 54-year-old woman with cauda equina syndrome after a burst fracture L2?",
+      "answer": "78% impairment of the whole person."
+    },
+    {
+      "question": "What is the impairment rating for a 37-year-old woman with a herniated C5-6 disk and residual bilateral C6 radiculopathy?",
+      "answer": "38% impairment of the whole person."
+    },
+    {
+      "question": "What defines DRE Cervical Category I?",
+      "answer": "No significant clinical findings, no muscular guarding, no documentable neurologic impairment, no significant loss of motion segment integrity, and no other indication of impairment."
+    },
+    {
+      "question": "What is the impairment rating for DRE Cervical Category I?",
+      "answer": "0% impairment of the whole person."
+    },
+    {
+      "question": "What is required if spinal motion measurements are inconsistent after six attempts?",
+      "answer": "The spinal motions are considered invalid."
+    },
+    {
+      "question": "What impairment rating is given to a 54-year-old woman with cauda equina syndrome after a burst fracture L2?",
+      "answer": "78% impairment of the whole person."
+    },
+    {
+      "question": "What should the physician consider for valid spinal motion measurements?",
+      "answer": "Accurate anatomical landmarks, stabilization of the body part, and proper stabilization of the measurement device."
+    },
+    {
+      "question": "What defines the ROM method in impairment evaluation?",
+      "answer": "It evaluates the range of motion, accompanying diagnoses, and any spinal nerve deficit."
+    },
+    {
+      "question": "What is the impairment rating for a woman with mild tenderness at the fracture site after a burst fracture L2?",
+      "answer": "78% impairment of the whole person."
+    },
+  
+
+    {
+        "question": "What is the impairment rating for a burst fracture with cauda equina syndrome in a 54-year-old woman?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms did the 54-year-old woman experience after a burst fracture of L2?",
+        "answer": "Persistent weakness of both lower extremities, inability to empty bladder, requiring catheterization, occasional bowel incontinence."
+    },
+    {
+        "question": "How is the whole person impairment rating obtained in the range-of-motion method?",
+        "answer": "By combining ratings from the range of motion of the impaired spine region, accompanying diagnoses, and any spinal nerve deficit, using the Combined Values Chart."
+    },
+    {
+        "question": "What is the impairment rating for a degenerative disk disease at T1 in a 37-year-old woman?",
+        "answer": "5% impairment of the whole person."
+    },
+    {
+        "question": "What conditions qualify for DRE thoracic category III?",
+        "answer": "Ongoing neurologic impairment of the lower extremity related to a thoracolumbar injury, clinically significant radiculopathy verified by imaging, or 25% to 50% compression fracture of one vertebral body."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old man with a compression fracture of T8?",
+        "answer": "15% impairment of the whole person."
+    },
+    {
+        "question": "What criteria are used to rate neurologic impairment of respiration?",
+        "answer": "Criteria include the ability for spontaneous respiration and the degree of respiratory function impairment, ranging from 5% to over 90% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a C6 compression fracture with corticospinal tract damage in a 37-year-old man?",
+        "answer": "69% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a herniated cervical disk postdiskectomy and fusion in a 37-year-old woman?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "How is the neurologic level of involvement determined for corticospinal tract damage?",
+        "answer": "By identifying the level of cord involvement, which is the lowest normally functioning nerve root."
+    },
+    {
+        "question": "What impairment rating corresponds to DRE cervical category V?",
+        "answer": "35%-38% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms were reported by a patient with radiculopathy due to disk herniation at C6?",
+        "answer": "Neck pain radiating to the ulnar hand, numbness of the ring and little fingers."
+    },
+    {
+        "question": "What is the impairment rating for a 37-year-old woman with alterations of motion segment integrity after a C6-7 fusion?",
+        "answer": "25% impairment of the whole person."
+    },
+    {
+        "question": "What criteria qualify an individual for DRE cervical category II?",
+        "answer": "Clinical history and examination findings compatible with a specific injury, muscle guarding or spasm, and asymmetric loss of range of motion."
+    },
+    {
+        "question": "What is the impairment rating for a T1-3 dermatome area numbness and degenerative disk disease at T1?",
+        "answer": "5% impairment of the whole person."
+    },
+    {
+        "question": "What additional impairment percentage can be added if an individual is unable to perform activities of daily living (ADL)?",
+        "answer": "Up to 3%."
+    },
+    {
+        "question": "What are the components assessed in the range-of-motion method for spine evaluation?",
+        "answer": "Range of motion of the impaired spine region, accompanying diagnoses, and spinal nerve deficit."
+    },
+    {
+        "question": "What clinical findings are associated with DRE thoracic category II?",
+        "answer": "Significant muscle guarding or spasm, asymmetric loss of range of motion, or nonverifiable radicular complaints."
+    },
+    {
+        "question": "What is the impairment rating for a herniated C5-6 disk treated with residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms did a 37-year-old woman report after a herniated disk at C6-7?",
+        "answer": "Occasional neck pain with physical activity, resolved upper extremity pain."
+    },
+    {
+        "question": "What is the impairment rating for a radiculopathy caused by a herniated disk that responded to treatment?",
+        "answer": "5% impairment of the whole person."
+    },
+    {
+        "question": "What qualifies an individual for DRE cervical category III?",
+        "answer": "Significant signs of radiculopathy, pain and/or sensory loss in a dermatomal distribution, loss of relevant reflexes, muscle strength loss, or unilateral atrophy."
+    },
+    {
+        "question": "What impairment rating is given for significant signs of radiculopathy with clinically significant radiculopathy verified by an imaging study?",
+        "answer": "15%-18% impairment of the whole person."
+    },
+    {
+        "question": "What does the Combined Values Chart help determine in impairment rating?",
+        "answer": "It helps determine the whole person impairment rating by combining different impairment values."
+    },
+    {
+        "question": "What findings increase the impairment rating for a patient with degenerative disk disease if unable to perform ADL?",
+        "answer": "The impairment rating would increase by up to 3%."
+    },
+    {
+        "question": "What impairment rating does a patient receive for a T8 compression fracture with neurologic involvement?",
+        "answer": "15% impairment of the whole person."
+    },
+    {
+        "question": "What level of impairment is given for corticospinal tract damage affecting the lower extremities?",
+        "answer": "It depends on the degree of residual function, with ratings varying based on specific clinical findings."
+    },
+    {
+        "question": "What is the primary factor in determining the neurologic level of involvement in corticospinal tract damage?",
+        "answer": "The lowest normally functioning nerve root."
+    },
+    {
+        "question": "How is impairment due to significant upper extremity involvement and corticospinal tract damage rated?",
+        "answer": "By evaluating the degree of neurologic dysfunction and combining relevant impairment values."
+    },
+    {
+        "question": "What symptoms warrant a 39% whole person impairment rating?",
+        "answer": "Numbness, weakness, and difficulty with dexterity movements of both upper extremities."
+    },
+    {
+        "question": "What constitutes a DRE lumbar category III rating for a burst fracture?",
+        "answer": "A 10% impairment of the whole person."
+    },
+    {
+        "question": "What factors contribute to a 78% impairment rating for a whole person?",
+        "answer": "Combining impairments from lower extremity weakness, bladder and rectal impairments, and a burst fracture rating."
+    },
+    {
+        "question": "What symptoms are associated with a burst fracture of L2 with cauda equina syndrome?",
+        "answer": "Numbness and weakness of both lower extremities, bladder dysfunction, and occasional bowel incontinence."
+    },
+    {
+        "question": "How is the whole person impairment rating for a spine condition determined?",
+        "answer": "By combining ratings from range of motion, diagnoses, and nerve deficits."
+    },
+    {
+        "question": "What is the impairment rating for a 37-year-old woman with residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What are the symptoms of a C6 compression fracture with corticospinal tract damage?",
+        "answer": "Pain-free with numbness and weakness of upper extremities, no remaining bladder symptoms, and inability to walk without leg braces."
+    },
+    {
+        "question": "What is the impairment rating for a T1-3 dermatome area numbness?",
+        "answer": "5% impairment of the whole person."
+    },
+    {
+        "question": "What qualifies an individual for DRE cervical category IV?",
+        "answer": "Alteration of motion segment integrity due to fusion or significant radiculopathy."
+    },
+    {
+        "question": "What is the impairment rating for a 54-year-old woman with a burst fracture of L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What clinical studies are used to diagnose a burst fracture L2 with cauda equina syndrome?",
+        "answer": "Repeat x-rays showing solid fusion from L1 to L3."
+    },
+    {
+        "question": "What is the impairment rating for an individual with a herniated C5-6 disk treated with residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What physical exam findings are associated with a compression fracture of T8?",
+        "answer": "Spotty numbness in the left leg, grade 4/5 left leg weakness, measurable atrophy of left thigh and leg, and slightly hypoactive left leg reflexes."
+    },
+    
+
+
+    {
+        "question": "What is the impairment rating for a T12 burst fracture with cauda equina syndrome?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms did a 54-year-old woman report after a burst fracture of L2?",
+        "answer": "Persistent weakness of both lower extremities, inability to empty bladder, requiring catheterization, occasional bowel incontinence."
+    },
+    {
+        "question": "What defines DRE cervical category II?",
+        "answer": "Clinical history and examination findings compatible with a specific injury, muscle guarding or spasm, asymmetric loss of range of motion, or nonverifiable radicular complaints."
+    },
+    {
+        "question": "What is the impairment rating for a herniated cervical disk postdiskectomy and fusion in a 37-year-old woman?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "How is the neurologic level of involvement determined for corticospinal tract damage?",
+        "answer": "By identifying the level of cord involvement, which is the lowest normally functioning nerve root."
+    },
+    {
+        "question": "What impairment rating corresponds to DRE cervical category V?",
+        "answer": "35%-38% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms were reported by a patient with radiculopathy due to disk herniation at C6?",
+        "answer": "Neck pain radiating to the ulnar hand, numbness of the ring and little fingers."
+    },
+    {
+        "question": "What is the impairment rating for a 37-year-old woman with alterations of motion segment integrity after a C6-7 fusion?",
+        "answer": "25% impairment of the whole person."
+    },
+    {
+        "question": "What criteria qualify an individual for DRE cervical category III?",
+        "answer": "Significant signs of radiculopathy, pain and/or sensory loss in a dermatomal distribution, loss of relevant reflexes, muscle strength loss, or unilateral atrophy."
+    },
+    {
+        "question": "What impairment rating is given for significant signs of radiculopathy with clinically significant radiculopathy verified by an imaging study?",
+        "answer": "15%-18% impairment of the whole person."
+    },
+    {
+        "question": "What does the Combined Values Chart help determine in impairment rating?",
+        "answer": "It helps determine the whole person impairment rating by combining different impairment values."
+    },
+    {
+        "question": "What findings increase the impairment rating for a patient with degenerative disk disease if unable to perform ADL?",
+        "answer": "The impairment rating would increase by up to 3%."
+    },
+    {
+        "question": "What impairment rating does a patient receive for a T8 compression fracture with neurologic involvement?",
+        "answer": "15% impairment of the whole person."
+    },
+    {
+        "question": "What level of impairment is given for corticospinal tract damage affecting the lower extremities?",
+        "answer": "It depends on the degree of residual function, with ratings varying based on specific clinical findings."
+    },
+    {
+        "question": "What is the primary factor in determining the neurologic level of involvement in corticospinal tract damage?",
+        "answer": "The lowest normally functioning nerve root."
+    },
+    {
+        "question": "How is impairment due to significant upper extremity involvement and corticospinal tract damage rated?",
+        "answer": "By evaluating the degree of neurologic dysfunction and combining relevant impairment values."
+    },
+    {
+        "question": "What symptoms warrant a 39% whole person impairment rating?",
+        "answer": "Numbness, weakness, and difficulty with dexterity movements of both upper extremities."
+    },
+    {
+        "question": "What constitutes a DRE lumbar category III rating for a burst fracture?",
+        "answer": "A 10% impairment of the whole person."
+    },
+    {
+        "question": "What factors contribute to a 78% impairment rating for a whole person?",
+        "answer": "Combining impairments from lower extremity weakness, bladder and rectal impairments, and a burst fracture rating."
+    },
+    {
+        "question": "What symptoms are associated with a burst fracture of L2 with cauda equina syndrome?",
+        "answer": "Numbness and weakness of both lower extremities, bladder dysfunction, and occasional bowel incontinence."
+    },
+    {
+        "question": "How is the whole person impairment rating for a spine condition determined?",
+        "answer": "By combining ratings from range of motion, diagnoses, and nerve deficits."
+    },
+    {
+        "question": "What is the impairment rating for a 37-year-old woman with residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What are the symptoms of a C6 compression fracture with corticospinal tract damage?",
+        "answer": "Pain-free with numbness and weakness of upper extremities, no remaining bladder symptoms, and inability to walk without leg braces."
+    },
+    {
+        "question": "What is the impairment rating for a T1-3 dermatome area numbness?",
+        "answer": "5% impairment of the whole person."
+    },
+    {
+        "question": "What qualifies an individual for DRE cervical category IV?",
+        "answer": "Alteration of motion segment integrity due to fusion or significant radiculopathy."
+    },
+    {
+        "question": "What is the impairment rating for a 54-year-old woman with a burst fracture of L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What clinical studies are used to diagnose a burst fracture L2 with cauda equina syndrome?",
+        "answer": "Repeat x-rays showing solid fusion from L1 to L3."
+    },
+    {
+        "question": "What is the impairment rating for an individual with a herniated C5-6 disk treated with residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What physical exam findings are associated with a compression fracture of T8?",
+        "answer": "Spotty numbness in the left leg, grade 4/5 left leg weakness, measurable atrophy of left thigh and leg, and slightly hypoactive left leg reflexes."
+    },
+    {
+        "question": "What symptoms are reported by a 35-year-old man with a compression fracture of T8?",
+        "answer": "15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a woman with mild tenderness at the fracture site after a burst fracture L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 56-year-old man with residual symptoms and functional limitations after a compression fracture of T1?",
+        "answer": "20%-23% impairment of the whole person."
+    },
+    {
+        "question": "What should be noted if acute muscle spasm is present during examination?",
+        "answer": "The mobility measurements would not be valid for estimating permanent impairment."
+    },
+    {
+        "question": "What are potential causes of limited mobility during ROM testing?",
+        "answer": "Pain, fear of injury, disuse, or neuromuscular inhibition."
+    },
+    {
+        "question": "What should the physician seek when testing active motion, strength, and sensation?",
+        "answer": "Consistency in the results."
+    },
+    {
+        "question": "What defines DRE Cervical Category I?",
+        "answer": "No significant clinical findings, no muscular guarding, no documentable neurologic impairment, no significant loss of motion segment integrity, and no other indication of impairment."
+    },
+    {
+        "question": "What is the impairment rating for DRE Cervical Category I?",
+        "answer": "0% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given to a 44-year-old man with radiculopathy due to disk herniation C6?",
+        "answer": "18% impairment of the whole person."
+    },
+    {
+        "question": "What should the evaluator ensure before ROM measurements?",
+        "answer": "The individual has performed adequate warm-up movements."
+    },
+    {
+        "question": "What impairment rating is given to a 54-year-old woman with cauda equina syndrome after a burst fracture L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 37-year-old woman with a herniated C5-6 disk and residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What defines the impairment rating for DRE Cervical Category II?",
+        "answer": "Clinical history and examination findings compatible with a specific injury, including muscle guarding or spasm, asymmetric loss of range of motion, or nonverifiable radicular complaints."
+    },
+    {
+        "question": "What impairment rating is given for DRE Cervical Category III?",
+        "answer": "15%-18% impairment of the whole person."
+    },
+    {
+        "question": "What defines the impairment rating for DRE Cervical Category IV?",
+        "answer": "Alteration of motion segment integrity or bilateral or multilevel radiculopathy."
+    },
+    {
+        "question": "What impairment rating is given for DRE Cervical Category V?",
+        "answer": "25%-28% impairment of the whole person."
+    },
+    {
+        "question": "What are the clinical findings associated with a 54-year-old woman with cauda equina syndrome?",
+        "answer": "Persistent weakness of both lower extremities, inability to empty bladder, requiring catheterization, occasional bowel incontinence."
+    },
+    {
+        "question": "What impairment rating is given to a 37-year-old woman with alterations of motion segment integrity after a C6-7 fusion?",
+        "answer": "25% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are used to rate impairment in ROM method for spinal conditions?",
+        "answer": "Range of motion, accompanying diagnoses, and spinal nerve deficit."
+    },
+    {
+        "question": "What symptoms did a 37-year-old woman report after a herniated disk at C6-7?",
+        "answer": "Occasional neck pain with physical activity, resolved upper extremity pain."
+    },
+    {
+        "question": "What is the impairment rating for radiculopathy caused by a herniated disk that responded to treatment?",
+        "answer": "5% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given for significant signs of radiculopathy with clinically significant radiculopathy verified by an imaging study?",
+        "answer": "15%-18% impairment of the whole person."
+    },
+    {
+        "question": "What should be documented when using the ROM method for impairment rating?",
+        "answer": "All observed abnormalities, consistency of effort, and any factors affecting the results."
+    },
+    {
+        "question": "What impairment rating is given to a 56-year-old man with residual symptoms and functional limitations after a compression fracture of T1?",
+        "answer": "20%-23% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings increase impairment rating for a patient with degenerative disk disease if unable to perform ADL?",
+        "answer": "The impairment rating would increase by up to 3%."
+    },
+    {
+        "question": "What impairment rating is given to a patient with numbness and weakness of both lower extremities due to a burst fracture of L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms are associated with a C6 compression fracture with corticospinal tract damage?",
+        "answer": "Pain-free with numbness and weakness of upper extremities, no remaining bladder symptoms, and inability to walk without leg braces."
+    },
+    {
+        "question": "What impairment rating is given to a 35-year-old man with a compression fracture of T8?",
+        "answer": "15% impairment of the whole person."
+    },
+    {
+        "question": "What defines the impairment rating for DRE Lumbar Category II?",
+        "answer": "Clinical history and examination findings compatible with a specific injury, including muscle guarding or spasm, asymmetric loss of range of motion, or nonverifiable radicular complaints."
+    },
+    {
+        "question": "What is the impairment rating for a 37-year-old woman with residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What are potential causes of limited mobility during ROM testing?",
+        "answer": "Pain, fear of injury, disuse, or neuromuscular inhibition."
+    },
+    {
+        "question": "What should the physician seek when testing active motion, strength, and sensation?",
+        "answer": "Consistency in the results."
+    },
+    {
+        "question": "What impairment rating is given for a 54-year-old woman with a burst fracture of L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms are associated with radiculopathy due to a disk herniation at C6?",
+        "answer": "Neck pain radiating to the ulnar hand, numbness of the ring and little fingers."
+    },
+    {
+        "question": "What defines DRE Cervical Category I?",
+        "answer": "No significant clinical findings, no muscular guarding, no documentable neurologic impairment, no significant loss of motion segment integrity, and no other indication of impairment."
+    },
+    {
+        "question": "What impairment rating is given for a T8 compression fracture with neurologic involvement?",
+        "answer": "15% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given for significant signs of radiculopathy with clinically significant radiculopathy verified by an imaging study?",
+        "answer": "15%-18% impairment of the whole person."
+    },
+    {
+        "question": "What should be documented when using the ROM method for impairment rating?",
+        "answer": "All observed abnormalities, consistency of effort, and any factors affecting the results."
+    },
+    {
+        "question": "What impairment rating is given to a patient with numbness and weakness of both lower extremities due to a burst fracture of L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are associated with a compression fracture of T8?",
+        "answer": "Spotty numbness in the left leg, grade 4/5 left leg weakness, measurable atrophy of left thigh and leg, and slightly hypoactive left leg reflexes."
+    },
+    {
+        "question": "What impairment rating is given to a 56-year-old man with residual symptoms and functional limitations after a compression fracture of T1?",
+        "answer": "20%-23% impairment of the whole person."
+    },
+    {
+        "question": "What findings increase the impairment rating for a patient with degenerative disk disease if unable to perform ADL?",
+        "answer": "The impairment rating would increase by up to 3%."
+    },
+    {
+        "question": "What impairment rating is given for corticospinal tract damage affecting the lower extremities?",
+        "answer": "It depends on the degree of residual function, with ratings varying based on specific clinical findings."
+    },
+    {
+        "question": "What is the primary factor in determining the neurologic level of involvement in corticospinal tract damage?",
+        "answer": "The lowest normally functioning nerve root."
+    },
+    {
+        "question": "What impairment rating is given to a 37-year-old woman with a herniated C5-6 disk and residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given for DRE Cervical Category III?",
+        "answer": "15%-18% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given to a 44-year-old man with radiculopathy due to disk herniation C6?",
+        "answer": "18% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms warrant a 39% whole person impairment rating?",
+        "answer": "Numbness, weakness, and difficulty with dexterity movements of both upper extremities."
+    },
+    {
+        "question": "What is the impairment rating for a woman with mild tenderness at the fracture site after a burst fracture L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a herniated cervical disk postdiskectomy and fusion in a 37-year-old woman?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given to a 35-year-old man with a compression fracture of T8?",
+        "answer": "15% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given to a 54-year-old woman with cauda equina syndrome after a burst fracture L2?",
+        "answer": "78% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given to a 37-year-old woman with residual bilateral C6 radiculopathy?",
+        "answer": "38% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given to a 37-year-old woman with alterations of motion segment integrity after a C6-7 fusion?",
+        "answer": "25% impairment of the whole person."
+    },
+
+    
+    {
+        "question": "What is the impairment rating for complete loss of use of both upper extremities?",
+        "answer": "100% impairment of the whole person."
+    },
+    {
+        "question": "How is whole person impairment determined for spinal cord injuries?",
+        "answer": "By evaluating the neurologic level of involvement and the degree of functional loss."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury without neurologic impairment?",
+        "answer": "5% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms indicate a disk herniation in the lumbar spine?",
+        "answer": "Low back pain, radiating leg pain, and possible numbness or weakness in the lower extremities."
+    },
+    {
+        "question": "What is the role of the ROM method in assessing spinal conditions?",
+        "answer": "To measure the range of motion and evaluate its impact on functional capacity."
+    },
+    {
+        "question": "How are functional impacts of spinal injuries assessed?",
+        "answer": "By evaluating the ability to perform activities of daily living (ADLs) and work-related tasks."
+    },
+    {
+        "question": "What criteria define DRE Cervical Category III?",
+        "answer": "Significant radiculopathy with pain, sensory loss, and reflex loss."
+    },
+    {
+        "question": "What is the impairment rating for a patient with mild intermittent neck pain without neurologic deficit?",
+        "answer": "0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "How is neurologic level of involvement determined in spinal injuries?",
+        "answer": "By identifying the lowest intact spinal segment with normal function."
+    },
+    {
+        "question": "What is the importance of muscle spasm in impairment assessment?",
+        "answer": "Muscle spasm can indicate underlying spinal pathology and affect the range of motion."
+    },
+    {
+        "question": "What impairment rating is given for complete spinal cord injury at the cervical level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "What are the symptoms of radiculopathy in the thoracic spine?",
+        "answer": "Pain radiating around the rib cage and possible numbness in the corresponding dermatomes."
+    },
+    {
+        "question": "What is the impairment rating for a patient with persistent radicular pain after a lumbar diskectomy?",
+        "answer": "10% to 13% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms suggest a spinal cord injury in the lumbar region?",
+        "answer": "Lower extremity weakness, numbness, and bowel or bladder dysfunction."
+    },
+    {
+        "question": "How is whole person impairment calculated for multiple spinal injuries?",
+        "answer": "By using the Combined Values Chart to combine individual impairment ratings."
+    },
+    {
+        "question": "What clinical findings are associated with DRE Cervical Category II?",
+        "answer": "Muscle spasm, asymmetric loss of range of motion, and nonverifiable radicular complaints."
+    },
+    {
+        "question": "What impairment rating is given for mild sensory loss in the cervical spine without motor deficit?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a patient with bilateral radiculopathy in the lumbar spine?",
+        "answer": "20% to 23% impairment of the whole person."
+    },
+    {
+        "question": "How is impairment rated for a thoracic spine fracture with neurologic deficit?",
+        "answer": "By combining the impairment ratings for the fracture and the neurologic deficit."
+    },
+    {
+        "question": "What impairment rating is given for mild intermittent low back pain without neurologic deficit?",
+        "answer": "0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What clinical signs are indicative of radiculopathy due to cervical disk herniation?",
+        "answer": "Neck pain radiating to the arm, numbness, and weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with persistent pain but no neurologic deficit?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a complete loss of bowel and bladder function due to spinal injury?",
+        "answer": "70% to 80% impairment of the whole person."
+    },
+    {
+        "question": "What are the symptoms of a thoracic spine compression fracture?",
+        "answer": "Back pain, limited mobility, and possible neurologic symptoms depending on severity."
+    },
+    {
+        "question": "What is the impairment rating for a patient with resolved radiculopathy post-cervical diskectomy?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for a lumbar spine injury with radiculopathy determined?",
+        "answer": "By assessing the severity of pain, sensory loss, and motor deficit."
+    },
+    {
+        "question": "What impairment rating is given for significant motor and sensory loss in both upper extremities due to cervical spine injury?",
+        "answer": "70% to 80% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms are indicative of cauda equina syndrome?",
+        "answer": "Lower extremity weakness, saddle anesthesia, and bowel or bladder dysfunction."
+    },
+    {
+        "question": "What is the impairment rating for a patient with chronic low back pain and mild radiculopathy?",
+        "answer": "10% to 13% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings support a diagnosis of thoracic radiculopathy?",
+        "answer": "Pain radiating around the chest, tenderness along the thoracic spine, and positive nerve root tension signs."
+    },
+    {
+        "question": "What impairment rating is given for moderate sensory and motor loss in one lower extremity due to lumbar spine injury?",
+        "answer": "25% to 28% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for a cervical spine injury with resolved radiculopathy assessed?",
+        "answer": "By evaluating the residual functional limitations and combining the impairment values."
+    },
+    {
+        "question": "What symptoms are associated with a cervical spine injury involving the C5-C6 level?",
+        "answer": "Neck pain, shoulder pain, and weakness or numbness in the C6 dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a lumbar spine injury with resolved radiculopathy?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What are the signs of a complete spinal cord injury at the thoracic level?",
+        "answer": "Complete loss of motor and sensory function below the level of injury."
+    },
+    {
+        "question": "How is impairment assessed for a patient with chronic neck pain and intermittent radiculopathy?",
+        "answer": "By evaluating the frequency, duration, and impact of symptoms on daily activities."
+    },
+    {
+        "question": "What impairment rating is given for a thoracic spine injury with mild to moderate neurologic deficit?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms suggest a lumbar spine disk herniation?",
+        "answer": "Low back pain, radiating leg pain, and possible numbness or weakness in the lower extremities."
+    },
+    {
+        "question": "What is the impairment rating for mild to moderate thoracic spine pain without neurologic involvement?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are associated with lumbar radiculopathy?",
+        "answer": "Pain radiating down the leg, positive straight leg raise test, and possible sensory or motor deficits."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the lumbar level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "How is impairment rated for a cervical spine injury with persistent radicular pain?",
+        "answer": "By evaluating the severity and impact of pain on functional abilities."
+    },
+    {
+        "question": "What symptoms are indicative of a thoracic spine injury with radiculopathy?",
+        "answer": "Pain radiating around the rib cage and possible numbness in the corresponding dermatomes."
+    },
+    {
+        "question": "What is the impairment rating for a patient with chronic thoracic pain and mild neurologic symptoms?",
+        "answer": "8% to 10% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for lumbar spine radiculopathy determined?",
+        "answer": "By assessing the severity of pain, sensory loss, and motor deficit."
+    },
+    {
+        "question": "What is the impairment rating for a cervical spine injury with complete motor and sensory loss in one upper extremity?",
+        "answer": "25% to 30% impairment of the whole person."
+    },
+    {
+        "question": "What are the clinical signs of cauda equina syndrome?",
+        "answer": "Lower extremity weakness, saddle anesthesia, and bowel or bladder dysfunction."
+    },
+    {
+        "question": "What impairment rating is given for chronic low back pain with intermittent radiculopathy?",
+        "answer": "10% to 13% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for thoracic radiculopathy without motor deficit?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for a lumbar spine injury with persistent radiculopathy assessed?",
+        "answer": "By evaluating the impact of radiculopathy on daily activities and functional capacity."
+    },
+    {
+        "question": "What symptoms are associated with cervical spine radiculopathy?",
+        "answer": "Neck pain, radiating arm pain, and possible numbness or weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the thoracic level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings support a diagnosis of lumbar radiculopathy?",
+        "answer": "Pain radiating down the leg, positive straight leg raise test, and possible sensory or motor deficits."
+    },
+    {
+        "question": "How is the impairment rating for cervical spine injuries with intermittent radiculopathy determined?",
+        "answer": "By assessing the frequency, duration, and impact of symptoms on daily activities."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with persistent pain and mild neurologic deficit?",
+        "answer": "8% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms indicate a lumbar spine injury with radiculopathy?",
+        "answer": "Low back pain, radiating leg pain, and possible numbness or weakness in the lower extremities."
+    },
+    {
+        "question": "What is the impairment rating for a cervical spine injury with mild to moderate radiculopathy?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What clinical signs are indicative of thoracic radiculopathy?",
+        "answer": "Pain radiating around the chest, tenderness along the thoracic spine, and positive nerve root tension signs."
+    },
+    {
+        "question": "What is the impairment rating for a patient with resolved lumbar radiculopathy after surgery?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for a cervical spine injury with resolved radiculopathy assessed?",
+        "answer": "By evaluating the residual functional limitations and combining the impairment values."
+    },
+    {
+        "question": "What symptoms are associated with a thoracic spine compression fracture?",
+        "answer": "Back pain, limited mobility, and possible neurologic symptoms depending on severity."
+    },
+    {
+        "question": "What is the impairment rating for a lumbar spine injury with mild to moderate radiculopathy?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are associated with cervical radiculopathy?",
+        "answer": "Neck pain radiating to the arm, numbness, and weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with mild to moderate neurologic deficit?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms suggest a cervical spine injury with radiculopathy?",
+        "answer": "Neck pain, radiating arm pain, and possible numbness or weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a lumbar spine injury with resolved radiculopathy?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What are the signs of a complete spinal cord injury at the thoracic level?",
+        "answer": "Complete loss of motor and sensory function below the level of injury."
+    },
+    {
+        "question": "How is impairment assessed for a patient with chronic neck pain and intermittent radiculopathy?",
+        "answer": "By evaluating the frequency, duration, and impact of symptoms on daily activities."
+    },
+    {
+        "question": "What impairment rating is given for a thoracic spine injury with mild to moderate neurologic deficit?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms suggest a lumbar spine disk herniation?",
+        "answer": "Low back pain, radiating leg pain, and possible numbness or weakness in the lower extremities."
+    },
+    {
+        "question": "What is the impairment rating for mild to moderate thoracic spine pain without neurologic involvement?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are associated with lumbar radiculopathy?",
+        "answer": "Pain radiating down the leg, positive straight leg raise test, and possible sensory or motor deficits."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the lumbar level?",
+        "answer": "85% impairment of the whole person."
+    },
+
+    
+    {
+        "question": "What is the impact of neurologic involvement in cervical spine injuries?",
+        "answer": "Neurologic involvement can significantly increase the impairment rating due to functional deficits and pain."
+    },
+    {
+        "question": "What are the symptoms of disk herniation in the thoracic spine?",
+        "answer": "Pain radiating around the chest, possible numbness, and weakness in the thoracic region."
+    },
+    {
+        "question": "How are functional limitations due to spinal injuries assessed?",
+        "answer": "By evaluating the patient's ability to perform activities of daily living and work-related tasks."
+    },
+    {
+        "question": "What factors are considered in the evaluation of pain in spinal injuries?",
+        "answer": "Severity, frequency, and impact of pain on daily activities and quality of life."
+    },
+    {
+        "question": "What is the impairment rating for whole person impairment due to spinal fractures?",
+        "answer": "The rating depends on the location and severity of the fracture, ranging from 5% to over 50%."
+    },
+    {
+        "question": "How is spinal stenosis impairment rated?",
+        "answer": "Based on the severity of symptoms and functional limitations, usually ranging from 10% to 20% impairment."
+    },
+    {
+        "question": "What is the difference between radiculopathy and myelopathy?",
+        "answer": "Radiculopathy involves nerve root compression causing pain and sensory deficits, while myelopathy involves spinal cord compression leading to more widespread neurologic deficits."
+    },
+    {
+        "question": "What are the impairment criteria for thoracic spine injuries?",
+        "answer": "Criteria include pain, range of motion, neurologic involvement, and impact on daily activities."
+    },
+    {
+        "question": "Why is range of motion important in spinal injury assessment?",
+        "answer": "It helps quantify functional impairment and guide treatment decisions."
+    },
+    {
+        "question": "What is the clinical presentation of spinal cord injury?",
+        "answer": "Loss of motor and sensory function below the level of injury, possible autonomic dysfunction, and pain."
+    },
+    {
+        "question": "What are the treatment outcomes for cervical spine radiculopathy?",
+        "answer": "Outcomes vary but can include pain relief, improved function, and reduced neurologic deficits."
+    },
+    {
+        "question": "How is pain severity in spinal injuries typically measured?",
+        "answer": "Using pain scales like the Visual Analog Scale (VAS) or Numeric Rating Scale (NRS)."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with persistent pain?",
+        "answer": "Typically between 5% and 10% impairment of the whole person."
+    },
+    {
+        "question": "What are the key features of lumbar radiculopathy?",
+        "answer": "Low back pain, leg pain, numbness, and weakness in the affected leg."
+    },
+    {
+        "question": "How does spinal cord injury impact bowel and bladder function?",
+        "answer": "It can cause loss of control, leading to incontinence or retention issues."
+    },
+    {
+        "question": "What is the impairment rating for moderate sensory loss in the lumbar spine?",
+        "answer": "Typically 5% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What factors influence the impairment rating for spinal stenosis?",
+        "answer": "Severity of symptoms, degree of functional impairment, and response to treatment."
+    },
+    {
+        "question": "What are the common symptoms of thoracic myelopathy?",
+        "answer": "Gait disturbance, weakness, numbness, and possible bowel or bladder dysfunction."
+    },
+    {
+        "question": "What is the role of imaging in diagnosing disk herniation?",
+        "answer": "Imaging like MRI helps confirm the diagnosis and assess the extent of herniation."
+    },
+    {
+        "question": "How is chronic low back pain typically managed?",
+        "answer": "Through a combination of physical therapy, medication, and sometimes interventional procedures."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with neurologic deficits?",
+        "answer": "Ranges from 10% to 25% impairment of the whole person, depending on severity."
+    },
+    {
+        "question": "What symptoms suggest cervical spine instability?",
+        "answer": "Neck pain, radiating pain, and potential neurologic deficits."
+    },
+    {
+        "question": "How is the impact of spinal injuries on daily activities evaluated?",
+        "answer": "Through functional assessments and patient-reported outcome measures."
+    },
+    {
+        "question": "What is the impairment rating for cervical spine myelopathy?",
+        "answer": "Typically ranges from 20% to 30% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings indicate severe thoracic spine injury?",
+        "answer": "Severe pain, significant range of motion loss, and neurologic deficits."
+    },
+    {
+        "question": "What are the characteristics of lumbar spinal stenosis?",
+        "answer": "Low back pain, leg pain, numbness, and weakness, often worsening with walking or standing."
+    },
+    {
+        "question": "How is neurologic impairment in the cervical spine assessed?",
+        "answer": "Through clinical examination, imaging, and electrodiagnostic studies."
+    },
+    {
+        "question": "What are the symptoms of cervical spine disk herniation?",
+        "answer": "Neck pain, radiating arm pain, and possible numbness or weakness."
+    },
+    {
+        "question": "What is the typical impairment rating for lumbar spine injuries without neurologic involvement?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine injuries with persistent pain but no neurologic deficit?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What clinical signs indicate radiculopathy in the lumbar spine?",
+        "answer": "Pain radiating down the leg, positive straight leg raise test, and possible sensory or motor deficits."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the lumbar level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "How is impairment rated for a cervical spine injury with persistent radicular pain?",
+        "answer": "By evaluating the severity and impact of pain on functional abilities."
+    },
+    {
+        "question": "What symptoms are indicative of a thoracic spine injury with radiculopathy?",
+        "answer": "Pain radiating around the rib cage and possible numbness in the corresponding dermatomes."
+    },
+    {
+        "question": "What is the impairment rating for a patient with chronic thoracic pain and mild neurologic symptoms?",
+        "answer": "8% to 10% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for lumbar spine radiculopathy determined?",
+        "answer": "By assessing the severity of pain, sensory loss, and motor deficit."
+    },
+    {
+        "question": "What is the impairment rating for a cervical spine injury with complete motor and sensory loss in one upper extremity?",
+        "answer": "25% to 30% impairment of the whole person."
+    },
+    {
+        "question": "What are the clinical signs of cauda equina syndrome?",
+        "answer": "Lower extremity weakness, saddle anesthesia, and bowel or bladder dysfunction."
+    },
+    {
+        "question": "What impairment rating is given for chronic low back pain with intermittent radiculopathy?",
+        "answer": "10% to 13% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for thoracic radiculopathy without motor deficit?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for a lumbar spine injury with persistent radiculopathy assessed?",
+        "answer": "By evaluating the impact of radiculopathy on daily activities and functional capacity."
+    },
+    {
+        "question": "What symptoms are associated with cervical spine radiculopathy?",
+        "answer": "Neck pain, radiating arm pain, and possible numbness or weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the thoracic level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings support a diagnosis of lumbar radiculopathy?",
+        "answer": "Pain radiating down the leg, positive straight leg raise test, and possible sensory or motor deficits."
+    },
+    {
+        "question": "How is the impairment rating for cervical spine injuries with intermittent radiculopathy determined?",
+        "answer": "By assessing the frequency, duration, and impact of symptoms on daily activities."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with persistent pain and mild neurologic deficit?",
+        "answer": "8% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms indicate a lumbar spine injury with radiculopathy?",
+        "answer": "Low back pain, radiating leg pain, and possible numbness or weakness in the lower extremities."
+    },
+    {
+        "question": "What is the impairment rating for a cervical spine injury with mild to moderate radiculopathy?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What clinical signs are indicative of thoracic radiculopathy?",
+        "answer": "Pain radiating around the chest, tenderness along the thoracic spine, and positive nerve root tension signs."
+    },
+    {
+        "question": "What is the impairment rating for a patient with resolved lumbar radiculopathy after surgery?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for a cervical spine injury with resolved radiculopathy assessed?",
+        "answer": "By evaluating the residual functional limitations and combining the impairment values."
+    },
+    {
+        "question": "What symptoms are associated with a thoracic spine compression fracture?",
+        "answer": "Back pain, limited mobility, and possible neurologic symptoms depending on severity."
+    },
+    {
+        "question": "What is the impairment rating for a lumbar spine injury with mild to moderate radiculopathy?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are associated with cervical radiculopathy?",
+        "answer": "Neck pain radiating to the arm, numbness, and weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with mild to moderate neurologic deficit?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms suggest a cervical spine injury with radiculopathy?",
+        "answer": "Neck pain, radiating arm pain, and possible numbness or weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a lumbar spine injury with resolved radiculopathy?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What are the signs of a complete spinal cord injury at the thoracic level?",
+        "answer": "Complete loss of motor and sensory function below the level of injury."
+    },
+    {
+        "question": "How is impairment assessed for a patient with chronic neck pain and intermittent radiculopathy?",
+        "answer": "By evaluating the frequency, duration, and impact of symptoms on daily activities."
+    },
+    {
+        "question": "What impairment rating is given for a thoracic spine injury with mild to moderate neurologic deficit?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms suggest a lumbar spine disk herniation?",
+        "answer": "Low back pain, radiating leg pain, and possible numbness or weakness in the lower extremities."
+    },
+    {
+        "question": "What is the impairment rating for mild to moderate thoracic spine pain without neurologic involvement?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are associated with lumbar radiculopathy?",
+        "answer": "Pain radiating down the leg, positive straight leg raise test, and possible sensory or motor deficits."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the lumbar level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for lumbar spine injuries with persistent radiculopathy assessed?",
+        "answer": "By evaluating the impact of radiculopathy on daily activities and functional capacity."
+    },
+    {
+        "question": "What symptoms are associated with cervical spine radiculopathy?",
+        "answer": "Neck pain, radiating arm pain, and possible numbness or weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the thoracic level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings support a diagnosis of lumbar radiculopathy?",
+        "answer": "Pain radiating down the leg, positive straight leg raise test, and possible sensory or motor deficits."
+    },
+    {
+        "question": "How is the impairment rating for cervical spine injuries with intermittent radiculopathy determined?",
+        "answer": "By assessing the frequency, duration, and impact of symptoms on daily activities."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with persistent pain and mild neurologic deficit?",
+        "answer": "8% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms indicate a lumbar spine injury with radiculopathy?",
+        "answer": "Low back pain, radiating leg pain, and possible numbness or weakness in the lower extremities."
+    },
+    {
+        "question": "What is the impairment rating for a cervical spine injury with mild to moderate radiculopathy?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What clinical signs are indicative of thoracic radiculopathy?",
+        "answer": "Pain radiating around the chest, tenderness along the thoracic spine, and positive nerve root tension signs."
+    },
+    {
+        "question": "What is the impairment rating for a patient with resolved lumbar radiculopathy after surgery?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "How is the impairment rating for a cervical spine injury with resolved radiculopathy assessed?",
+        "answer": "By evaluating the residual functional limitations and combining the impairment values."
+    },
+    {
+        "question": "What symptoms are associated with a thoracic spine compression fracture?",
+        "answer": "Back pain, limited mobility, and possible neurologic symptoms depending on severity."
+    },
+    {
+        "question": "What is the impairment rating for a lumbar spine injury with mild to moderate radiculopathy?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are associated with cervical radiculopathy?",
+        "answer": "Neck pain radiating to the arm, numbness, and weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a thoracic spine injury with mild to moderate neurologic deficit?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms suggest a cervical spine injury with radiculopathy?",
+        "answer": "Neck pain, radiating arm pain, and possible numbness or weakness in the affected dermatome."
+    },
+    {
+        "question": "What is the impairment rating for a lumbar spine injury with resolved radiculopathy?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What are the signs of a complete spinal cord injury at the thoracic level?",
+        "answer": "Complete loss of motor and sensory function below the level of injury."
+    },
+    {
+        "question": "How is impairment assessed for a patient with chronic neck pain and intermittent radiculopathy?",
+        "answer": "By evaluating the frequency, duration, and impact of symptoms on daily activities."
+    },
+    {
+        "question": "What impairment rating is given for a thoracic spine injury with mild to moderate neurologic deficit?",
+        "answer": "10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms suggest a lumbar spine disk herniation?",
+        "answer": "Low back pain, radiating leg pain, and possible numbness or weakness in the lower extremities."
+    },
+    {
+        "question": "What is the impairment rating for mild to moderate thoracic spine pain without neurologic involvement?",
+        "answer": "5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "What clinical findings are associated with lumbar radiculopathy?",
+        "answer": "Pain radiating down the leg, positive straight leg raise test, and possible sensory or motor deficits."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the lumbar level?",
+        "answer": "85% impairment of the whole person."
+    },
+
+    {
+        "question": "What factors influence the impairment rating for cervical spine injuries?",
+        "answer": "Severity of symptoms, range of motion limitations, and neurologic involvement."
+    },
+    {
+        "question": "How is thoracic spine pain typically managed?",
+        "answer": "Through physical therapy, medications, and sometimes interventional procedures like injections."
+    },
+    {
+        "question": "What are the common treatment options for lumbar spine injuries?",
+        "answer": "Conservative treatments include physical therapy and medications; surgical options are considered if conservative treatments fail."
+    },
+    {
+        "question": "What is whole person impairment and how is it assessed?",
+        "answer": "Whole person impairment is the impact of an injury on overall functioning, assessed using standardized impairment guides."
+    },
+    {
+        "question": "What neurologic symptoms can arise from spine injuries?",
+        "answer": "Symptoms can include pain, numbness, weakness, and loss of function depending on the level of the injury."
+    },
+    {
+        "question": "How is spinal cord injury evaluated?",
+        "answer": "Through clinical examination, imaging studies, and functional assessments."
+    },
+    {
+        "question": "What are the diagnostic criteria for spinal injuries?",
+        "answer": "Criteria include clinical symptoms, physical examination findings, and imaging results."
+    },
+    {
+        "question": "What are the clinical outcomes for patients with disk herniation?",
+        "answer": "Outcomes vary but can include pain relief, improved function, and reduced neurologic deficits after treatment."
+    },
+    {
+        "question": "How is functional assessment performed in patients with spine disorders?",
+        "answer": "By evaluating the patient's ability to perform daily activities and specific functional tasks."
+    },
+    {
+        "question": "How is pain measured in patients with spinal conditions?",
+        "answer": "Using scales such as the Visual Analog Scale (VAS) and Numeric Rating Scale (NRS)."
+    },
+    {
+        "question": "What is the efficacy of treatment for radiculopathy?",
+        "answer": "Efficacy varies, but many patients experience significant pain relief and improved function with appropriate treatment."
+    },
+    {
+        "question": "What are the clinical features of myelopathy?",
+        "answer": "Gait disturbances, weakness, numbness, and possible bladder or bowel dysfunction."
+    },
+    {
+        "question": "What is the impairment rating for a cervical spine injury with severe pain?",
+        "answer": "Impairment rating can be up to 25% depending on the severity and impact on function."
+    },
+    {
+        "question": "What are the symptoms of thoracic spine disk herniation?",
+        "answer": "Mid-back pain, radiating pain around the chest, and possible numbness or weakness."
+    },
+    {
+        "question": "How is lumbar spine stenosis diagnosed?",
+        "answer": "Through clinical symptoms, physical examination, and imaging studies like MRI."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine injuries with neurologic involvement?",
+        "answer": "Ratings can range from 10% to 25% based on the severity of neurologic deficits."
+    },
+    {
+        "question": "How does cervical spine injury impact range of motion?",
+        "answer": "Injuries can lead to significant limitations in flexion, extension, and rotational movements."
+    },
+    {
+        "question": "What are the primary goals in managing lumbar spine injuries?",
+        "answer": "Pain relief, restoring function, and preventing further injury."
+    },
+    {
+        "question": "What imaging modalities are used for evaluating spinal cord injuries?",
+        "answer": "MRI and CT scans are commonly used to assess spinal cord and vertebral injuries."
+    },
+    {
+        "question": "How is cervical radiculopathy treated?",
+        "answer": "Through physical therapy, medications, and sometimes surgical intervention if conservative treatments fail."
+    },
+    {
+        "question": "What is the impairment rating for lumbar spine injuries with moderate pain?",
+        "answer": "Typically between 5% and 13% impairment of the whole person."
+    },
+    {
+        "question": "What clinical tests are used to diagnose thoracic spine radiculopathy?",
+        "answer": "Tests include physical examination, nerve root tension tests, and imaging studies."
+    },
+    {
+        "question": "What factors determine the impairment rating for spinal stenosis?",
+        "answer": "Severity of symptoms, degree of functional limitation, and imaging findings."
+    },
+    {
+        "question": "How does myelopathy differ from radiculopathy?",
+        "answer": "Myelopathy involves the spinal cord with more widespread symptoms, while radiculopathy involves nerve roots with localized symptoms."
+    },
+    {
+        "question": "What is the impairment rating for cervical spine injuries with mild radiculopathy?",
+        "answer": "Typically between 10% and 15% impairment of the whole person."
+    },
+    {
+        "question": "What are the common causes of lumbar spine pain?",
+        "answer": "Disk herniation, spinal stenosis, and degenerative changes."
+    },
+    {
+        "question": "How is pain managed in patients with spinal cord injuries?",
+        "answer": "Through medications, physical therapy, and sometimes surgical intervention."
+    },
+    {
+        "question": "What is the role of physical therapy in treating cervical spine injuries?",
+        "answer": "To improve mobility, strengthen muscles, and reduce pain."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine fractures?",
+        "answer": "Depending on severity, ratings can range from 5% to 20% impairment of the whole person."
+    },
+    {
+        "question": "What are the signs of lumbar radiculopathy?",
+        "answer": "Low back pain, leg pain, numbness, and weakness in the affected leg."
+    },
+    {
+        "question": "What is the impairment rating for a cervical spine injury with resolved radiculopathy?",
+        "answer": "Typically 5% to 8% impairment of the whole person."
+    },
+    {
+        "question": "How is functional capacity evaluated in patients with spine disorders?",
+        "answer": "Through functional assessments and patient-reported outcome measures."
+    },
+    {
+        "question": "What are the treatment options for thoracic spine disk herniation?",
+        "answer": "Conservative treatments include medications and physical therapy; surgical options are considered if conservative treatments fail."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the cervical level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "How is cervical spine instability diagnosed?",
+        "answer": "Through clinical examination and imaging studies like X-rays or MRI."
+    },
+    {
+        "question": "What are the clinical outcomes for patients with lumbar spinal stenosis?",
+        "answer": "Outcomes vary but can include pain relief and improved function with appropriate treatment."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine injuries with moderate pain?",
+        "answer": "Typically between 8% and 13% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms are indicative of cervical myelopathy?",
+        "answer": "Neck pain, gait disturbance, hand numbness, and possible bowel or bladder dysfunction."
+    },
+    {
+        "question": "How is pain severity assessed in spinal injuries?",
+        "answer": "Using pain scales like the Visual Analog Scale (VAS) or Numeric Rating Scale (NRS)."
+    },
+    {
+        "question": "What is the impairment rating for lumbar spine injuries with severe pain?",
+        "answer": "Impairment ratings can be up to 25% depending on the severity and impact on function."
+    },
+    {
+        "question": "What are the treatment outcomes for thoracic spine disk herniation?",
+        "answer": "Outcomes vary but can include pain relief, improved function, and reduced neurologic deficits after treatment."
+    },
+    {
+        "question": "What are the symptoms of cervical spine stenosis?",
+        "answer": "Neck pain, radiating pain, numbness, and weakness."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine injuries with mild pain?",
+        "answer": "Typically between 5% and 8% impairment of the whole person."
+    },
+    {
+        "question": "What are the common signs of cervical spine instability?",
+        "answer": "Neck pain, limited range of motion, and possible neurologic symptoms."
+    },
+    {
+        "question": "How is the impact of spinal injuries on daily activities evaluated?",
+        "answer": "Through functional assessments and patient-reported outcome measures."
+    },
+    {
+        "question": "What is the impairment rating for a cervical spine injury with intermittent radiculopathy?",
+        "answer": "Typically 10% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What are the clinical features of lumbar spine disk herniation?",
+        "answer": "Low back pain, leg pain, numbness, and possible weakness."
+    },
+    {
+        "question": "How is lumbar radiculopathy treated?",
+        "answer": "Through physical therapy, medications, and sometimes surgical intervention if conservative treatments fail."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine injuries with severe neurologic involvement?",
+        "answer": "Ratings can be up to 25% depending on the severity of neurologic deficits."
+    },
+    {
+        "question": "What symptoms suggest cervical spine disk herniation?",
+        "answer": "Neck pain, radiating arm pain, and possible numbness or weakness."
+    },
+    {
+        "question": "What is the impairment rating for lumbar spine injuries with mild pain?",
+        "answer": "Typically between 5% and 8% impairment of the whole person."
+    },
+    {
+        "question": "How is pain managed in thoracic spine injuries?",
+        "answer": "Through medications, physical therapy, and sometimes interventional procedures like injections."
+    },
+    {
+        "question": "What are the diagnostic criteria for cervical radiculopathy?",
+        "answer": "Clinical symptoms, physical examination findings, and imaging results."
+    },
+    {
+        "question": "What is the impairment rating for cervical spine injuries with mild neurologic involvement?",
+        "answer": "Typically between 10% and 15% impairment of the whole person."
+    },
+    {
+        "question": "How is lumbar spine disk herniation diagnosed?",
+        "answer": "Through clinical symptoms, physical examination, and imaging studies like MRI."
+    },
+    {
+        "question": "What are the clinical outcomes for patients with cervical myelopathy?",
+        "answer": "Outcomes vary but can include improved function and reduced neurologic deficits with appropriate treatment."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine injuries with mild neurologic involvement?",
+        "answer": "Typically between 10% and 15% impairment of the whole person."
+    },
+    {
+        "question": "What symptoms indicate lumbar spine stenosis?",
+        "answer": "Low back pain, leg pain, and possible numbness or weakness."
+    },
+    {
+        "question": "What is the impairment rating for a complete spinal cord injury at the lumbar level?",
+        "answer": "85% impairment of the whole person."
+    },
+    {
+        "question": "What are the common signs of thoracic spine injury?",
+        "answer": "Mid-back pain, limited mobility, and possible neurologic symptoms."
+    },
+    {
+        "question": "How is the severity of spinal injuries assessed?",
+        "answer": "Through clinical examination, imaging studies, and functional assessments."
+    },
+    {
+        "question": "What is the impairment rating for lumbar spine injuries with moderate neurologic involvement?",
+        "answer": "Typically between 10% and 15% impairment of the whole person."
+    },
+    {
+        "question": "What are the treatment options for cervical spine disk herniation?",
+        "answer": "Conservative treatments include physical therapy and medications; surgical options are considered if conservative treatments fail."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine injuries with resolved neurologic symptoms?",
+        "answer": "Typically between 5% and 8% impairment of the whole person."
+    },
+    {
+        "question": "What are the clinical features of thoracic spine stenosis?",
+        "answer": "Mid-back pain, radiating pain, and possible neurologic symptoms."
+    },
+    {
+        "question": "What is the impairment rating for lumbar spine injuries with severe neurologic involvement?",
+        "answer": "Ratings can be up to 25% depending on the severity of neurologic deficits."
+    },
+    {
+        "question": "How is cervical spine myelopathy diagnosed?",
+        "answer": "Through clinical examination, imaging studies, and sometimes electromyography (EMG)."
+    },
+    {
+        "question": "What are the common symptoms of lumbar spine disk herniation?",
+        "answer": "Low back pain, leg pain, numbness, and possible weakness."
+    },
+    {
+        "question": "What is the impairment rating for cervical spine injuries with moderate pain?",
+        "answer": "Typically between 10% and 15% impairment of the whole person."
+    },
+    {
+        "question": "How is pain managed in patients with lumbar spine injuries?",
+        "answer": "Through medications, physical therapy, and sometimes surgical intervention."
+    },
+    {
+        "question": "What are the diagnostic criteria for lumbar radiculopathy?",
+        "answer": "Clinical symptoms, physical examination findings, and imaging results."
+    },
+    {
+        "question": "What is the impairment rating for thoracic spine injuries with intermittent pain?",
+        "answer": "Typically between 5% and 8% impairment of the whole person."
+    },
+    {
+        "question": "How is lumbar spine instability diagnosed?",
+        "answer": "Through clinical examination and imaging studies like X-rays or MRI."
+    },
+    {
+        "question": "What are the clinical outcomes for patients with cervical radiculopathy?",
+        "answer": "Outcomes vary but can include pain relief, improved function, and reduced neurologic deficits with appropriate treatment."
+    },
+    {
+        "question": "What is the impairment rating for cervical spine injuries with severe neurologic involvement?",
+        "answer": "Ratings can be up to 25% depending on the severity of neurologic deficits."
+    },
+    {
+        "question": "What symptoms suggest thoracic spine disk herniation?",
+        "answer": "Mid-back pain, radiating pain around the chest, and possible numbness or weakness."
+    },
+    {
+        "question": "What is the impairment rating for lumbar spine injuries with mild neurologic involvement?",
+        "answer": "Typically between 10% and 15% impairment of the whole person."
+    },
+    
+    {
+        "question": "What is the main symptom of spinal stenosis?",
+        "answer": "The main symptom of spinal stenosis is pain, often accompanied by numbness, weakness, or cramping in the legs."
+    },
+    {
+        "question": "How is vertebral body fracture diagnosed?",
+        "answer": "Vertebral body fracture is diagnosed using X-rays, MRI, or CT scans to visualize the bone structure and any displacement."
+    },
+    {
+        "question": "What are common causes of spinal cord compression?",
+        "answer": "Common causes of spinal cord compression include herniated discs, tumors, spinal stenosis, and traumatic injuries."
+    },
+    {
+        "question": "What is the typical treatment for spinal epidural abscess?",
+        "answer": "The typical treatment for spinal epidural abscess includes antibiotics and surgical drainage."
+    },
+    {
+        "question": "How are spinal deformities typically diagnosed?",
+        "answer": "Spinal deformities are typically diagnosed through physical examination, X-rays, and MRI or CT scans."
+    },
+    {
+        "question": "What are the symptoms of spinal metastasis?",
+        "answer": "Symptoms of spinal metastasis include back pain, neurological deficits, and sometimes systemic symptoms like weight loss and fatigue."
+    },
+    {
+        "question": "What are the risk factors for spinal infections?",
+        "answer": "Risk factors for spinal infections include immunosuppression, diabetes, intravenous drug use, recent spinal surgery, and chronic diseases."
+    },
+    {
+        "question": "How is lumbar spinal stenosis diagnosed?",
+        "answer": "Lumbar spinal stenosis is diagnosed using clinical evaluations, MRI, and CT scans to assess the narrowing of the spinal canal."
+    },
+    {
+        "question": "What are the typical symptoms of cervical spondylosis?",
+        "answer": "Typical symptoms of cervical spondylosis include neck pain, stiffness, and sometimes radicular symptoms such as numbness and tingling in the arms."
+    },
+    {
+        "question": "What imaging technique is most effective for detecting spinal tumors?",
+        "answer": "MRI is the most effective imaging technique for detecting spinal tumors, as it provides detailed images of soft tissues."
+    },
+    {
+        "question": "How is spinal tuberculosis treated?",
+        "answer": "Spinal tuberculosis is treated with a combination of anti-tuberculosis medications and sometimes surgical intervention to debride infected tissue."
+    },
+    {
+        "question": "What are the signs of a thoracic spine fracture?",
+        "answer": "Signs of a thoracic spine fracture include mid-back pain, possible neurological deficits, and sometimes visible deformity."
+    },
+    {
+        "question": "How is lumbar disc degeneration diagnosed?",
+        "answer": "Lumbar disc degeneration is diagnosed using MRI or CT scans to visualize the disc structure and any degeneration."
+    },
+    {
+        "question": "What are the symptoms of cervical myelopathy?",
+        "answer": "Symptoms of cervical myelopathy include neck pain, numbness, weakness in the arms and hands, and difficulty with coordination and balance."
+    },
+    {
+        "question": "How is spinal cord infarction treated?",
+        "answer": "Spinal cord infarction is treated with supportive care, anticoagulants if indicated, and addressing the underlying cause of the infarction."
+    },
+    {
+        "question": "What are the treatment options for spinal deformities?",
+        "answer": "Treatment options for spinal deformities include observation, bracing, physical therapy, and surgery depending on the severity and progression of the curve."
+    },
+    {
+        "question": "How is vertebral osteomyelitis treated?",
+        "answer": "Vertebral osteomyelitis is treated with prolonged courses of antibiotics and sometimes surgical debridement if there is an abscess or spinal instability."
+    },
+    {
+        "question": "What are the common clinical signs of thoracic outlet syndrome?",
+        "answer": "Common clinical signs of thoracic outlet syndrome include pain in the neck and shoulder, numbness and tingling in the fingers, and weakness in the upper extremities."
+    },
+    {
+        "question": "How is cauda equina syndrome treated?",
+        "answer": "Cauda equina syndrome is treated as a medical emergency, often requiring immediate surgical decompression to relieve pressure on the cauda equina nerves."
+    },
+    {
+        "question": "What are the clinical features of lumbar spondylosis?",
+        "answer": "Clinical features of lumbar spondylosis include lower back pain, stiffness, and sometimes radicular symptoms due to nerve root compression."
+    },
+    {
+        "question": "How is spinal osteoarthritis managed?",
+        "answer": "Spinal osteoarthritis is managed with pain relief medications, physical therapy, lifestyle changes, and sometimes surgical interventions."
+    },
+    {
+        "question": "What are the symptoms of lumbar spinal stenosis?",
+        "answer": "Symptoms of lumbar spinal stenosis include lower back pain, leg pain, numbness, and weakness, especially during activities like walking or standing."
+    },
+    {
+        "question": "How is cervical radiculopathy treated?",
+        "answer": "Cervical radiculopathy is treated with physical therapy, pain medications, cervical traction, and sometimes surgery if conservative treatments fail."
+    },
+    {
+        "question": "What are the symptoms of a thoracic herniated disc?",
+        "answer": "Symptoms of a thoracic herniated disc include mid-back pain, radicular pain around the chest, numbness, and weakness in the legs."
+    },
+    {
+        "question": "How is spinal cord compression managed?",
+        "answer": "Spinal cord compression is managed with urgent medical treatment, which may include steroids, radiation therapy, and surgery to relieve pressure on the spinal cord."
+    },
+    {
+        "question": "What is the role of electromyography (EMG) in spinal diagnostics?",
+        "answer": "EMG is used in spinal diagnostics to evaluate the electrical activity of muscles and help diagnose conditions like radiculopathy and peripheral neuropathy."
+    },
+    {
+        "question": "What are the causes of spinal deformities?",
+        "answer": "Causes of spinal deformities include congenital conditions, degenerative diseases, trauma, infections, and tumors."
+    },
+    {
+        "question": "How is a lumbar herniated disc treated?",
+        "answer": "A lumbar herniated disc can be treated with physical therapy, pain medications, epidural steroid injections, and sometimes surgery."
+    },
+    {
+        "question": "What is the purpose of a spinal fusion surgery?",
+        "answer": "The purpose of spinal fusion surgery is to stabilize the spine by fusing two or more vertebrae together, often to treat conditions like spinal instability or severe degenerative disc disease."
+    },
+    {
+        "question": "What is the role of MRI in diagnosing spinal infections?",
+        "answer": "MRI is crucial in diagnosing spinal infections as it provides detailed images of the spinal structures and can detect abscesses, inflammation, and other abnormalities."
+    },
+    {
+        "question": "What is the function of intervertebral discs?",
+        "answer": "Intervertebral discs function as shock absorbers between the vertebrae, allowing flexibility and movement in the spine."
+    },
+    {
+        "question": "What are the clinical features of a cervical herniated disc?",
+        "answer": "Clinical features of a cervical herniated disc include neck pain, radicular pain in the arms, numbness, and muscle weakness."
+    },
+    {
+        "question": "How is lumbar spondylolisthesis diagnosed?",
+        "answer": "Lumbar spondylolisthesis is diagnosed using X-rays to visualize the slippage of one vertebra over another, and sometimes MRI or CT scans for further detail."
+    },
+    {
+        "question": "What are the clinical signs of lumbar spondylolisthesis?",
+        "answer": "Clinical signs of lumbar spondylolisthesis include lower back pain, radicular symptoms, and sometimes visible deformity or step-off at the affected level."
+    },
+    {
+        "question": "How is spinal cord ischemia diagnosed?",
+        "answer": "Spinal cord ischemia is diagnosed using MRI, which can show areas of the spinal cord affected by reduced blood flow."
+    },
+    {
+        "question": "What is the role of corticosteroids in spinal cord injury treatment?",
+        "answer": "Corticosteroids are used in the acute phase of spinal cord injury to reduce inflammation and swelling around the injury site."
+    },
+    {
+        "question": "How is lumbar facet syndrome treated?",
+        "answer": "Lumbar facet syndrome is treated with physical therapy, pain medications, facet joint injections, and sometimes radiofrequency ablation."
+    },
+    {
+        "question": "How is a spinal epidural hematoma diagnosed?",
+        "answer": "A spinal epidural hematoma is diagnosed using MRI, which can show the presence of blood compressing the spinal cord."
+    },
+    {
+        "question": "How is cervical myelopathy managed?",
+        "answer": "Cervical myelopathy is managed with physical therapy, pain management, and sometimes surgical intervention to decompress the spinal cord."
+    },
+    {
+        "question": "What are the clinical signs of a lumbar spinal tumor?",
+        "answer": "Clinical signs of a lumbar spinal tumor include persistent back pain, neurological deficits, and sometimes systemic symptoms like weight loss and fatigue."
+    },
+    {
+        "question": "How is spinal cord infarction diagnosed?",
+        "answer": "Spinal cord infarction is diagnosed using MRI, which can show areas of the spinal cord affected by reduced blood flow."
+    },
+    {
+        "question": "What are the treatment options for spinal cord infarction?",
+        "answer": "Treatment options for spinal cord infarction include supportive care, anticoagulants if indicated, and addressing the underlying cause of the infarction."
+    },
+    {
+        "question": "How is a lumbar spine tumor diagnosed?",
+        "answer": "A lumbar spine tumor is diagnosed using MRI, which provides detailed images of the tumor and its effects on surrounding structures."
+    },
+    {
+        "question": "What are the clinical features of lumbar spinal stenosis?",
+        "answer": "Clinical features of lumbar spinal stenosis include lower back pain, leg pain, numbness, and weakness, especially during activities like walking or standing."
+    },
+    {
+        "question": "How is spinal osteomyelitis diagnosed?",
+        "answer": "Spinal osteomyelitis is diagnosed using MRI, which can show inflammation and infection in the bone, and sometimes biopsy for microbiological confirmation."
+    },
+    {
+        "question": "What is the treatment for thoracic outlet syndrome?",
+        "answer": "Treatment for thoracic outlet syndrome includes physical therapy, pain management, and sometimes surgical decompression."
+    },
+    {
+        "question": "What are the clinical features of cervical radiculopathy?",
+        "answer": "Clinical features of cervical radiculopathy include neck pain, radicular pain in the arms, numbness, and muscle weakness."
+    },
+    {
+        "question": "How is thoracic radiculopathy treated?",
+        "answer": "Thoracic radiculopathy is treated with physical therapy, pain medications, and sometimes epidural steroid injections."
+    },
+    {
+        "question": "What are the symptoms of a thoracic spine infection?",
+        "answer": "Symptoms of a thoracic spine infection include mid-back pain, fever, and neurological deficits if there is spinal cord involvement."
+    },
+    {
+        "question": "How is lumbar spinal stenosis managed?",
+        "answer": "Lumbar spinal stenosis is managed with physical therapy, pain medications, epidural steroid injections, and sometimes surgical decompression."
+    },
+    {
+        "question": "What is the role of physical therapy in managing spinal disorders?",
+        "answer": "Physical therapy helps improve mobility, strength, and function while reducing pain and preventing further injury in managing spinal disorders."
+    },
+    {
+        "question": "How is a cervical spine infection diagnosed?",
+        "answer": "A cervical spine infection is diagnosed using MRI to show inflammation and abscesses, and confirmed with blood tests and biopsy."
+    },
+    {
+        "question": "What are the symptoms of lumbar spondylosis?",
+        "answer": "Symptoms of lumbar spondylosis include lower back pain, stiffness, and sometimes radicular symptoms due to nerve root compression."
+    },
+    {
+        "question": "How is thoracic spinal stenosis treated?",
+        "answer": "Thoracic spinal stenosis is treated with physical therapy, pain management, and sometimes surgical decompression to relieve pressure on the spinal cord."
+    },
+    {
+        "question": "What are the treatment options for spinal deformities?",
+        "answer": "Treatment options for spinal deformities include observation, bracing, physical therapy, and surgery depending on the severity and progression of the curve."
+    },
+    {
+        "question": "How is a spinal cord tumor diagnosed?",
+        "answer": "A spinal cord tumor is diagnosed using MRI, which provides detailed images of the tumor and its effects on surrounding structures."
+    },
+    {
+        "question": "What are the clinical signs of a thoracic spine fracture?",
+        "answer": "Clinical signs of a thoracic spine fracture include mid-back pain, possible neurological deficits, and sometimes visible deformity."
+    },
+    {
+        "question": "How is cervical spondylosis treated?",
+        "answer": "Cervical spondylosis is treated with physical therapy, pain medications, and sometimes surgical intervention to decompress the spinal cord or nerve roots."
+    },
+    {
+        "question": "What are the clinical features of lumbar disc herniation?",
+        "answer": "Clinical features of lumbar disc herniation include lower back pain, radicular pain in the legs, numbness, and muscle weakness."
+    },
+    {
+        "question": "How is a spinal epidural abscess treated?",
+        "answer": "A spinal epidural abscess is treated with antibiotics and surgical drainage to remove the abscess and relieve pressure on the spinal cord."
+    },
+    {
+        "question": "What are the symptoms of cervical myelopathy?",
+        "answer": "Symptoms of cervical myelopathy include neck pain, numbness, weakness in the arms and hands, and difficulty with coordination and balance."
+    },
+    {
+        "question": "How is lumbar spondylolisthesis treated?",
+        "answer": "Lumbar spondylolisthesis is treated with physical therapy, pain medications, and sometimes surgical stabilization."
+    },
+    {
+        "question": "What is the role of CT scans in diagnosing spinal disorders?",
+        "answer": "CT scans provide detailed images of the spine, useful in diagnosing fractures, tumors, and other structural abnormalities."
+    },
+    {
+        "question": "How is cervical radiculopathy diagnosed?",
+        "answer": "Cervical radiculopathy is diagnosed using clinical evaluation, MRI, and sometimes nerve conduction studies to identify the affected nerve roots."
+    },
+    {
+        "question": "What are the symptoms of spinal cord compression?",
+        "answer": "Symptoms of spinal cord compression include severe back pain, weakness, numbness, and loss of bladder or bowel control."
+    },
+    {
+        "question": "How is lumbar spinal stenosis diagnosed?",
+        "answer": "Lumbar spinal stenosis is diagnosed using clinical evaluations, MRI, and CT scans to assess the narrowing of the spinal canal."
+    },
+    {
+        "question": "What is the purpose of spinal bracing?",
+        "answer": "Spinal bracing is used to provide support and immobilization to the spine, often used in conditions like fractures, scoliosis, and postoperative recovery."
+    },
+    {
+        "question": "How is lumbar facet syndrome diagnosed?",
+        "answer": "Lumbar facet syndrome is diagnosed using clinical evaluation, MRI, and sometimes diagnostic facet joint injections."
+    },
+    {
+        "question": "What are the clinical signs of lumbar spondylolisthesis?",
+        "answer": "Clinical signs of lumbar spondylolisthesis include lower back pain, radicular symptoms, and sometimes visible deformity or step-off at the affected level."
+    },
+    {
+        "question": "How is spinal cord compression treated?",
+        "answer": "Spinal cord compression is treated with urgent medical treatment, which may include steroids, radiation therapy, and surgery to relieve pressure on the spinal cord."
+    },
+    {
+        "question": "What are the symptoms of a cervical spine tumor?",
+        "answer": "Symptoms of a cervical spine tumor include neck pain, radicular pain in the arms, weakness, and sometimes signs of spinal cord compression."
+    },
+    {
+        "question": "How is spinal meningitis diagnosed?",
+        "answer": "Spinal meningitis is diagnosed using lumbar puncture to analyze cerebrospinal fluid for signs of infection and inflammation."
+    },
+    {
+        "question": "What are the symptoms of spinal osteoarthritis?",
+        "answer": "Symptoms of spinal osteoarthritis include back pain, stiffness, and sometimes radicular symptoms due to nerve compression."
+    },
+    {
+        "question": "How is a lumbar spine infection treated?",
+        "answer": "A lumbar spine infection is treated with antibiotics, often requiring a prolonged course, and sometimes surgical intervention to drain abscesses or stabilize the spine."
+    },
+    {
+        "question": "What are the symptoms of thoracic radiculopathy?",
+        "answer": "Symptoms of thoracic radiculopathy include mid-back pain, radicular pain around the chest, numbness, and weakness in the legs."
+    },
+    {
+        "question": "How is cervical spine instability diagnosed?",
+        "answer": "Cervical spine instability is diagnosed using dynamic X-rays and sometimes MRI or CT scans to assess the stability of the cervical spine."
+    },
+    {
+        "question": "What is the purpose of spinal fusion surgery?",
+        "answer": "The purpose of spinal fusion surgery is to stabilize the spine by fusing two or more vertebrae together, often to treat conditions like spinal instability or severe degenerative disc disease."
+    }
+
+
+
+
+    ]
+
+
+
+
+
+

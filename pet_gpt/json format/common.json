@@ -1,0 +1,696 @@
+[
+    {
+        "question": "What is the average lifespan of a dog?",
+        "answer": "The average lifespan of a dog is 10 to 13 years."
+    },
+    {
+        "question": "How often should I feed my dog?",
+        "answer": "Most adult dogs should be fed twice a day, while puppies may need three to four meals a day."
+    },
+    {
+        "question": "How much exercise does a dog need daily?",
+        "answer": "Most dogs need at least 30 minutes to 2 hours of exercise daily, depending on the breed and age."
+    },
+    {
+        "question": "What is the best way to train a dog?",
+        "answer": "Positive reinforcement, including treats and praise, is the best way to train a dog."
+    },
+    {
+        "question": "When should I start training my puppy?",
+        "answer": "You should start training your puppy as soon as you bring them home, usually around 8 weeks old."
+    },
+    {
+        "question": "How often should I take my dog to the vet?",
+        "answer": "Adult dogs should see a vet annually, while puppies need more frequent visits for vaccinations."
+    },
+    {
+        "question": "What vaccinations does my dog need?",
+        "answer": "Common vaccinations include rabies, distemper, parvovirus, and canine hepatitis."
+    },
+    {
+        "question": "How can I tell if my dog is sick?",
+        "answer": "Signs of illness include lethargy, loss of appetite, vomiting, diarrhea, and changes in behavior."
+    },
+    {
+        "question": "What should I do if my dog eats something toxic?",
+        "answer": "Contact your vet or an emergency animal poison control hotline immediately."
+    },
+    {
+        "question": "How do I prevent my dog from getting fleas and ticks?",
+        "answer": "Use preventive treatments like topical solutions, oral medications, and flea collars."
+    },
+    {
+        "question": "How do I care for my dog's teeth?",
+        "answer": "Brush your dog's teeth regularly and provide dental chews or toys."
+    },
+    {
+        "question": "How often should I bathe my dog?",
+        "answer": "Dogs should be bathed every 1-3 months, depending on their coat type and lifestyle."
+    },
+    {
+        "question": "What should I feed my dog?",
+        "answer": "Provide a balanced diet of high-quality commercial dog food or homemade meals with veterinary guidance."
+    },
+    {
+        "question": "How do I socialize my dog?",
+        "answer": "Expose your dog to different people, places, and other animals in a positive manner."
+    },
+    {
+        "question": "What are common signs of allergies in dogs?",
+        "answer": "Signs include itching, redness, ear infections, and gastrointestinal issues."
+    },
+    {
+        "question": "Can dogs eat human food?",
+        "answer": "Some human foods are safe for dogs, but many are not. Consult your vet before feeding human food."
+    },
+    {
+        "question": "How can I keep my dog mentally stimulated?",
+        "answer": "Provide puzzle toys, training sessions, and interactive play to keep your dog mentally stimulated."
+    },
+    {
+        "question": "What is crate training and how do I do it?",
+        "answer": "Crate training involves using a crate to provide a safe space for your dog. Introduce the crate gradually with positive reinforcement."
+    },
+    {
+        "question": "How can I stop my dog from barking excessively?",
+        "answer": "Identify the cause of the barking and address it with training and environmental changes."
+    },
+    {
+        "question": "What is the best way to introduce a new dog to my home?",
+        "answer": "Introduce the new dog slowly and in a neutral area. Monitor interactions and provide positive reinforcement."
+    },
+    {
+        "question": "How do I groom my dog at home?",
+        "answer": "Brush your dog regularly, trim their nails, clean their ears, and bathe them as needed."
+    },
+    {
+        "question": "What should I do if my dog gets lost?",
+        "answer": "Contact local animal shelters, post on social media, and put up flyers. Ensure your dog has an ID tag and is microchipped."
+    },
+    {
+        "question": "How do I choose the right dog breed for my lifestyle?",
+        "answer": "Consider your living situation, activity level, and experience with dogs when choosing a breed."
+    },
+    {
+        "question": "What are the benefits of spaying or neutering my dog?",
+        "answer": "Spaying/neutering can prevent certain health issues, reduce unwanted behaviors, and control the pet population."
+    },
+    {
+        "question": "How do I handle my dog's separation anxiety?",
+        "answer": "Gradually desensitize your dog to being alone, provide mental stimulation, and consider professional help if needed."
+    },
+    {
+        "question": "What is the best way to travel with my dog?",
+        "answer": "Use a secure crate or harness, bring necessary supplies, and ensure your dog is comfortable and safe."
+    },
+    {
+        "question": "How do I clean my dog's ears?",
+        "answer": "Use a vet-approved ear cleaner and gently wipe the ear canal with a cotton ball. Avoid inserting anything deep into the ear."
+    },
+    {
+        "question": "What is the best way to handle dog aggression?",
+        "answer": "Consult a professional trainer or behaviorist to address the underlying cause of aggression."
+    },
+    {
+        "question": "How do I teach my dog basic commands?",
+        "answer": "Use positive reinforcement to teach commands like sit, stay, come, and down."
+    },
+    {
+        "question": "How do I stop my dog from chewing on furniture?",
+        "answer": "Provide appropriate chew toys and redirect your dog's attention. Use deterrent sprays if necessary."
+    },
+    {
+        "question": "What are the signs of heatstroke in dogs?",
+        "answer": "Signs include excessive panting, drooling, weakness, vomiting, and collapse."
+    },
+    {
+        "question": "How do I protect my dog from cold weather?",
+        "answer": "Provide a warm shelter, use dog coats, and limit exposure to extreme cold."
+    },
+    {
+        "question": "What should I do if my dog has diarrhea?",
+        "answer": "Withhold food for 12-24 hours, then introduce a bland diet. Consult your vet if diarrhea persists."
+    },
+    {
+        "question": "How do I prevent my dog from digging?",
+        "answer": "Provide a designated digging area, use deterrents, and ensure your dog gets enough exercise and mental stimulation."
+    },
+    {
+        "question": "What are the common signs of arthritis in dogs?",
+        "answer": "Signs include stiffness, limping, reluctance to move, and difficulty getting up or down."
+    },
+    {
+        "question": "How do I prevent my dog from jumping on people?",
+        "answer": "Teach your dog to sit when greeting people and use positive reinforcement to encourage calm behavior."
+    },
+    {
+        "question": "What is a balanced diet for a dog?",
+        "answer": "A balanced diet includes proteins, carbohydrates, fats, vitamins, and minerals appropriate for your dog's age, size, and health."
+    },
+    {
+        "question": "How can I tell if my dog is overweight?",
+        "answer": "You should be able to feel your dog's ribs without excess fat and see a noticeable waist when viewed from above."
+    },
+    {
+        "question": "What are common signs of dental problems in dogs?",
+        "answer": "Signs include bad breath, difficulty eating, pawing at the mouth, and visible tartar or gum inflammation."
+    },
+    {
+        "question": "How do I introduce my dog to a new baby?",
+        "answer": "Introduce your dog to the baby's scent beforehand and supervise all interactions. Reward calm behavior."
+    },
+    {
+        "question": "How do I stop my dog from pulling on the leash?",
+        "answer": "Use a no-pull harness, practice loose-leash walking, and reward your dog for walking calmly by your side."
+    },
+    {
+        "question": "What should I do if my dog has a cut or wound?",
+        "answer": "Clean the wound with mild antiseptic and cover it with a bandage. Consult your vet for deeper or more serious injuries."
+    },
+    {
+        "question": "How do I housetrain my puppy?",
+        "answer": "Establish a regular feeding schedule, take your puppy outside frequently, and reward them for eliminating outdoors."
+    },
+    {
+        "question": "What is the best way to prevent dog bites?",
+        "answer": "Socialize your dog, teach appropriate behavior, and avoid situations that may trigger fear or aggression."
+    },
+    {
+        "question": "How do I stop my dog from eating poop?",
+        "answer": "Supervise your dog, keep their environment clean, and provide plenty of stimulation and a balanced diet."
+    },
+    {
+        "question": "What are the benefits of microchipping my dog?",
+        "answer": "Microchipping provides a permanent form of identification that can help reunite you with your dog if they get lost."
+    },
+    {
+        "question": "How do I handle my dog's fear of fireworks?",
+        "answer": "Create a safe space, use white noise, and consider calming aids or a vet-prescribed sedative if needed."
+    },
+    {
+        "question": "What should I do if my dog has bad breath?",
+        "answer": "Brush your dog's teeth regularly, provide dental chews, and consult your vet for underlying health issues."
+    },
+    {
+        "question": "How do I introduce my dog to a cat?",
+        "answer": "Introduce them slowly, keep initial interactions short, and provide separate spaces for each pet."
+    },
+    {
+        "question": "What should I do if my dog is vomiting?",
+        "answer": "Withhold food for 12-24 hours, provide small amounts of water, and consult your vet if vomiting persists."
+    },
+    {
+        "question": "How do I protect my dog from heatstroke?",
+        "answer": "Provide plenty of water, avoid exercise during peak heat, and ensure access to shade or air conditioning."
+    },
+    {
+        "question": "What is the best way to clean my dog's teeth?",
+        "answer": "Use a dog-specific toothbrush and toothpaste, and brush your dog's teeth regularly."
+    },
+    {
+        "question": "How do I stop my dog from jumping fences?",
+        "answer": "Increase the fence height, provide more exercise and stimulation, and consider training or deterrents."
+    },
+    {
+        "question": "What are the signs of bloat in dogs?",
+        "answer": "Signs include a swollen abdomen, restlessness, drooling, and unproductive retching. Bloat is a medical emergency."
+    },
+    {
+        "question": "How do I choose the right dog food?",
+        "answer": "Choose a dog food that meets AAFCO standards, is appropriate for your dog's life stage, and consult your vet for recommendations."
+    },
+    {
+        "question": "How do I help my dog lose weight?",
+        "answer": "Consult your vet, reduce portion sizes, increase exercise, and avoid feeding table scraps or high-calorie treats."
+    },
+    {
+        "question": "What are the common signs of ear infections in dogs?",
+        "answer": "Signs include head shaking, scratching at the ears, redness, odor, and discharge from the ears."
+    },
+    {
+        "question": "How do I stop my dog from whining?",
+        "answer": "Determine the cause of whining, provide attention when quiet, and avoid reinforcing the behavior by giving in to demands."
+    },
+    {
+        "question": "How do I prevent my dog from escaping?",
+        "answer": "Ensure your yard is secure, provide enough exercise and mental stimulation, and train your dog to come when called."
+    },
+    {
+        "question": "What should I do if my dog has a tick?",
+        "answer": "Use tweezers or a tick removal tool to grasp the tick close to the skin and pull it out slowly and steadily."
+    },
+    {
+        "question": "How do I train my dog to be comfortable with grooming?",
+        "answer": "Introduce grooming tools gradually, use positive reinforcement, and make grooming sessions short and pleasant."
+    },
+    {
+        "question": "What are the signs of a urinary tract infection in dogs?",
+        "answer": "Signs include frequent urination, straining, blood in the urine, and accidents in the house."
+    },
+    {
+        "question": "How do I stop my dog from chasing cars?",
+        "answer": "Use a leash during walks, train your dog to focus on you, and practice commands like 'sit' and 'stay'."
+    },
+    {
+        "question": "What should I do if my dog has a seizure?",
+        "answer": "Stay calm, keep your dog safe from injury, and contact your vet immediately."
+    },
+    {
+        "question": "How do I protect my dog's paws from hot pavement?",
+        "answer": "Walk your dog during cooler times of the day, use protective booties, or stick to grassy areas."
+    },
+    {
+        "question": "What are the benefits of obedience training?",
+        "answer": "Obedience training improves communication, builds a stronger bond, and ensures your dog's safety and well-being."
+    },
+    {
+        "question": "How do I teach my dog to fetch?",
+        "answer": "Start with a favorite toy, encourage your dog to chase it, and use treats and praise to reinforce returning the toy."
+    },
+    {
+        "question": "How do I stop my dog from begging at the table?",
+        "answer": "Feed your dog before your meals, ignore begging behavior, and reward calm behavior away from the table."
+    },
+    {
+        "question": "What is the best way to house-train an adult dog?",
+        "answer": "Establish a routine, supervise closely, and use positive reinforcement for outdoor elimination."
+    },
+    {
+        "question": "How do I stop my dog from digging in the yard?",
+        "answer": "Provide a designated digging area, ensure your dog gets enough exercise, and use deterrents in unwanted digging spots."
+    },
+    {
+        "question": "What are the signs of hypothyroidism in dogs?",
+        "answer": "Signs include weight gain, lethargy, hair loss, and skin issues. A vet can diagnose and treat hypothyroidism."
+    },
+    {
+        "question": "How do I keep my dog safe in the car?",
+        "answer": "Use a crate or a seatbelt harness to secure your dog and never leave them unattended in a hot car."
+    },
+    {
+        "question": "What should I do if my dog is constipated?",
+        "answer": "Ensure your dog stays hydrated, increase fiber in their diet, and consult your vet if constipation persists."
+    },
+    {
+        "question": "How do I stop my dog from licking excessively?",
+        "answer": "Determine the cause, such as allergies or anxiety, and address it with the help of your vet or a behaviorist."
+    },
+    {
+        "question": "What are the benefits of raw food diets for dogs?",
+        "answer": "Proponents claim benefits like improved coat condition and energy levels, but it's important to consult your vet for balanced nutrition."
+    },
+    {
+        "question": "How do I teach my dog to stop jumping on people?",
+        "answer": "Teach an alternative behavior like sitting, and reward your dog for calm greetings."
+    },
+    {
+        "question": "What are common signs of diabetes in dogs?",
+        "answer": "Signs include excessive thirst, frequent urination, weight loss, and increased appetite."
+    },
+    {
+        "question": "How do I stop my dog from barking at the door?",
+        "answer": "Teach your dog to go to a designated spot when the doorbell rings and reward quiet behavior."
+    },
+    {
+        "question": "What is the best way to introduce my dog to new people?",
+        "answer": "Allow your dog to approach at their own pace, use treats and praise, and ensure the experience is positive."
+    },
+    {
+        "question": "How do I keep my dog entertained when I'm not home?",
+        "answer": "Provide puzzle toys, a variety of chew toys, and consider a pet sitter or dog walker."
+    },
+    {
+        "question": "What are the signs of heartworm disease in dogs?",
+        "answer": "Signs include coughing, fatigue, weight loss, and difficulty breathing. Regular prevention is crucial."
+    },
+    {
+        "question": "How do I stop my dog from chewing on shoes?",
+        "answer": "Keep shoes out of reach, provide appropriate chew toys, and use deterrents if necessary."
+    },
+    {
+        "question": "What should I do if my dog has a broken nail?",
+        "answer": "Trim the broken part carefully, clean the area, and consult your vet if the nail is severely damaged or bleeding."
+    },
+    {
+        "question": "How do I train my dog to stay off furniture?",
+        "answer": "Provide a comfortable alternative, use positive reinforcement, and consistently enforce the rules."
+    },
+    {
+        "question": "What are the signs of Cushing's disease in dogs?",
+        "answer": "Signs include increased thirst and urination, weight gain, and hair loss. A vet can diagnose and treat this condition."
+    },
+    {
+        "question": "How do I stop my dog from barking at other dogs?",
+        "answer": "Desensitize your dog to other dogs, use positive reinforcement for calm behavior, and practice on-leash training."
+    },
+    {
+        "question": "What are the benefits of dog insurance?",
+        "answer": "Dog insurance can help cover the cost of unexpected medical expenses and provide peace of mind."
+    },
+    {
+        "question": "How do I teach my dog to walk on a leash without pulling?",
+        "answer": "Use a no-pull harness, practice loose-leash walking, and reward your dog for walking calmly by your side."
+    },
+    {
+        "question": "What should I do if my dog is scared of loud noises?",
+        "answer": "Create a safe space, use white noise or calming music, and consider anxiety-reducing products or medications."
+    },
+    {
+        "question": "How do I stop my dog from digging in the trash?",
+        "answer": "Keep trash cans out of reach, use secure lids, and provide plenty of mental and physical stimulation."
+    },
+    {
+        "question": "What are the signs of liver disease in dogs?",
+        "answer": "Signs include jaundice, vomiting, diarrhea, and changes in behavior. A vet can diagnose and treat liver disease."
+    },
+    {
+        "question": "How do I stop my dog from marking in the house?",
+        "answer": "Neuter your dog, clean marked areas thoroughly, and use positive reinforcement for outdoor elimination."
+    },
+    {
+        "question": "What should I do if my dog is overheating?",
+        "answer": "Move your dog to a cool place, provide water, and use cool (not cold) water to lower their body temperature. Consult your vet."
+    },
+    {
+        "question": "How do I keep my dog's coat healthy?",
+        "answer": "Regular brushing, a balanced diet, and proper grooming can help keep your dog's coat healthy."
+    },
+
+
+    {
+        "question": "How do I clean my dog's eyes?",
+        "answer": "Use a damp cotton ball to gently wipe around your dog's eyes. If there's discharge, consult your vet."
+    },
+    {
+        "question": "How do I stop my dog from barking at strangers?",
+        "answer": "Use positive reinforcement to reward calm behavior and gradually expose your dog to strangers in a controlled manner."
+    },
+    {
+        "question": "What are the signs of anxiety in dogs?",
+        "answer": "Signs include panting, pacing, whining, drooling, and destructive behavior."
+    },
+    {
+        "question": "How do I choose a good dog trainer?",
+        "answer": "Look for trainers with positive reinforcement techniques, certifications, and good reviews from other pet owners."
+    },
+    {
+        "question": "How do I stop my dog from eating too quickly?",
+        "answer": "Use a slow feeder bowl, spread food on a baking sheet, or add objects to their bowl to slow down eating."
+    },
+    {
+        "question": "How do I introduce my dog to a new puppy?",
+        "answer": "Introduce them in a neutral area, supervise interactions, and use positive reinforcement for good behavior."
+    },
+    {
+        "question": "What should I do if my dog has a hot spot?",
+        "answer": "Keep the area clean and dry, trim the fur around it, and consult your vet for appropriate treatment."
+    },
+    {
+        "question": "How do I keep my dog's ears clean?",
+        "answer": "Use a vet-approved ear cleaner and gently wipe the ear canal with a cotton ball. Avoid inserting anything deep into the ear."
+    },
+    {
+        "question": "What is the best way to discipline a dog?",
+        "answer": "Use positive reinforcement for good behavior and redirection or time-outs for undesirable behavior. Avoid physical punishment."
+    },
+    {
+        "question": "How do I stop my dog from barking at night?",
+        "answer": "Ensure your dog is well-exercised, comfortable, and not disturbed by noises. Provide a calming environment."
+    },
+    {
+        "question": "What are the signs of parvovirus in dogs?",
+        "answer": "Signs include severe vomiting, diarrhea, lethargy, and loss of appetite. Parvovirus requires immediate veterinary attention."
+    },
+    {
+        "question": "How do I stop my dog from biting?",
+        "answer": "Socialize your dog, provide plenty of chew toys, and use positive reinforcement to encourage gentle behavior."
+    },
+    {
+        "question": "How do I prevent my dog from developing joint problems?",
+        "answer": "Maintain a healthy weight, provide regular exercise, and consider joint supplements as recommended by your vet."
+    },
+    {
+        "question": "What are the signs of pancreatitis in dogs?",
+        "answer": "Signs include vomiting, abdominal pain, lethargy, and loss of appetite. Seek veterinary care if you suspect pancreatitis."
+    },
+    {
+        "question": "How do I stop my dog from jumping on guests?",
+        "answer": "Teach your dog to sit when guests arrive and reward calm behavior. Use consistent training and management."
+    },
+    {
+        "question": "What is the best way to keep my dog hydrated?",
+        "answer": "Provide fresh water at all times, especially during hot weather or after exercise. Monitor your dog's water intake."
+    },
+    {
+        "question": "How do I keep my dog's teeth clean without brushing?",
+        "answer": "Use dental chews, toys, and water additives designed to help keep teeth clean. Regular vet check-ups are also important."
+    },
+    {
+        "question": "How do I stop my dog from digging holes in the yard?",
+        "answer": "Provide sufficient exercise and mental stimulation, designate a specific digging area, and use deterrents where needed."
+    },
+    {
+        "question": "What should I do if my dog is limping?",
+        "answer": "Examine your dog's paw for any injuries, rest your dog, and consult your vet if limping persists."
+    },
+    {
+        "question": "How do I keep my dog's nails trimmed?",
+        "answer": "Use a nail clipper or grinder, trim small amounts regularly, and reward your dog for staying calm during nail trims."
+    },
+    {
+        "question": "What are the signs of kidney disease in dogs?",
+        "answer": "Signs include increased thirst, frequent urination, weight loss, and lethargy. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I stop my dog from chasing wildlife?",
+        "answer": "Use a leash, train recall commands, and provide sufficient exercise and mental stimulation to reduce chasing behavior."
+    },
+    {
+        "question": "How do I keep my dog's fur from matting?",
+        "answer": "Brush your dog regularly, especially in areas prone to matting, and use detangling sprays if needed."
+    },
+    {
+        "question": "What should I do if my dog has a swollen face?",
+        "answer": "Consult your vet immediately as swelling can be a sign of an allergic reaction or other serious issues."
+    },
+    {
+        "question": "How do I stop my dog from jumping on the counter?",
+        "answer": "Keep counters clear of food, use deterrents, and train your dog to stay off counters using positive reinforcement."
+    },
+    {
+        "question": "What are the signs of hip dysplasia in dogs?",
+        "answer": "Signs include difficulty standing, reluctance to exercise, and visible pain in the hip area. Seek veterinary advice for diagnosis and treatment."
+    },
+    {
+        "question": "How do I clean my dog's paws after a walk?",
+        "answer": "Use a damp cloth or pet wipes to clean dirt and debris from your dog's paws. Check for any injuries or foreign objects."
+    },
+    {
+        "question": "How do I stop my dog from barking at the TV?",
+        "answer": "Desensitize your dog to TV sounds, use positive reinforcement for calm behavior, and provide alternative activities during TV time."
+    },
+    {
+        "question": "How do I prevent my dog from getting car sick?",
+        "answer": "Gradually acclimate your dog to car rides, use a crate or seatbelt, and consult your vet for motion sickness remedies."
+    },
+    {
+        "question": "How do I stop my dog from growling at other dogs?",
+        "answer": "Socialize your dog gradually, use positive reinforcement for calm behavior, and consult a professional trainer if needed."
+    },
+    {
+        "question": "How do I keep my dog's ears dry after swimming?",
+        "answer": "Gently dry your dog's ears with a towel and use an ear-drying solution recommended by your vet."
+    },
+    {
+        "question": "How do I stop my dog from rolling in the dirt?",
+        "answer": "Provide alternative forms of enrichment, such as toys and training, and supervise your dog during outdoor play."
+    },
+    {
+        "question": "How do I keep my dog's food fresh?",
+        "answer": "Store dry food in an airtight container and keep canned food refrigerated after opening."
+    },
+    {
+        "question": "What are the signs of anemia in dogs?",
+        "answer": "Signs include pale gums, lethargy, and weakness. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I stop my dog from eating grass?",
+        "answer": "Provide a balanced diet, ensure your dog is not bored or stressed, and consult your vet if grass eating persists."
+    },
+    {
+        "question": "What should I do if my dog has bad gas?",
+        "answer": "Evaluate your dog's diet, avoid feeding table scraps, and consult your vet if gas is persistent or accompanied by other symptoms."
+    },
+    {
+        "question": "How do I stop my dog from scratching the floor?",
+        "answer": "Trim your dog's nails regularly, provide scratching posts or mats, and use positive reinforcement for appropriate behavior."
+    },
+    {
+        "question": "What are the signs of skin infections in dogs?",
+        "answer": "Signs include redness, swelling, itching, and discharge. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog calm during thunderstorms?",
+        "answer": "Create a safe space, use white noise or calming music, and consider anxiety-reducing products or medications."
+    },
+    {
+        "question": "What are the signs of a food allergy in dogs?",
+        "answer": "Signs include itching, skin rashes, ear infections, and gastrointestinal issues. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog's bedding clean?",
+        "answer": "Wash your dog's bedding regularly in hot water and use pet-safe laundry detergents."
+    },
+    {
+        "question": "How do I stop my dog from barking at the mailman?",
+        "answer": "Desensitize your dog to the mailman's visits, use positive reinforcement for calm behavior, and provide alternative activities during mail delivery."
+    },
+    {
+        "question": "What should I do if my dog has dandruff?",
+        "answer": "Brush your dog regularly, use moisturizing shampoos, and consult your vet for underlying health issues."
+    },
+    {
+        "question": "How do I prevent my dog from getting bored?",
+        "answer": "Provide interactive toys, regular exercise, and mental stimulation through training and play."
+    },
+    {
+        "question": "How do I stop my dog from biting the leash?",
+        "answer": "Use a chew-resistant leash, redirect your dog's attention with treats or toys, and reinforce calm behavior on walks."
+    },
+    {
+        "question": "What are the signs of Lyme disease in dogs?",
+        "answer": "Signs include fever, lameness, swollen joints, and lethargy. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog from getting lost?",
+        "answer": "Use a collar with ID tags, microchip your dog, and ensure your yard is secure."
+    },
+    {
+        "question": "How do I stop my dog from chewing on furniture?",
+        "answer": "Provide plenty of chew toys, use deterrents, and supervise your dog to redirect chewing behavior."
+    },
+    {
+        "question": "What are the signs of an ear hematoma in dogs?",
+        "answer": "Signs include swelling, redness, and discomfort in the ear. Consult your vet for treatment."
+    },
+    {
+        "question": "How do I keep my dog's skin healthy?",
+        "answer": "Provide a balanced diet, regular grooming, and consult your vet for any skin concerns."
+    },
+    {
+        "question": "How do I stop my dog from digging under the fence?",
+        "answer": "Reinforce the fence with buried barriers, provide plenty of exercise, and supervise outdoor time."
+    },
+    {
+        "question": "What are the signs of a tick-borne disease in dogs?",
+        "answer": "Signs include fever, lethargy, swollen joints, and loss of appetite. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog's coat shiny?",
+        "answer": "Provide a balanced diet, regular grooming, and use supplements if recommended by your vet."
+    },
+    {
+        "question": "How do I stop my dog from scratching the door?",
+        "answer": "Provide alternative forms of enrichment, use protective barriers, and reinforce appropriate behavior."
+    },
+    {
+        "question": "What are the signs of a cold in dogs?",
+        "answer": "Signs include coughing, sneezing, nasal discharge, and lethargy. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog cool in hot weather?",
+        "answer": "Provide plenty of water, shade, and avoid outdoor activities during peak heat."
+    },
+    {
+        "question": "How do I stop my dog from stealing food?",
+        "answer": "Keep food out of reach, train your dog to leave food alone, and provide alternative forms of enrichment."
+    },
+    {
+        "question": "What are the signs of a heart condition in dogs?",
+        "answer": "Signs include coughing, difficulty breathing, lethargy, and fainting. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog's teeth clean naturally?",
+        "answer": "Provide dental chews, raw bones, and a balanced diet to help maintain dental health."
+    },
+    {
+        "question": "How do I stop my dog from scratching furniture?",
+        "answer": "Provide scratching posts or mats, use deterrents, and reinforce appropriate behavior."
+    },
+    {
+        "question": "What are the signs of an allergic reaction in dogs?",
+        "answer": "Signs include itching, swelling, hives, and difficulty breathing. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog from getting fleas?",
+        "answer": "Use regular flea prevention products, keep your dog's environment clean, and check for fleas regularly."
+    },
+    {
+        "question": "How do I stop my dog from eating poop?",
+        "answer": "Clean up waste immediately, provide a balanced diet, and consult your vet for possible underlying issues."
+    },
+    {
+        "question": "What are the signs of heat exhaustion in dogs?",
+        "answer": "Signs include excessive panting, drooling, lethargy, and vomiting. Move your dog to a cool place and provide water."
+    },
+    {
+        "question": "How do I keep my dog's nails from splitting?",
+        "answer": "Trim nails regularly, avoid hard surfaces, and provide nail care supplements if recommended by your vet."
+    },
+    {
+        "question": "How do I stop my dog from chewing on shoes?",
+        "answer": "Keep shoes out of reach, provide appropriate chew toys, and use deterrents if necessary."
+    },
+    {
+        "question": "What are the signs of arthritis in dogs?",
+        "answer": "Signs include limping, stiffness, difficulty rising, and decreased activity. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog's water from freezing?",
+        "answer": "Use a heated water bowl or change the water frequently to prevent freezing in cold weather."
+    },
+    {
+        "question": "How do I stop my dog from eating plants?",
+        "answer": "Provide alternative chew toys, use deterrents on plants, and supervise your dog to redirect behavior."
+    },
+    {
+        "question": "What are the signs of cancer in dogs?",
+        "answer": "Signs include lumps, unexplained weight loss, lethargy, and changes in appetite. Consult your vet for diagnosis and treatment."
+    },
+    {
+        "question": "How do I keep my dog from getting worms?",
+        "answer": "Use regular deworming treatments, keep your dog's environment clean, and avoid contact with feces."
+    },
+    {
+        "question": "How do I stop my dog from barking at the TV?",
+        "answer": "Desensitize your dog to TV sounds, use positive reinforcement for calm behavior, and provide alternative activities during TV time."
+    },
+    {
+        "question": "What are the signs of an ear infection in dogs?",
+        "answer": "Signs include head shaking, scratching at the ears, redness, odor, and discharge from the ears."
+    },
+    {
+        "question": "How do I keep my dog's coat from shedding excessively?",
+        "answer": "Regular grooming, a balanced diet, and supplements can help reduce excessive shedding."
+    },
+    {
+        "question": "How do I stop my dog from licking excessively?",
+        "answer": "Determine the cause, such as allergies or anxiety, and address it with the help of your vet or a behaviorist."
+    },
+    {
+        "question": "What are the signs of heartworm disease in dogs?",
+        "answer": "Signs include coughing, fatigue, weight loss, and difficulty breathing. Regular prevention is crucial."
+    },
+    {
+        "question": "How do I stop my dog from chewing on furniture?",
+        "answer": "Provide plenty of chew toys, use deterrents, and supervise your dog to redirect chewing behavior."
+    },
+    {
+        "question": "What should I do if my dog is overheating?",
+        "answer": "Move your dog to a cool place, provide water, and use cool (not cold) water to lower their body temperature. Consult your vet."
+    },
+    {
+        "question": "How do I keep my dog's coat healthy?",
+        "answer": "Regular brushing, a balanced diet, and proper grooming can help keep your dog's coat healthy."
+    }
+]

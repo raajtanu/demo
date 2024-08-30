@@ -1,0 +1,1693 @@
+[
+    {
+        "question": "What is dyspnea?",
+        "answer": "Dyspnea is a subjective complaint indicating awareness of respiratory distress, often noted during exercise and can be severe during rest if respiratory dysfunction is severe."
+    },
+    {
+        "question": "What commonly causes defects of the air passages?",
+        "answer": "The most commonly encountered defect of the air passages is obstruction, which can be partial, such as with stenosis, or complete, as with occlusion."
+    },
+    {
+        "question": "What is the impairment rating for a woman with a 1.5-cm scar on the dorsum of her nose from a baseball bat injury?",
+        "answer": "The impairment rating is 1% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a man with a stable scar on his right cheek with a loss of normal skin color and residual skin texture changes?",
+        "answer": "The impairment rating is 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What condition might result in a 6%-10% impairment due to facial disorders?",
+        "answer": "Conditions involving loss of supporting structure of part of the face, such as depressed cheek, nasal, or frontal bones, may result in a 6%-10% impairment."
+    },
+    {
+        "question": "What is the impairment rating for a woman with a gunshot wound to the face, missing the tip of her nose on the left side and a significant scar on her left cheek?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating would be given to a man with severe bilateral vocal fold paralysis and permanent tracheostomy?",
+        "answer": "The impairment rating is 29% impairment due to vocal fold paralysis."
+    },
+    {
+        "question": "What is the impairment rating for a man with right vocal fold paralysis, with a 2-3 mm gap on phonation?",
+        "answer": "The impairment rating is 5% to 10% impairment due to vocal fold paralysis."
+    },
+    {
+        "question": "What are common symptoms of air passage defects?",
+        "answer": "Common symptoms include dyspnea, unusual breathlessness, and possibly sleep apnea."
+    },
+    {
+        "question": "How does dyspnea affect an individual's daily living activities?",
+        "answer": "Dyspnea can significantly diminish an individual's capacity to carry out activities of daily living, especially during exercise and even at rest if severe."
+    },
+    {
+        "question": "What is the clinical significance of dyspnea occurring at rest?",
+        "answer": "When dyspnea occurs at rest, it usually indicates severe respiratory dysfunction."
+    },
+    {
+        "question": "What is the typical physical exam finding for an individual with a healed nasal bone fracture and a small residual scar?",
+        "answer": "The physical exam would show a normal nasal region except for a well-healed, stable scar, with no loss of nasal function or structural integrity."
+    },
+    {
+        "question": "What is the diagnosis for a patient with scars on the right lower eyelid and lateral orbital regions, mild to moderate enophthalmos, and nasal bone depression?",
+        "answer": "The diagnosis is depression of the right malar bone and nasal bones, enophthalmos of the right orbit, and scars on the right lower eyelid and lateral orbital skin."
+    },
+    {
+        "question": "What impairment rating is assigned for severe bilateral vocal fold paralysis?",
+        "answer": "The impairment rating for severe bilateral vocal fold paralysis ranges from 11% to 29% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a patient with dyspnea produced by stress, prolonged exertion, and other intensive activities?",
+        "answer": "The impairment rating is 0%-10% impairment of the whole person if dyspnea is not produced by walking freely, climbing stairs freely, or performing other usual activities of daily living."
+    },
+    {
+        "question": "What physical signs might be present in a patient with partial obstruction of the larynx?",
+        "answer": "Physical signs might include dyspnea and examination revealing partial obstruction of the oropharynx, laryngopharynx, larynx, upper trachea, or lower trachea."
+    },
+    {
+        "question": "What is the common history of a patient with a healed nasal bone fracture and a small residual scar from a baseball bat injury?",
+        "answer": "The history includes being struck in the nose with a baseball bat, sustaining a laceration and minimally displaced nasal bone fractures, undergoing closed reduction and repair, and returning to normal activities after recovery."
+    },
+    {
+        "question": "What impairment rating is given for a woman with a gunshot wound to the face, significant nasal cartilage loss, and a cheek scar?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What condition results in dyspnea occurring at rest and aggravated by usual activities of daily living?",
+        "answer": "Conditions with severe respiratory dysfunction resulting in dyspnea occurring at rest and aggravated by usual activities would be classified as higher impairment levels."
+    },
+    {
+        "question": "What is the impairment rating for facial abnormality involving loss of supporting structure of part of the face?",
+        "answer": "The impairment rating ranges from 6% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What clinical studies are typically conducted for a patient with right vocal fold paralysis?",
+        "answer": "Fiberoptic laryngoscopy is conducted, revealing the position and movement of the vocal cords."
+    },
+    {
+        "question": "What is the impairment rating for a patient with partial obstruction of the laryngeal airway and right vocal fold paralysis?",
+        "answer": "The impairment rating is 5% to 10% impairment due to vocal fold paralysis."
+    },
+    {
+        "question": "What physical exam findings might be present in a patient with severe facial injuries including enophthalmos and nasal bone depression?",
+        "answer": "Findings include well-healed scars, palpable metal plates, depression of malar eminence, mild to moderate enophthalmos, and nasal bone depression."
+    },
+    {
+        "question": "What is the impairment rating for a patient with a small scar and no loss of nasal function after a nasal bone fracture?",
+        "answer": "The impairment rating is 1% impairment of the whole person."
+    },
+    {
+        "question": "What is the common history for a patient with a healed zygomatic arch fracture and a cobblestone appearance of the skin?",
+        "answer": "The history includes falling off a tractor, sustaining a deep abrasion and zygomatic arch fracture, undergoing surgery for fracture reduction and wound care, and returning to normal activities."
+    },
+    {
+        "question": "What is the impairment rating for a patient with facial abnormality involving mild, unilateral, total facial paralysis?",
+        "answer": "The impairment rating ranges from 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a patient with nasal distortion affecting physical appearance?",
+        "answer": "The impairment rating ranges from 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a patient with severe unilateral facial paralysis?",
+        "answer": "The impairment rating is included in the range of 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a patient with loss of a major portion of the nose?",
+        "answer": "The impairment rating ranges from 16% to 50% impairment of the whole person."
+    },
+    {
+        "question": "What is the typical diagnosis for a patient with scars over the right inferior and lateral orbital regions and a sunken appearance of the right eye?",
+        "answer": "The diagnosis is depression of the right malar bone, enophthalmos of the right orbit, and scars over the right inferior and lateral orbital rim regions."
+    },
+    {
+        "question": "What is the impairment rating for a patient with dyspnea occurring at rest and aggravated by personal cleansing, dressing, or grooming?",
+        "answer": "The impairment rating would be higher, indicating severe respiratory dysfunction and significant impairment."
+    },
+    {
+        "question": "What physical exam findings might indicate partial obstruction of the oropharynx?",
+        "answer": "Findings may include dyspnea and examination revealing partial obstruction of the oropharynx."
+    },
+    {
+        "question": "What is the impairment rating for a patient with a stable, soft scar and significant nasal tissue loss after reconstructive surgery?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What condition might result in 11%-29% impairment due to vocal fold paralysis?",
+        "answer": "Bilateral vocal fold paralysis with poor airway and permanent tracheostomy may result in 11%-29% impairment."
+    },
+    {
+        "question": "What is the impairment rating for a patient with dyspnea produced by stress and prolonged exertion, but not by usual daily activities?",
+        "answer": "The impairment rating ranges from 0% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What physical exam findings might be present in a patient with partial obstruction of the larynx and right vocal fold paralysis?",
+        "answer": "Findings may include dyspnea and partial obstruction of the laryngeal airway, with right vocal fold paralysis observed on laryngoscopy."
+    },
+    {
+        "question": "What is the impairment rating for a patient with scars over the right lower eyelid and lateral orbital rim, and mild enophthalmos?",
+        "answer": "The impairment rating is 11% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a patient with a healed nasal bone fracture, small scar, and no functional loss?",
+        "answer": "The impairment rating is 1% impairment of the whole person."
+    },
+    {
+        "question": "What history is common for a patient with a zygomatic arch fracture and a cobblestone appearance of the skin?",
+        "answer": "History includes falling off a tractor, deep abrasion, zygomatic arch fracture, surgical reduction, wound care, and return to normal activities."
+    },
+    {
+        "question": "What is the impairment rating for a patient with mild, unilateral, total facial paralysis and loss of facial tone?",
+        "answer": "The impairment rating ranges from 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for nasal distortion affecting physical appearance but no functional loss?",
+        "answer": "The impairment rating ranges from 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for severe unilateral facial paralysis with significant functional loss?",
+        "answer": "The impairment rating is 11% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for loss of a major portion of the nose with significant deformity?",
+        "answer": "The impairment rating ranges from 16% to 50% impairment of the whole person."
+    },
+    {
+        "question": "What is the typical diagnosis for a patient with scars and a sunken appearance of the right eye?",
+        "answer": "The diagnosis is depression of the right malar bone and enophthalmos of the right orbit, with scars over the right inferior and lateral orbital regions."
+    },
+    {
+        "question": "What is the impairment rating for dyspnea at rest and aggravated by personal activities?",
+        "answer": "The impairment rating is higher, indicating severe respiratory dysfunction and significant impairment."
+    },
+    {
+        "question": "What physical findings indicate partial obstruction of the oropharynx in a patient with dyspnea?",
+        "answer": "Findings may include dyspnea and examination showing partial obstruction of the oropharynx."
+    },
+    {
+        "question": "What is the impairment rating for a patient with a significant nasal tissue loss and a stable, soft scar after surgery?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What range of impairment is given for bilateral vocal fold paralysis with poor airway?",
+        "answer": "The impairment rating ranges from 11% to 29% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for dyspnea due to stress and exertion but not daily activities?",
+        "answer": "The impairment rating ranges from 0% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What are typical physical findings for partial laryngeal obstruction and vocal fold paralysis?",
+        "answer": "Findings include dyspnea and partial laryngeal airway obstruction, with vocal fold paralysis noted on laryngoscopy."
+    },
+    {
+        "question": "What is the impairment rating for scars and mild enophthalmos from facial injury?",
+        "answer": "The impairment rating is 11% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a healed nasal bone fracture with a small scar and no function loss?",
+        "answer": "The impairment rating is 1% impairment of the whole person."
+    },
+    {
+        "question": "What history might a patient with a zygomatic arch fracture and cobblestone skin appearance have?",
+        "answer": "History may include falling off a tractor, deep abrasion, zygomatic arch fracture, surgery for reduction, wound care, and recovery."
+    },
+    {
+        "question": "What is the impairment rating for mild, unilateral facial paralysis with loss of tone?",
+        "answer": "The impairment rating ranges from 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for nasal distortion affecting appearance but no function?",
+        "answer": "The impairment rating ranges from 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for severe unilateral facial paralysis with functional loss?",
+        "answer": "The impairment rating is 11% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for loss of a major portion of the nose with deformity?",
+        "answer": "The impairment rating ranges from 16% to 50% impairment of the whole person."
+    },
+    {
+        "question": "What is the diagnosis for scars and a sunken eye appearance?",
+        "answer": "The diagnosis is depression of the right malar bone and enophthalmos of the right orbit, with scars over the right inferior and lateral orbital regions."
+    },
+    {
+        "question": "What is the impairment rating for dyspnea at rest aggravated by activities?",
+        "answer": "The impairment rating is higher, indicating severe respiratory dysfunction."
+    },
+    {
+        "question": "What physical findings indicate partial oropharyngeal obstruction in a dyspneic patient?",
+        "answer": "Findings include dyspnea and examination showing partial obstruction of the oropharynx."
+    },
+    {
+        "question": "What is the impairment rating for nasal tissue loss and a stable scar post-surgery?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is given for bilateral vocal fold paralysis with airway issues?",
+        "answer": "The impairment rating ranges from 11% to 29% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for dyspnea from exertion but not daily activities?",
+        "answer": "The impairment rating ranges from 0% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What findings are typical for partial laryngeal obstruction and vocal fold paralysis?",
+        "answer": "Findings include dyspnea and partial laryngeal obstruction, with vocal fold paralysis observed on laryngoscopy."
+    },
+    {
+        "question": "What is the impairment rating for scars and enophthalmos from facial trauma?",
+        "answer": "The impairment rating is 11% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a nasal bone fracture with a small scar and no function loss?",
+        "answer": "The impairment rating is 1% impairment of the whole person."
+    },
+    {
+        "question": "What history is common in patients with zygomatic arch fractures and cobblestone skin?",
+        "answer": "History often includes falling off a tractor, deep abrasion, zygomatic arch fracture, surgery, wound care, and recovery."
+    },
+    {
+        "question": "What is the impairment rating for mild unilateral facial paralysis with tone loss?",
+        "answer": "The impairment rating ranges from 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for nasal distortion affecting appearance but not function?",
+        "answer": "The impairment rating ranges from 0% to 5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for severe unilateral facial paralysis with function loss?",
+        "answer": "The impairment rating is 11% to 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for loss of a major portion of the nose?",
+        "answer": "The impairment rating ranges from 16% to 50% impairment of the whole person."
+    },
+    {
+        "question": "What is the diagnosis for scars and a sunken appearance of the right eye?",
+        "answer": "The diagnosis is depression of the right malar bone and enophthalmos of the right orbit, with scars over the right inferior and lateral orbital regions."
+    },
+    {
+        "question": "What is the impairment rating for dyspnea aggravated by personal activities?",
+        "answer": "The impairment rating is higher, indicating severe respiratory dysfunction."
+    },
+    {
+        "question": "What findings indicate partial oropharyngeal obstruction in a dyspneic patient?",
+        "answer": "Findings include dyspnea and examination showing partial obstruction of the oropharynx."
+    },
+    {
+        "question": "What is the impairment rating for nasal tissue loss and a stable scar?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What impairment rating is assigned for bilateral vocal fold paralysis with airway problems?",
+        "answer": "The impairment rating ranges from 11% to 29% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for dyspnea caused by exertion but not daily activities?",
+        "answer": "The impairment rating ranges from 0% to 10% impairment of the whole person."
+    },
+    {
+        "question": "What findings are typical for partial laryngeal obstruction and vocal fold paralysis?",
+        "answer": "Findings include dyspnea and partial laryngeal obstruction, with vocal fold paralysis observed on laryngoscopy."
+    },
+    {
+        "question": "What is the impairment rating for scars and enophthalmos from facial trauma?",
+        "answer": "The impairment rating is 11% to 15% impairment of the whole person."
+    },
+
+    
+    {
+        "question": "What percentage of impairment is associated with total disfigurement of the face?",
+        "answer": "Total disfigurement of the face after treatment should be deemed a 16% to 50% impairment of the whole person."
+    },
+    {
+        "question": "How is severe disfigurement above the brow line rated in terms of impairment?",
+        "answer": "Severe disfigurement above the brow line should be deemed to be, at a maximum, 1% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for severe disfigurement below the upper lip?",
+        "answer": "If disfigurement is severe below the upper lip, it may be deemed to be 8% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 25-year-old woman with a residual scar on the dorsum of her nose from a compound nasal bone fracture?",
+        "answer": "The impairment rating is 1% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 55-year-old man with a loss of function of his left eye?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is given for massive loss of normal structural integrity of the right side of the face and loss of normal speech function and mastication?",
+        "answer": "The impairment rating is 25% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 45-year-old woman with a severe electrical injury to her face, resulting in a 40% impairment?",
+        "answer": "The impairment rating is 40% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with severe, unilateral, total facial paralysis?",
+        "answer": "Severe, unilateral, total facial paralysis results in 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is given for severe, bilateral, total facial paralysis?",
+        "answer": "Severe, bilateral, total facial paralysis results in 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "How is a 35-year-old man with a depression of the right malar bone and nasal bones rated in terms of impairment?",
+        "answer": "The impairment rating is 10% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 35-year-old woman with a gunshot wound to the face, resulting in the loss of skin and cartilage on the left tip of her nose?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for facial abnormalities involving loss of supporting structure of part of the face?",
+        "answer": "Facial abnormalities involving loss of supporting structure of part of the face result in 6%-10% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with the loss of an eye due to a facial injury?",
+        "answer": "The loss of an eye due to a facial injury results in 15% impairment of the whole person."
+    },
+    {
+        "question": "How is the loss of normal skin and muscle on one side of the face rated in terms of impairment?",
+        "answer": "The loss of normal skin and muscle on one side of the face is rated as 25% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a facial injury resulting in a scar that falls in skinfold lines?",
+        "answer": "A facial injury resulting in a scar that falls in skinfold lines is rated as 1% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is given for a nasal bone fracture with no loss of nasal function or structural integrity?",
+        "answer": "A nasal bone fracture with no loss of nasal function or structural integrity results in 1% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a facial crush injury resulting in sunken appearance of the right eye and cheekbone?",
+        "answer": "The impairment rating is 10% impairment of the whole person."
+    },
+    {
+        "question": "How is the loss of skin and cartilage on the tip of the nose rated in terms of impairment?",
+        "answer": "The loss of skin and cartilage on the tip of the nose is rated as 15% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with the loss of normal structural integrity of the facial bones?",
+        "answer": "The loss of normal structural integrity of the facial bones is rated as 25% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a facial injury resulting in a 1.5-cm scar across the glabellar region?",
+        "answer": "A facial injury resulting in a 1.5-cm scar across the glabellar region is rated as 1% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is given for a facial injury that required speech therapy due to loss of articulatory function?",
+        "answer": "A facial injury that required speech therapy due to loss of articulatory function is rated as 25% impairment of the whole person."
+    },
+    {
+        "question": "How is a crush injury to the face resulting in enophthalmos rated in terms of impairment?",
+        "answer": "A crush injury to the face resulting in enophthalmos is rated as 10% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a facial injury resulting in significant depression on the tip of the nose?",
+        "answer": "A facial injury resulting in significant depression on the tip of the nose is rated as 15% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with a facial injury that resulted in a prosthetic eye?",
+        "answer": "A facial injury that resulted in a prosthetic eye is rated as 15% impairment of the whole person."
+    },
+    {
+        "question": "How is a massive loss of normal structural integrity of the face rated in terms of impairment?",
+        "answer": "A massive loss of normal structural integrity of the face is rated as 40% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a facial injury resulting in the loss of vision in one eye?",
+        "answer": "A facial injury resulting in the loss of vision in one eye is rated as 15% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is given for a facial injury resulting in the loss of the entire nose?",
+        "answer": "The loss of the entire nose results in 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "How is the loss of an anatomical part of the face rated in terms of impairment?",
+        "answer": "The loss of an anatomical part of the face is rated as 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for severe facial disfigurement that precludes social acceptance?",
+        "answer": "Severe facial disfigurement that precludes social acceptance is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is given for facial abnormality involving absence of a normal anatomic part?",
+        "answer": "Facial abnormality involving absence of a normal anatomic part is rated as 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "How is mild, bilateral, total facial paralysis rated in terms of impairment?",
+        "answer": "Mild, bilateral, total facial paralysis is rated as 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a facial abnormality involving cutaneous disorder?",
+        "answer": "A facial abnormality involving cutaneous disorder is rated as 6%-10% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with the loss of the tip of the nose and a significant scar on the cheek?",
+        "answer": "The loss of the tip of the nose and a significant scar on the cheek result in 15% impairment of the whole person."
+    },
+    {
+        "question": "How is severe facial paralysis rated in terms of impairment?",
+        "answer": "Severe facial paralysis is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a 36-year-old man with a loss of function of the left eye due to a facial injury?",
+        "answer": "The impairment rating is 15% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is given for severe facial disfigurement involving both sides of the face?",
+        "answer": "Severe facial disfigurement involving both sides of the face is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "How is the loss of the entire lower lip rated in terms of impairment?",
+        "answer": "The loss of the entire lower lip is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for severe, unilateral, partial facial paralysis?",
+        "answer": "Severe, unilateral, partial facial paralysis is rated as 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with severe facial disfigurement involving extensive scarring?",
+        "answer": "Severe facial disfigurement involving extensive scarring is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "How is severe facial disfigurement involving total loss of normal facial contours rated in terms of impairment?",
+        "answer": "Severe facial disfigurement involving total loss of normal facial contours is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a severe facial injury resulting in the loss of the entire left side of the face?",
+        "answer": "A severe facial injury resulting in the loss of the entire left side of the face is rated as 25% impairment of the whole person."
+    },
+    
+    {
+        "question": "What is the impairment rating for a severe nasal deformity affecting the physical appearance?",
+        "answer": "A severe nasal deformity affecting the physical appearance is rated as 0%-5% impairment of the whole person."
+    },
+    {
+        "question": "How is mild, unilateral, total facial paralysis rated in terms of impairment?",
+        "answer": "Mild, unilateral, total facial paralysis is rated as 0%-5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for facial abnormality involving loss of supporting structure without a cutaneous disorder?",
+        "answer": "Facial abnormality involving loss of supporting structure without a cutaneous disorder is rated as 6%-10% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with a stable scar on the cheek with loss of normal skin color and residual texture changes?",
+        "answer": "A stable scar on the cheek with loss of normal skin color and residual texture changes is rated as 3% impairment of the whole person."
+    },
+    {
+        "question": "How is partial obstruction of the laryngeal airway rated in terms of impairment?",
+        "answer": "Partial obstruction of the laryngeal airway is rated as 5%-10% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for bilateral vocal fold paralysis with permanent tracheostomy?",
+        "answer": "Bilateral vocal fold paralysis with permanent tracheostomy is rated as 11%-29% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with massive loss of normal facial structural integrity?",
+        "answer": "Massive loss of normal facial structural integrity is rated as 40% impairment of the whole person."
+    },
+    {
+        "question": "How is severe, bilateral, total facial paralysis rated in terms of impairment?",
+        "answer": "Severe, bilateral, total facial paralysis is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for the loss of the entire nose?",
+        "answer": "The loss of the entire nose is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "How is a gunshot wound to the face with partial loss of the nose rated in terms of impairment?",
+        "answer": "A gunshot wound to the face with partial loss of the nose is rated as 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with severe, unilateral, total facial paralysis?",
+        "answer": "Severe, unilateral, total facial paralysis is rated as 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "How is a nasal distortion that affects physical appearance rated in terms of impairment?",
+        "answer": "A nasal distortion that affects physical appearance is rated as 0%-5% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for mild, bilateral, total facial paralysis?",
+        "answer": "Mild, bilateral, total facial paralysis is rated as 11%-15% impairment of the whole person."
+    },
+    {
+        "question": "How is a chronic vestibular disorder rated in terms of impairment?",
+        "answer": "A chronic vestibular disorder is rated as 31%-60% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with severe facial disfigurement involving loss of a major portion of the nose?",
+        "answer": "Severe facial disfigurement involving loss of a major portion of the nose is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "How is severe facial disfigurement involving the loss of entire normal facial contours rated in terms of impairment?",
+        "answer": "Severe facial disfigurement involving the loss of entire normal facial contours is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "What is the impairment rating for a severe facial injury resulting in the loss of the entire right side of the face?",
+        "answer": "A severe facial injury resulting in the loss of the entire right side of the face is rated as 25% impairment of the whole person."
+    },
+    {
+        "question": "How is severe facial disfigurement involving the loss of the nasal septum rated in terms of impairment?",
+        "answer": "Severe facial disfigurement involving the loss of the nasal septum is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "What percentage of impairment is associated with facial disfigurement resulting from extensive scarring?",
+        "answer": "Facial disfigurement resulting from extensive scarring is rated as 16%-50% impairment of the whole person."
+    },
+    {
+        "question": "How is a facial injury resulting in the loss of the left orbital structures rated in terms of impairment?",
+        "answer": "A facial injury resulting in the loss of the left orbital structures is rated as 40% impairment of the whole person."
+    },
+
+  {
+    "question": "What percentage of whole person impairment is due to total facial paralysis on one side?",
+    "answer": "Severe, unilateral, total facial paralysis results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with mild, bilateral, total facial paralysis?",
+    "answer": "Mild, bilateral, total facial paralysis results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "How is facial disfigurement classified if it involves the loss of entire nose?",
+    "answer": "Loss of the entire nose results in a Class 4 facial disfigurement, which is a 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What level of impairment does severe, bilateral, total facial paralysis fall under?",
+    "answer": "Severe, bilateral, total facial paralysis is classified as a Class 4 impairment, which ranges from 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What impairment rating is given to a person with a facial abnormality involving absence of a normal anatomical part of the face?",
+    "answer": "A facial abnormality involving the absence of a normal anatomical part of the face results in a Class 3 impairment, which is 11%-15% impairment of the whole person."
+  },
+  {
+    "question": "What class of impairment is a facial abnormality involving loss of supporting structure of part of face?",
+    "answer": "A facial abnormality involving loss of supporting structure of part of the face results in a Class 2 impairment, which is 6%-10% impairment of the whole person."
+  },
+  {
+    "question": "How is a 25-year-old woman rated for impairment after a baseball bat injury that resulted in a small scar on the nose?",
+    "answer": "The impairment rating is 1% impairment of the whole person."
+  },
+  {
+    "question": "What is the whole person impairment rating for loss of a major portion of the nose?",
+    "answer": "The loss of a major portion of the nose results in a 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for loss of entire nose according to the criteria?",
+    "answer": "Loss of entire nose results in a 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe disfigurement above the brow line?",
+    "answer": "Severe disfigurement above the brow line is deemed to be a maximum of 1% impairment of the whole person."
+  },
+  {
+    "question": "What rating is given to a 35-year-old man who sustained crush injury to the right facial region?",
+    "answer": "The impairment rating is 10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 36-year-old man with facial disfigurement due to loss of skin and bones on the left side of the face?",
+    "answer": "The impairment rating is 25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage of impairment is due to massive loss of normal structural integrity of the face and loss of normal speech function?",
+    "answer": "This condition results in a 25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 45-year-old woman who sustained severe electrical injury to the face?",
+    "answer": "The impairment rating is 26% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for loss of entire nasal septum cartilage and tip?",
+    "answer": "The impairment rating is 25% impairment of the whole person."
+  },
+  {
+    "question": "What impairment rating is given for a person with mild to moderate enophthalmos of right orbit?",
+    "answer": "The impairment rating is 10% impairment of the whole person."
+  },
+  {
+    "question": "How is the impairment rating calculated for massive loss of normal structural integrity of one side of the face?",
+    "answer": "The impairment rating is 25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe disfigurement below the upper lip?",
+    "answer": "Severe disfigurement below the upper lip may be deemed to be 8% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for total loss of vision in one eye?",
+    "answer": "Total loss of vision in one eye is combined with the 15% impairment for loss of the eye itself."
+  },
+  {
+    "question": "What is the impairment rating for a person with loss of the left eye and prosthetic eye replacement?",
+    "answer": "The impairment rating is 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with structural integrity loss of skin and frontal bone after injury?",
+    "answer": "The impairment rating is 6% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek due to a gunshot wound?",
+    "answer": "The impairment rating is 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 34-year-old man with severe infection and loss of facial structures after a bull injury?",
+    "answer": "The impairment rating is 25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a woman with severe electrical injury and loss of facial structures?",
+    "answer": "The impairment rating is 26% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for loss of normal articulatory function due to facial injury?",
+    "answer": "The impairment rating is 25% impairment of the whole person."
+  },
+  {
+    "question": "How is the impairment rating determined for facial disfigurement with severe infection and multiple surgeries?",
+    "answer": "The impairment rating is 25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with nasal bone fractures and mild enophthalmos?",
+    "answer": "The impairment rating is 10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a 36-year-old man with loss of facial structures on the left side?",
+    "answer": "The impairment rating is 26% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with massive facial disfigurement and loss of nasal structures?",
+    "answer": "The impairment rating is 25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 35-year-old woman with facial disfigurement and pigment changes?",
+    "answer": "The impairment rating is 6% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a 1.5-cm scar on the nose after a baseball bat injury?",
+    "answer": "The impairment rating is 1% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for total facial paralysis on one side?",
+    "answer": "Severe, unilateral, total facial paralysis results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a severe, bilateral, total facial paralysis?",
+    "answer": "Severe, bilateral, total facial paralysis is classified as a Class 4 impairment, which ranges from 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage of whole person impairment is due to facial disfigurement involving loss of part of the nose?",
+    "answer": "A facial abnormality involving loss of part of the nose results in an 11%-15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with mild, bilateral, total facial paralysis?",
+    "answer": "Mild, bilateral, total facial paralysis results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "How is facial disfigurement classified if it involves the loss of a major portion of the nose?",
+    "answer": "Loss of a major portion of the nose results in a Class 4 facial disfigurement, which is a 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What level of impairment does a facial abnormality involving loss of supporting structure of part of the face fall under?",
+    "answer": "A facial abnormality involving loss of supporting structure of part of the face results in a Class 2 impairment, which is 6%-10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a small scar on the nose due to an injury?",
+    "answer": "The impairment rating is 1% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for total loss of vision in one eye?",
+    "answer": "Total loss of vision in one eye is combined with the 15% impairment for loss of the eye itself."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe disfigurement below the brow line?",
+    "answer": "Severe disfigurement below the brow line may be deemed to be 8% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 45-year-old woman who sustained a severe electrical injury to the face?",
+    "answer": "The impairment rating is 26% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for massive loss of normal structural integrity of the face?",
+    "answer": "Massive loss of normal structural integrity of the face results in a 25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with mild enophthalmos of the right orbit?",
+    "answer": "The impairment rating is 10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for loss of supporting structure of part of the face?",
+    "answer": "Loss of supporting structure of part of the face results in a 6%-10% impairment of the whole person."
+  },
+  {
+    "question": "What impairment rating is given for severe facial disfigurement due to loss of skin and bones?",
+    "answer": "Severe facial disfigurement due to loss of skin and bones results in a 25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe, unilateral, total facial paralysis?",
+    "answer": "Severe, unilateral, total facial paralysis results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe disfigurement above the upper lip?",
+    "answer": "Severe disfigurement above the upper lip may be deemed to be 8% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 36-year-old man with facial disfigurement and pigment changes?",
+    "answer": "The impairment rating is 6% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for mild, bilateral, total facial paralysis?",
+    "answer": "Mild, bilateral, total facial paralysis results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe infection and loss of facial structures?",
+    "answer": "Severe infection and loss of facial structures result in a 25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for loss of normal speech function due to facial injury?",
+    "answer": "Loss of normal speech function due to facial injury results in a 25% impairment of the whole person."
+  },
+  {
+    "question": "What impairment rating is given for facial disfigurement involving absence of a normal anatomical part of the face?",
+    "answer": "A facial abnormality involving the absence of a normal anatomical part of the face results in a Class 3 impairment, which is 11%-15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe disfigurement above the brow line?",
+    "answer": "Severe disfigurement above the brow line may be deemed to be a maximum of 1% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for loss of the left eye with prosthetic eye replacement?",
+    "answer": "Loss of the left eye with prosthetic eye replacement results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 35-year-old man with facial disfigurement due to a crush injury?",
+    "answer": "The impairment rating is 10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek?",
+    "answer": "A significant scar on the cheek results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 34-year-old man with severe infection after a bull injury?",
+    "answer": "The impairment rating is 25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a gunshot wound resulting in facial disfigurement?",
+    "answer": "A gunshot wound resulting in facial disfigurement results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe disfigurement below the upper lip?",
+    "answer": "Severe disfigurement below the upper lip may be deemed to be 8% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for mild enophthalmos of the right orbit?",
+    "answer": "Mild enophthalmos of the right orbit results in a 10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe facial disfigurement due to loss of normal articulatory function?",
+    "answer": "Severe facial disfigurement due to loss of normal articulatory function results in a 25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for total facial paralysis on both sides?",
+    "answer": "Severe, bilateral, total facial paralysis is classified as a Class 4 impairment, which ranges from 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for loss of a major portion of the nose?",
+    "answer": "Loss of a major portion of the nose results in a 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe infection and loss of normal structural integrity of the face?",
+    "answer": "Severe infection and loss of normal structural integrity of the face results in a 25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe disfigurement below the brow line?",
+    "answer": "Severe disfigurement below the brow line may be deemed to be a maximum of 1% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe disfigurement above the upper lip?",
+    "answer": "Severe disfigurement above the upper lip may be deemed to be 8% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement and loss of supporting structures?",
+    "answer": "Severe facial disfigurement and loss of supporting structures result in a 6%-10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for mild to moderate enophthalmos?",
+    "answer": "Mild to moderate enophthalmos results in a 10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a gunshot wound?",
+    "answer": "Severe facial disfigurement due to a gunshot wound results in a 15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for loss of the entire nose?",
+    "answer": "Loss of the entire nose results in a 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to multiple surgeries?",
+    "answer": "Severe facial disfigurement due to multiple surgeries results in a 25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a small scar on the nose?",
+    "answer": "A small scar on the nose results in a 1% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe facial disfigurement due to a crush injury?",
+    "answer": "Severe facial disfigurement due to a crush injury results in a 10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe facial disfigurement due to pigment changes?",
+    "answer": "Severe facial disfigurement due to pigment changes results in a 6% impairment of the whole person."
+  },
+
+  {
+    "question": "What is the impairment rating for a 35-year-old woman who sustained a gunshot wound to the face, resulting in the loss of part of the left side of her nose and a scar on her left cheek?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 55-year-old man who lost his left eye due to a work-related injury?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 34-year-old man who sustained massive facial injuries after being kicked by a bull, resulting in loss of normal skin and muscle on the right side of his face and requiring facial prostheses?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "How is total facial disfigurement after treatment classified in terms of impairment of the whole person?",
+    "answer": "16% to 50% impairment of the whole person, depending on the degree of functional loss."
+  },
+  {
+    "question": "What is the impairment rating for a 35-year-old woman with a small, stable scar on the dorsum of her nose from a compound nasal bone fracture?",
+    "answer": "1% impairment of the whole person."
+  },
+  {
+    "question": "What criteria are used to evaluate permanent impairment due to facial disorders and/or disfigurement?",
+    "answer": "Consider changes in anatomy and function and the effect of the impairment on the ability to perform activities of daily living."
+  },
+  {
+    "question": "What is the impairment rating for a 35-year-old man who sustained multiple facial fractures and has a sunken appearance of his right eye and cheekbone?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 45-year-old woman with a stable scar on her right cheek and healed fracture?",
+    "answer": "3% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a facial abnormality that involves loss of supporting structure of part of the face, such as depressed cheek, nasal, or frontal bones?",
+    "answer": "6%-10% impairment of the whole person."
+  },
+  {
+    "question": "What impairment class is given for severe, unilateral, total facial paralysis or mild, bilateral, total facial paralysis?",
+    "answer": "Class 3, which corresponds to 11%-15% impairment of the whole person."
+  },
+  {
+    "question": "What are the primary factors considered in evaluating impairment due to facial disorders and/or disfigurement?",
+    "answer": "Changes in anatomy and function and the impact on the ability to perform activities of daily living."
+  },
+  {
+    "question": "What is the impairment rating for a person with total distortion of normal facial anatomy and severe disfigurement precluding social acceptance?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 25-year-old woman with a small scar on her nose from a baseball bat injury?",
+    "answer": "1% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a facial abnormality limited to a disorder of cutaneous structures, such as visible scars or abnormal pigmentation?",
+    "answer": "0%-5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 35-year-old woman with a scar and nasal distortion from a box falling on her face?",
+    "answer": "6% impairment of the whole person."
+  },
+  {
+    "question": "What class of impairment is associated with mild, unilateral, total facial paralysis?",
+    "answer": "Class 1, which corresponds to 0%-5% impairment of the whole person."
+  },
+  {
+    "question": "What class of impairment is given for severe, bilateral, total facial paralysis?",
+    "answer": "Class 4, which corresponds to 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for loss of the entire nose?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for loss of skin and cartilage on the tip of the nose and a significant scar on the cheek?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a loss of a major portion of or the entire nose?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe disfigurement below the upper lip?",
+    "answer": "8% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe disfigurement above the brow line?",
+    "answer": "1% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person who underwent multiple surgeries due to facial injuries and now has altered speech and dietary restrictions?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 36-year-old man with scars and nasal bone fractures resulting in a wider and flatter nose?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What class of impairment is given for mild, bilateral, total facial paralysis?",
+    "answer": "Class 3, which corresponds to 11%-15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the cheek and a loss of nasal cartilage?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a facial abnormality involving absence of a normal anatomic part, such as loss of an eye or part of the nose?",
+    "answer": "11%-15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a facial abnormality involving loss of supporting structures, such as soft tissue, bone, or cartilage of the facial skeleton?",
+    "answer": "6%-10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a facial abnormality limited to visible scars or abnormal pigmentation?",
+    "answer": "0%-5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a prosthetic eye due to a fishing accident?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with loss of function of the left eye replaced by a prosthetic eye?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a stable scar and loss of normal skin color and texture on the cheek?",
+    "answer": "3% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a facial abnormality involving massive or total distortion of normal facial anatomy with severe disfigurement?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person who developed severe infection and required multiple surgeries resulting in the loss of normal skin and muscle on one side of the face?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the cheek and loss of nasal cartilage, affecting self-image?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person who underwent reconstructive surgery to correct a cosmetic defect but still has a significant scar and loss of anatomical part on the face?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with loss of normal skin, muscles, and bone structures on one side of the face and altered speech?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a facial abnormality involving loss of normal anatomical part or area, such as loss of an eye, with resulting cosmetic deformity?",
+    "answer": "11%-15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a prosthetic eye and total loss of vision in that eye?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for severe, grossly deforming disfigurement of the entire face after treatment?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a facial abnormality limited to nasal distortion that affects physical appearance?",
+    "answer": "0%-5% impairment of the whole person."
+  },
+  {
+    "question": "What class of impairment is given for a facial abnormality involving the absence of a normal anatomic part of the face with resulting cosmetic deformity?",
+    "answer": "Class 2, which corresponds to 6%-10% impairment of the whole person."
+  },
+  {
+    "question": "What class of impairment is given for severe, grossly deforming disfigurement involving the entire face?",
+    "answer": "Class 4, which corresponds to 16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 45-year-old man with a prosthetic eye and a scar from an eye injury?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 40-year-old woman with loss of normal skin and muscle on the left side of her face due to an animal bite?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a large, stable scar on the cheek from a burn injury?",
+    "answer": "10% impairment of the whole person."
+  },
+
+  {
+    "question": "What is the impairment rating for a person with significant nasal deformity due to a traumatic injury?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a stable scar on the cheek from a laceration?",
+    "answer": "3% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with loss of normal skin and muscle on the left side of the face due to a dog bite?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the lip?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 45-year-old woman with a severe nasal fracture and a stable scar on the dorsum of her nose?",
+    "answer": "6% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe facial disfigurement due to burns?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a loss of a portion of the lower lip due to a traumatic injury?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for loss of the upper lip?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 50-year-old man with a prosthetic eye and loss of normal facial structure due to an orbital fracture?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a mild deformity of the zygomatic bone?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe mandibular fractures resulting in significant facial disfigurement?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe disfigurement of the temporal bone due to a traumatic injury?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek from a laceration?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a 40-year-old woman with significant facial disfigurement due to multiple burns?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with severe disfigurement due to a fracture of the frontal bone?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the cheekbone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with loss of the nasal septum due to a traumatic injury?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with a significant scar on the forehead from a laceration?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with loss of normal skin and muscle on the right side of the face due to a car accident?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe facial disfigurement due to mandibular fractures?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the nose from a dog bite?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe disfigurement of the orbital bone due to a fracture?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek due to an old injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the lower lip from a traumatic injury?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with severe facial disfigurement due to nasal deformities?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the upper lip due to an old injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a temporal bone fracture?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the lip from a laceration?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to burns?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek from a traumatic injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a fracture of the frontal bone?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the forehead from an old injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe facial disfigurement due to a fracture of the zygomatic bone?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the lower lip from a car accident?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with severe facial disfigurement due to mandibular fractures?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the nasal bone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek from an old injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to nasal deformities?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a temporal bone fracture?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the forehead from a laceration?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the cheekbone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe facial disfigurement due to burns?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the upper lip from a laceration?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the lip from a dog bite?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the zygomatic bone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the lower lip from a laceration?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a nasal deformity?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek from a laceration?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a fracture of the frontal bone?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the forehead from an old injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe facial disfigurement due to a fracture of the zygomatic bone?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the lower lip from a car accident?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with severe facial disfigurement due to mandibular fractures?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the nasal bone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek from an old injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to nasal deformities?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a temporal bone fracture?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the forehead from a laceration?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the cheekbone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe facial disfigurement due to burns?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the upper lip from a laceration?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the lip from a dog bite?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the zygomatic bone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the lower lip from a laceration?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a nasal deformity?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek from a laceration?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a fracture of the frontal bone?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the forehead from an old injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for severe facial disfigurement due to a fracture of the zygomatic bone?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant scar on the lower lip from a car accident?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with severe facial disfigurement due to mandibular fractures?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the nasal bone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the cheek from an old injury?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to nasal deformities?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to a temporal bone fracture?",
+    "answer": "16%-50% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a significant scar on the forehead from a laceration?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe deformity of the cheekbone due to an old fracture?",
+    "answer": "10% impairment of the whole person."
+  },
+  
+  {
+    "question": "What is the impairment rating for a person with a minor nasal fracture with no functional impairment?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with moderate deformity of the nasal bone resulting in breathing difficulties?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with a nasal bone fracture resulting in a mild cosmetic deformity?",
+    "answer": "5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe mandibular injury leading to difficulty in mastication?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a moderate mandibular fracture that has healed with slight malalignment?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with an orbital injury resulting in double vision?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a minor orbital fracture with no vision impairment?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a significant temporal bone injury leading to facial nerve paralysis?",
+    "answer": "25% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with a minor temporal bone injury resulting in mild hearing loss?",
+    "answer": "5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe zygomatic injury causing asymmetry of the face?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a minor zygomatic fracture with no residual deformity?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with a facial scar that causes psychological distress?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with multiple facial scars that do not affect function or appearance significantly?",
+    "answer": "5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement from a traumatic injury?",
+    "answer": "30% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with moderate facial disfigurement that affects social interactions?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with maxillofacial trauma resulting in significant jaw misalignment?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with maxillofacial trauma leading to chronic pain?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with nasal deformity corrected by surgery with no residual effects?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a severe nasal fracture resulting in loss of smell?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with mild mandibular fracture with no functional impairment?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a severe mandibular fracture causing chronic pain?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a minor orbital injury resulting in temporary vision impairment?",
+    "answer": "5% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with severe orbital injury causing permanent vision loss?",
+    "answer": "30% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with temporal bone injury leading to vertigo?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with minor temporal bone injury with no lasting effects?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe zygomatic fracture resulting in facial asymmetry and pain?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a minor zygomatic fracture that healed without complications?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with facial scars that significantly affect appearance and confidence?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with mild facial scars that do not affect function?",
+    "answer": "5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to burns?",
+    "answer": "30% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with moderate facial disfigurement from a laceration injury?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with maxillofacial trauma resulting in difficulty chewing?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with maxillofacial trauma causing speech difficulties?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with nasal injury resulting in chronic sinusitis?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a minor nasal injury with no long-term effects?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with severe mandibular injury leading to misalignment and chronic pain?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a moderate mandibular fracture healed with slight malocclusion?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with an orbital injury resulting in partial vision loss?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with a minor orbital injury that resolved without intervention?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe temporal bone injury resulting in hearing loss?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a minor temporal bone injury with no lasting impact?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with a severe zygomatic fracture causing significant facial disfigurement?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with minor zygomatic injury that healed without deformity?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with facial scars causing significant emotional distress?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with minor facial scars that do not affect daily activities?",
+    "answer": "5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement from chemical burns?",
+    "answer": "30% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with moderate facial disfigurement due to an old injury?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with maxillofacial trauma causing difficulties in eating?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with maxillofacial trauma that results in chronic jaw pain?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with nasal injury leading to chronic breathing issues?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with minor nasal injury that healed completely?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe mandibular injury causing significant chewing problems?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with moderate mandibular fracture with slight alignment issues?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with an orbital injury leading to partial vision impairment?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a minor orbital injury that resolved without any long-term issues?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe temporal bone injury resulting in significant hearing loss?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with minor temporal bone injury with no residual effects?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a severe zygomatic fracture causing noticeable facial asymmetry?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with a minor zygomatic injury that healed without any noticeable deformity?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with facial scars that significantly impact self-esteem?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with minor facial scars that do not impact functionality?",
+    "answer": "5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement due to severe burns?",
+    "answer": "30% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with moderate facial disfigurement caused by trauma?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with maxillofacial trauma leading to significant jaw pain?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with maxillofacial trauma causing chronic discomfort?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with nasal injury that results in ongoing sinus problems?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with minor nasal injury that healed without any complications?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe mandibular injury resulting in long-term jaw misalignment?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with moderate mandibular fracture that healed with minor malocclusion?",
+    "answer": "10% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with orbital injury causing significant visual impairment?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with minor orbital injury that resolved without lasting issues?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with severe temporal bone injury causing major hearing loss?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with minor temporal bone injury with no long-term effects?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe zygomatic fracture resulting in significant facial deformity?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with minor zygomatic injury that healed without any noticeable issues?",
+    "answer": "0% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with facial scars that have a major impact on their quality of life?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with minor facial scars that do not affect daily life?",
+    "answer": "5% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with severe facial disfigurement caused by traumatic burns?",
+    "answer": "30% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with moderate facial disfigurement due to an accident?",
+    "answer": "15% impairment of the whole person."
+  },
+  {
+    "question": "What percentage impairment is given for a person with maxillofacial trauma causing significant eating difficulties?",
+    "answer": "20% impairment of the whole person."
+  },
+  {
+    "question": "What is the impairment rating for a person with maxillofacial trauma resulting in long-term pain?",
+    "answer": "15% impairment of the whole person."
+  }
+
+
+]
+
+
+
+
+
+
+
+
+
+

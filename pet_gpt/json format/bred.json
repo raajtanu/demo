@@ -1,0 +1,379 @@
+{
+  "dogBreeds": [
+    {
+      "breed": "Golden Retriever",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Golden Retriever?",
+          "answer": "The Golden Retriever originated in Scotland in the mid-19th century."
+        },
+        {
+          "question": "What is the temperament of a Golden Retriever?",
+          "answer": "Golden Retrievers are friendly, intelligent, and devoted."
+        },
+        {
+          "question": "How much exercise does a Golden Retriever need?",
+          "answer": "Golden Retrievers need at least an hour of exercise daily."
+        },
+        {
+          "question": "Are Golden Retrievers good with children?",
+          "answer": "Yes, Golden Retrievers are known to be great with children due to their gentle and friendly nature."
+        },
+        {
+          "question": "What is the average lifespan of a Golden Retriever?",
+          "answer": "The average lifespan of a Golden Retriever is around 10-12 years."
+        }
+      ]
+    },
+    {
+      "breed": "German Shepherd",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the German Shepherd?",
+          "answer": "The German Shepherd originated in Germany in the late 19th century."
+        },
+        {
+          "question": "What is the temperament of a German Shepherd?",
+          "answer": "German Shepherds are courageous, confident, and smart."
+        },
+        {
+          "question": "How much exercise does a German Shepherd need?",
+          "answer": "German Shepherds need at least two hours of exercise daily."
+        },
+        {
+          "question": "Are German Shepherds good guard dogs?",
+          "answer": "Yes, German Shepherds are excellent guard dogs due to their protective and alert nature."
+        },
+        {
+          "question": "What is the average lifespan of a German Shepherd?",
+          "answer": "The average lifespan of a German Shepherd is around 9-13 years."
+        }
+      ]
+    },
+    {
+      "breed": "Poodle",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Poodle?",
+          "answer": "The Poodle originated in Germany as a water retriever, but is also closely associated with France."
+        },
+        {
+          "question": "What is the temperament of a Poodle?",
+          "answer": "Poodles are active, proud, and very smart."
+        },
+        {
+          "question": "How much exercise does a Poodle need?",
+          "answer": "Poodles need about an hour of exercise daily."
+        },
+        {
+          "question": "Are Poodles hypoallergenic?",
+          "answer": "Yes, Poodles are considered hypoallergenic due to their curly, non-shedding coats."
+        },
+        {
+          "question": "What is the average lifespan of a Poodle?",
+          "answer": "The average lifespan of a Poodle is around 12-15 years."
+        }
+      ]
+    },
+    {
+      "breed": "Bulldog",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Bulldog?",
+          "answer": "The Bulldog originated in England and was originally used for bull baiting."
+        },
+        {
+          "question": "What is the temperament of a Bulldog?",
+          "answer": "Bulldogs are calm, courageous, and friendly."
+        },
+        {
+          "question": "How much exercise does a Bulldog need?",
+          "answer": "Bulldogs need moderate exercise, about 30 minutes a day."
+        },
+        {
+          "question": "Are Bulldogs good with children?",
+          "answer": "Yes, Bulldogs are known to be very good with children due to their gentle and protective nature."
+        },
+        {
+          "question": "What is the average lifespan of a Bulldog?",
+          "answer": "The average lifespan of a Bulldog is around 8-10 years."
+        }
+      ]
+    },
+    {
+      "breed": "Beagle",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Beagle?",
+          "answer": "The Beagle originated in England and has been used as a hunting dog for centuries."
+        },
+        {
+          "question": "What is the temperament of a Beagle?",
+          "answer": "Beagles are curious, friendly, and merry."
+        },
+        {
+          "question": "How much exercise does a Beagle need?",
+          "answer": "Beagles need at least an hour of exercise daily."
+        },
+        {
+          "question": "Are Beagles good with other pets?",
+          "answer": "Yes, Beagles are generally good with other pets due to their sociable nature."
+        },
+        {
+          "question": "What is the average lifespan of a Beagle?",
+          "answer": "The average lifespan of a Beagle is around 12-15 years."
+        }
+      ]
+    },
+    {
+      "breed": "Labrador Retriever",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Labrador Retriever?",
+          "answer": "The Labrador Retriever originated in Newfoundland, Canada."
+        },
+        {
+          "question": "What is the temperament of a Labrador Retriever?",
+          "answer": "Labrador Retrievers are friendly, outgoing, and high-spirited."
+        },
+        {
+          "question": "How much exercise does a Labrador Retriever need?",
+          "answer": "Labrador Retrievers need at least an hour of exercise daily."
+        },
+        {
+          "question": "Are Labrador Retrievers good family pets?",
+          "answer": "Yes, Labrador Retrievers are excellent family pets due to their friendly and gentle nature."
+        },
+        {
+          "question": "What is the average lifespan of a Labrador Retriever?",
+          "answer": "The average lifespan of a Labrador Retriever is around 10-12 years."
+        }
+      ]
+    },
+    {
+      "breed": "Dachshund",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Dachshund?",
+          "answer": "The Dachshund originated in Germany and was bred to hunt badgers."
+        },
+        {
+          "question": "What is the temperament of a Dachshund?",
+          "answer": "Dachshunds are clever, lively, and courageous."
+        },
+        {
+          "question": "How much exercise does a Dachshund need?",
+          "answer": "Dachshunds need moderate exercise, about 30-60 minutes daily."
+        },
+        {
+          "question": "Are Dachshunds good with children?",
+          "answer": "Yes, Dachshunds can be good with children but should be supervised due to their energetic nature."
+        },
+        {
+          "question": "What is the average lifespan of a Dachshund?",
+          "answer": "The average lifespan of a Dachshund is around 12-16 years."
+        }
+      ]
+    },
+    {
+      "breed": "Siberian Husky",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Siberian Husky?",
+          "answer": "The Siberian Husky originated in Siberia, Russia."
+        },
+        {
+          "question": "What is the temperament of a Siberian Husky?",
+          "answer": "Siberian Huskies are friendly, outgoing, and energetic."
+        },
+        {
+          "question": "How much exercise does a Siberian Husky need?",
+          "answer": "Siberian Huskies need at least two hours of exercise daily."
+        },
+        {
+          "question": "Are Siberian Huskies good with other dogs?",
+          "answer": "Yes, Siberian Huskies are generally good with other dogs due to their pack-oriented nature."
+        },
+        {
+          "question": "What is the average lifespan of a Siberian Husky?",
+          "answer": "The average lifespan of a Siberian Husky is around 12-14 years."
+        }
+      ]
+    },
+    {
+      "breed": "Boxer",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Boxer?",
+          "answer": "The Boxer originated in Germany in the late 19th century."
+        },
+        {
+          "question": "What is the temperament of a Boxer?",
+          "answer": "Boxers are playful, energetic, and loyal."
+        },
+        {
+          "question": "How much exercise does a Boxer need?",
+          "answer": "Boxers need at least an hour of exercise daily."
+        },
+        {
+          "question": "Are Boxers good guard dogs?",
+          "answer": "Yes, Boxers are good guard dogs due to their protective nature."
+        },
+        {
+          "question": "What is the average lifespan of a Boxer?",
+          "answer": "The average lifespan of a Boxer is around 10-12 years."
+        }
+      ]
+    },
+    {
+      "breed": "Yorkshire Terrier",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Yorkshire Terrier?",
+          "answer": "The Yorkshire Terrier originated in England during the 19th century."
+        },
+        {
+          "question": "What is the temperament of a Yorkshire Terrier?",
+          "answer": "Yorkshire Terriers are energetic, feisty, and brave."
+        },
+        {
+          "question": "How much exercise does a Yorkshire Terrier need?",
+          "answer": "Yorkshire Terriers need about 30 minutes of exercise daily."
+        },
+        {
+          "question": "Are Yorkshire Terriers good for apartments?",
+          "answer": "Yes, Yorkshire Terriers are well-suited for apartment living due to their small size."
+        },
+        {
+          "question": "What is the average lifespan of a Yorkshire Terrier?",
+          "answer": "The average lifespan of a Yorkshire Terrier is around 11-15 years."
+        }
+      ]
+    },
+    {
+      "breed": "Shih Tzu",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Shih Tzu?",
+          "answer": "The Shih Tzu originated in Tibet and was developed further in China."
+        },
+        {
+          "question": "What is the temperament of a Shih Tzu?",
+          "answer": "Shih Tzus are outgoing, affectionate, and alert."
+        },
+        {
+          "question": "How much exercise does a Shih Tzu need?",
+          "answer": "Shih Tzus need about 20-30 minutes of exercise daily."
+        },
+        {
+          "question": "Are Shih Tzus good with children?",
+          "answer": "Yes, Shih Tzus are generally good with children due to their friendly and gentle nature."
+        },
+        {
+          "question": "What is the average lifespan of a Shih Tzu?",
+          "answer": "The average lifespan of a Shih Tzu is around 10-16 years."
+        }
+      ]
+    },
+    {
+      "breed": "Cocker Spaniel",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Cocker Spaniel?",
+          "answer": "The Cocker Spaniel originated in Spain but was developed further in England."
+        },
+        {
+          "question": "What is the temperament of a Cocker Spaniel?",
+          "answer": "Cocker Spaniels are gentle, smart, and happy."
+        },
+        {
+          "question": "How much exercise does a Cocker Spaniel need?",
+          "answer": "Cocker Spaniels need about an hour of exercise daily."
+        },
+        {
+          "question": "Are Cocker Spaniels good with other pets?",
+          "answer": "Yes, Cocker Spaniels are generally good with other pets due to their friendly nature."
+        },
+        {
+          "question": "What is the average lifespan of a Cocker Spaniel?",
+          "answer": "The average lifespan of a Cocker Spaniel is around 12-15 years."
+        }
+      ]
+    },
+    {
+      "breed": "French Bulldog",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the French Bulldog?",
+          "answer": "The French Bulldog originated in England but was developed further in France."
+        },
+        {
+          "question": "What is the temperament of a French Bulldog?",
+          "answer": "French Bulldogs are adaptable, playful, and smart."
+        },
+        {
+          "question": "How much exercise does a French Bulldog need?",
+          "answer": "French Bulldogs need moderate exercise, about 30 minutes daily."
+        },
+        {
+          "question": "Are French Bulldogs good for apartments?",
+          "answer": "Yes, French Bulldogs are well-suited for apartment living due to their small size."
+        },
+        {
+          "question": "What is the average lifespan of a French Bulldog?",
+          "answer": "The average lifespan of a French Bulldog is around 10-12 years."
+        }
+      ]
+    },
+    {
+      "breed": "Great Dane",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Great Dane?",
+          "answer": "The Great Dane originated in Germany and was used for hunting large game."
+        },
+        {
+          "question": "What is the temperament of a Great Dane?",
+          "answer": "Great Danes are friendly, patient, and dependable."
+        },
+        {
+          "question": "How much exercise does a Great Dane need?",
+          "answer": "Great Danes need moderate exercise, about 30-60 minutes daily."
+        },
+        {
+          "question": "Are Great Danes good with children?",
+          "answer": "Yes, Great Danes are generally good with children due to their gentle and friendly nature."
+        },
+        {
+          "question": "What is the average lifespan of a Great Dane?",
+          "answer": "The average lifespan of a Great Dane is around 7-10 years."
+        }
+      ]
+    },
+    {
+      "breed": "Rottweiler",
+      "questionsAndAnswers": [
+        {
+          "question": "What is the origin of the Rottweiler?",
+          "answer": "The Rottweiler originated in Germany and was used for herding livestock and pulling carts."
+        },
+        {
+          "question": "What is the temperament of a Rottweiler?",
+          "answer": "Rottweilers are confident, fearless, and good-natured."
+        },
+        {
+          "question": "How much exercise does a Rottweiler need?",
+          "answer": "Rottweilers need at least an hour of exercise daily."
+        },
+        {
+          "question": "Are Rottweilers good guard dogs?",
+          "answer": "Yes, Rottweilers are excellent guard dogs due to their protective and loyal nature."
+        },
+        {
+          "question": "What is the average lifespan of a Rottweiler?",
+          "answer": "The average lifespan of a Rottweiler is around 8-10 years."
+        }
+      ]
+    }
+  ]
+}

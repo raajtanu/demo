@@ -1,0 +1,110 @@
+
+
+[
+  {
+    "question": "What is the purpose of this chapter?",
+    "answer": "This chapter provides principles and methods for evaluating impairments of the ear, nose, throat, and related structures."
+  },
+  {
+    "question": "Should assistive devices be used during determination of a hearing impairment rating?",
+    "answer": "No, assistive devices must not be used during the determination of a hearing impairment rating, as they might give a false impression of a subject's sensitivity and distort the need to take hearing conservation or other indicated measures."
+  },
+  {
+    "question": "How should permanent impairments of the ear, nose, throat, and related structures be evaluated?",
+    "answer": "Permanent impairments of each system with nonoverlapping functional losses are evaluated separately and then combined."
+  },
+  {
+    "question": "What should be the basis for decisions about impairment?",
+    "answer": "Decisions about impairment should be based on obtaining objective data about the severity of the findings and the limitations, and integrating the findings with subjective data."
+  },
+  {
+    "question": "What are some of the tests used to investigate the ear, nose, throat, and related structures?",
+    "answer": "Some tests discussed in the chapter include electronystagmography, caloric irrigation, positional and rotatory tests, dynamic posturography, Romberg and tandem Romberg tests, and radiological brain imaging studies."
+  },
+  {
+    "question": "What are the main components of the ear?",
+    "answer": "The ear consists of the auricle, the external canal, the tympanic membrane, the ossicles, the middle ear, the eustachian tube, the mastoid, and the internal ear."
+  },
+  {
+    "question": "What are the functions of the auditory and vestibular systems?",
+    "answer": "The auditory and vestibular systems, including the ear and central nervous system pathways, provide sensorineural input critical to the senses of hearing and balance."
+  },
+  {
+    "question": "How is permanent hearing impairment defined?",
+    "answer": "Permanent hearing impairment is a permanently reduced hearing sensitivity, outside the range of normal for the individual or based on population normal values."
+  },
+  {
+    "question": "When should hearing impairment be evaluated?",
+    "answer": "Hearing impairment should be evaluated after maximum rehabilitation has been achieved and when the impairment is no longer accelerating beyond an age-appropriate rate."
+  },
+  {
+    "question": "How is hearing impairment evaluated?",
+    "answer": "Hearing impairment is evaluated based upon the individual's binaural hearing, determined from the pure-tone audiogram."
+  },
+  {
+    "question": "What is the criteria for rating impairment due to hearing loss?",
+    "answer": "The criteria for rating impairment due to hearing loss is based on the severity of the hearing loss, which accounts for changes in the ability to perform activities of daily living."
+  },
+  {
+    "question": "How is tinnitus accounted for in the impairment rating?",
+    "answer": "Up to 5% can be added for tinnitus in the presence of measurable hearing loss if the tinnitus impacts the ability to perform activities of daily living."
+  },
+  {
+    "question": "Should a correction for presbycusis be made in the calculation of a hearing impairment rating?",
+    "answer": "No, no correction for presbycusis should be made because the method calculates the degree of hearing and assigns a rating, regardless of cause, and age correction would underestimate the true magnitude of the hearing impairment."
+  },
+  {
+    "question": "What are the steps in determining hearing impairment from audiometric measurements?",
+    "answer": "The steps include: 1) Testing each ear separately with a pure-tone audiometer and recording hearing levels at specific frequencies, 2) Adding the hearing levels for each ear, 3) Consulting tables to determine monaural hearing impairment percentages, 4) Converting to binaural hearing impairment rating, 5) Converting to impairment of the whole person."
+  },
+  {
+    "question": "What does the term 'equilibrium' refer to?",
+    "answer": "Equilibrium, or orientation in space, refers to the maintenance of balance by the visual, kinesthetic, and vestibular mechanisms."
+  },
+  {
+    "question": "How are disturbances of equilibrium classified?",
+    "answer": "Disturbances of equilibrium are classified as: 1) vertigo, a sensation of rotation, 2) giddiness or lightheadedness, and 3) abnormalities of postural stability and/or standing balance with or without vertigo."
+  },
+  {
+    "question": "What systems are related to the vestibulo-ocular reflex?",
+    "answer": "The vestibular, ocular (visual), and kinesthetic (proprioceptive) systems are related to the vestibulo-ocular reflex."
+  },
+  {
+    "question": "What defects can result in permanent impairment related to equilibrium?",
+    "answer": "Permanent impairment can result from defects of the vestibular (labyrinthine) mechanism and its central connections, evidenced by loss of equilibrium produced by disturbance or loss of vestibular function."
+  },
+  {
+    "question": "How is vestibular impairment classified?",
+    "answer": "Vestibular impairment is classified into 5 classes from 0% to 95% impairment of the whole person, based on symptoms, objective findings, and ability to perform activities of daily living."
+  },
+  {
+    "question": "In which class is there 0% impairment of the whole person for vestibular disorders?",
+    "answer": "In Class 1, there are symptoms or signs of vestibular dysequilibrium present without supporting objective findings, and activities of daily living can be performed without assistance."
+  },
+  {
+    "question": "In which class is there 1-10% impairment of the whole person for vestibular disorders?", 
+    "answer": "In Class 2, there are symptoms or signs of vestibular dysequilibrium present with supporting objective findings, and activities of daily living can be performed without assistance, except for complex activities or certain demanding work activities."
+  },
+  {
+    "question": "In which class is there 11-30% impairment of the whole person for vestibular disorders?",
+    "answer": "In Class 3, there are symptoms or signs of vestibular dysequilibrium present with supporting objective findings, and activities of daily living cannot be performed without assistance, except for simple activities like self-care, some household duties, walking, and riding in a vehicle operated by someone else."
+  },
+  {
+    "question": "In which class is there 31-60% impairment of the whole person for vestibular disorders?",
+    "answer": "In Class 4, there are symptoms or signs of vestibular dysequilibrium present with supporting objective findings, and activities of daily living cannot be performed without assistance, except for self-care."
+  },
+  {
+    "question": "In which class is there 61-95% impairment of the whole person for vestibular disorders?",
+    "answer": "In Class 5, there are symptoms or signs of vestibular dysequilibrium present with supporting objective findings, and activities of daily living cannot be performed without assistance, except for self-care not requiring ambulation, and home confinement is necessary."
+  },
+  {
+    "question": "What is an example of a 0% impairment due to a vestibular disorder?",
+    "answer": "An example is a 70-year-old man with floating vestibular otoconia causing temporary dizziness, treated with the Epley maneuver, with no disruption of activities of daily living."
+  },
+  {
+    "question": "What is an example of a 1-10% impairment due to a vestibular disorder?",
+    "answer": "An example is a 50-year-old woman with total loss of vestibular function in one ear due to labyrinthitis, who can perform activities of daily living without assistance except for complex activities."
+  },
+  {
+    "question": "What is an example of an 11-30% impairment due to a vestibular disorder?", 
+    "answer": "An example is a 40-year-old nurse with a large
